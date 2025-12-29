@@ -1,0 +1,15 @@
+{
+  "title": "Hotlap Heroes",
+  "review_score_100": 75,
+  "max_players": 8,
+  "platforms": [
+    "Windows",
+    "macOS"
+  ],
+  "review_sources": [
+    "https://store.steampowered.com/app/676960/Hotlap_Heroes/"
+  ],
+  "notes": "Steam shows Positive: 81% of 16 reviews. Small sample lowers confidence.",
+  "raw_comment": "Top-down racing game for up to 8 local players. 2 keyboard players, up to 8 gamepads (XInput limit unverified), up to 8 phones as controllers. Shared screen.",
+  "last_updated": "2025-12-29"
+}

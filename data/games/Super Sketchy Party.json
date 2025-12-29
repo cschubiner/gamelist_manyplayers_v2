@@ -1,0 +1,16 @@
+{
+  "title": "Super Sketchy Party",
+  "review_score_100": 68,
+  "max_players": 12,
+  "platforms": [
+    "Windows",
+    "macOS"
+  ],
+  "review_sources": [
+    "https://store.steampowered.com/app/630560/Super_Sketchy_Party/",
+    "https://steamdb.info/app/630560/"
+  ],
+  "notes": "SteamDB shows 68.52% positive (132 reviews); Steam sentiment is mixed\u2011positive. Score reflects that.",
+  "raw_comment": "Drawing and guessing game. Multiple languages. 3-12 local or online players. Phones as controllers. Separate screens.",
+  "last_updated": "2025-12-29"
+}

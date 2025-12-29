@@ -1,0 +1,16 @@
+{
+  "title": "Funanigans: Party Games",
+  "review_score_100": 64,
+  "max_players": 8,
+  "platforms": [
+    "Windows",
+    "macOS"
+  ],
+  "review_sources": [
+    "https://store.steampowered.com/app/1389040/Funanigans_Party_Games/",
+    "https://steamdb.info/app/1389040/"
+  ],
+  "notes": "Steam shows Mixed (64% of 25). SteamDB shows 69.20% positive; small sample keeps score mid\u201160s.",
+  "raw_comment": "8 party games. Phones/ tablets as controllers: Phonanigans (4+), FictionaLies (2+), Drawkward (3+), It's a Trap! (3+), SaboDrawage (3+), CoDrawperate (4+), Tallynanigans (2+), Shenunigans (4+).",
+  "last_updated": "2025-12-29"
+}

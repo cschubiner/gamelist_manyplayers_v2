@@ -1,0 +1,23 @@
+{
+  "title": "Drawful 2",
+  "review_score_100": 94,
+  "max_players": 8,
+  "platforms": [
+    "Windows",
+    "macOS",
+    "Linux",
+    "PC",
+    "Nintendo Switch",
+    "PlayStation 4",
+    "Xbox One",
+    "iOS",
+    "Android"
+  ],
+  "review_sources": [
+    "https://store.steampowered.com/app/442070/Drawful_2/",
+    "https://www.metacritic.com/game/drawful-2/"
+  ],
+  "notes": "Steam shows Overwhelmingly Positive: 96% of 10,906 reviews. Metacritic metascore 71; blended score remains very high.",
+  "raw_comment": "Drawing based party game with phones or tablets as controllers for 3-8 players.",
+  "last_updated": "2025-12-29"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Obliteracers",
+  "review_score_100": 70,
+  "max_players": 16,
+  "platforms": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "review_sources": [
+    "https://store.steampowered.com/app/323370/Obliteracers/",
+    "https://www.metacritic.com/game/obliteracers/"
+  ],
+  "notes": "Steam shows Mixed (65% of 167). Metacritic metascore 78; blended to ~70.",
+  "raw_comment": "Micromachines style racing game up to 16 local players, same screen",
+  "last_updated": "2025-12-29"
+}

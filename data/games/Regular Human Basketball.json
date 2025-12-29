@@ -1,0 +1,17 @@
+{
+  "title": "Regular Human Basketball",
+  "review_score_100": 88,
+  "max_players": 10,
+  "platforms": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "review_sources": [
+    "https://store.steampowered.com/app/661940/Regular_Human_Basketball/",
+    "https://steambase.io/games/regular-human-basketball/reviews"
+  ],
+  "notes": "Steam shows Very Positive (93% of 213). Steambase player score 84; blended high\u201180s.",
+  "raw_comment": "2 teams cooperate to control their team\u2019s gigantic robot basketball player with rocket jets a magnetic arm and wheels. At least 10 local players confirmed. Online play supported. Same screen.",
+  "last_updated": "2025-12-29"
+}

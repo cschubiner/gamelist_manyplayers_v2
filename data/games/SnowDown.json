@@ -1,0 +1,15 @@
+{
+  "title": "SnowDown",
+  "review_score_100": 60,
+  "max_players": 12,
+  "platforms": [
+    "Windows"
+  ],
+  "review_sources": [
+    "https://store.steampowered.com/app/2792160/SnowDown/",
+    "https://steamdb.info/app/2792160/"
+  ],
+  "notes": "Steam has 3 reviews (no score). SteamDB shows 67.06% positive; tiny sample keeps score moderate.",
+  "raw_comment": "2D artillery game for up to 12 local players. Phone/smart devices as controllers. \ud83d\udcf1 12 phones using browsers. \ud83d\udda5\ufe0f Shared screen.",
+  "last_updated": "2025-12-29"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Asteroids: Multiplayer",
+  "review_score_100": 64,
+  "max_players": 16,
+  "platforms": [
+    "Windows"
+  ],
+  "review_sources": [
+    "https://store.steampowered.com/app/2335340/Asteroids_Multiplayer/",
+    "https://steamdb.info/app/2335340/"
+  ],
+  "notes": "Steam has 1 review (no score). SteamDB shows 64.08% positive (2 reviews); tiny sample keeps score mid\u201160s.",
+  "raw_comment": "Cooperative wave-based asteroid and enemy ship blasting game. Large ships and stations can be controlled by multiple players. No hard limit for number of players. Shared screen.",
+  "last_updated": "2025-12-29"
+}

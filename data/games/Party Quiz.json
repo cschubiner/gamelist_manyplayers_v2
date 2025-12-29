@@ -1,0 +1,16 @@
+{
+  "title": "Party Quiz",
+  "review_score_100": 70,
+  "max_players": 9,
+  "platforms": [
+    "Windows",
+    "Mobile (browser)"
+  ],
+  "review_sources": [
+    "https://store.steampowered.com/app/1560570/Party_Quiz/",
+    "https://steamdb.info/app/1560570/"
+  ],
+  "notes": "Steam has 8 reviews (no score). SteamDB shows 69.20% positive; small sample keeps score around 70.",
+  "raw_comment": "Quiz game for 8 local players + a game show host. The game includes quiz packs but you can get more via Steam Workshop or create your own. Phones as controllers. Shared screen + phones.",
+  "last_updated": "2025-12-29"
+}

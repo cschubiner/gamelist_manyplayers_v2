@@ -1,0 +1,23 @@
+{
+  "title": "A Gummy's Life",
+  "review_score_100": 72,
+  "max_players": 16,
+  "platforms": [
+    "Windows",
+    "macOS",
+    "Linux",
+    "Nintendo Switch",
+    "PlayStation 5",
+    "PlayStation 4",
+    "Xbox One",
+    "Xbox Series X"
+  ],
+  "review_sources": [
+    "https://store.steampowered.com/app/585190/A_Gummys_Life/",
+    "https://steamdb.info/app/585190/info/",
+    "https://www.metacritic.com/game/a-gummys-life/"
+  ],
+  "notes": "Steam shows Very Positive (81% of 187). SteamDB shows 74.75% positive (205 reviews). Metacritic metascore 61; blended to low\u201170s.",
+  "raw_comment": "Physics based brawler for up to 16 local players. \ud83c\udfae 16 PS4 with SteamInput On. \ud83c\udfae 16 XBox. \u2328 1 on keyboard. \ud83d\udda5\ufe0f Shared screen. ",
+  "last_updated": "2025-12-29"
+}

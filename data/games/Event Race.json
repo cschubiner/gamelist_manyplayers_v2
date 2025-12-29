@@ -1,0 +1,15 @@
+{
+  "title": "Event Race",
+  "review_score_100": 78,
+  "max_players": 30,
+  "platforms": [
+    "Windows"
+  ],
+  "review_sources": [
+    "https://store.steampowered.com/app/2496760/Event_Race/",
+    "https://steamdb.info/app/2496760/"
+  ],
+  "notes": "Steam shows Positive (76% of 13). SteamDB shows 78.11% positive (23 reviews); small sample.",
+  "raw_comment": "Top down racing for up to 30 local players. Max number of gamepads currently unknown. Phones as controllers. Shared screen.",
+  "last_updated": "2025-12-29"
+}

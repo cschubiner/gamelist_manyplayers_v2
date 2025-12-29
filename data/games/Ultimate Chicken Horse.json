@@ -1,0 +1,21 @@
+{
+  "title": "Ultimate Chicken Horse",
+  "review_score_100": 90,
+  "max_players": 8,
+  "platforms": [
+    "Windows",
+    "macOS",
+    "Linux",
+    "PC",
+    "Nintendo Switch",
+    "PlayStation 4",
+    "Xbox One"
+  ],
+  "review_sources": [
+    "https://store.steampowered.com/app/386940/Ultimate_Chicken_Horse/",
+    "https://www.metacritic.com/game/ultimate-chicken-horse/"
+  ],
+  "notes": "Steam English reviews are Overwhelmingly Positive (96% of 13,854). Metacritic metascore 80 and user score 7.9; blended to ~90.",
+  "raw_comment": "2D platform builder. 4 local players but up to 8 local players with a mod https://github.com/batram/UCH-EvenMorePlayers Shared screen.",
+  "last_updated": "2025-12-29"
+}

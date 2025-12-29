@@ -1,0 +1,16 @@
+{
+  "title": "MageQuit",
+  "review_score_100": 88,
+  "max_players": 10,
+  "platforms": [
+    "Windows",
+    "macOS"
+  ],
+  "review_sources": [
+    "https://store.steampowered.com/app/572220/MageQuit/",
+    "https://steamdb.info/app/572220/"
+  ],
+  "notes": "Steam shows Very Positive (91% of 976). SteamDB shows 83.46% positive; strong sentiment.",
+  "raw_comment": "a wizard-brawling arena game where up to 10 players (same screen) use spells and physics to do battle.",
+  "last_updated": "2025-12-29"
+}

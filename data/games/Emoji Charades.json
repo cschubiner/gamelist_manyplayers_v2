@@ -1,0 +1,15 @@
+{
+  "title": "Emoji Charades",
+  "review_score_100": 60,
+  "max_players": 99,
+  "platforms": [
+    "Windows"
+  ],
+  "review_sources": [
+    "https://store.steampowered.com/app/1018560/Emoji_Charades/",
+    "https://steamdb.info/app/1018560/"
+  ],
+  "notes": "Steam has 8 reviews (no score). SteamDB shows 69.20% positive (8 reviews); small sample.",
+  "raw_comment": "Charades type game where you give clues by typing emojis on a phone. \u201cUnlimited\u201d number of players. 1 phone as a controller, the rest participate by guessing the secret word/phrase. Shared screen.",
+  "last_updated": "2025-12-29"
+}

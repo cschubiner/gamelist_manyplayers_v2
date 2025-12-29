@@ -1,0 +1,16 @@
+{
+  "title": "DuckHunt - Missouri",
+  "review_score_100": 60,
+  "max_players": 999,
+  "platforms": [
+    "Windows",
+    "Mobile (browser)"
+  ],
+  "review_sources": [
+    "https://store.steampowered.com/app/1863010/DuckHunt__Missouri/",
+    "https://steamdb.info/app/1863010/"
+  ],
+  "notes": "Steam has 1 review; SteamDB shows a tiny sample. Score held at 60 due to very low data.",
+  "raw_comment": "Like the classic Duck Hunt on NES except instead of the gun, you aim by pointing your phone\u2019s camera at the screen. Any number of local players divided into 2 teams. Shared screen.",
+  "last_updated": "2025-12-29"
+}

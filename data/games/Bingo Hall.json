@@ -1,0 +1,15 @@
+{
+  "title": "Bingo Hall",
+  "review_score_100": 69,
+  "max_players": 50,
+  "platforms": [
+    "Windows"
+  ],
+  "review_sources": [
+    "https://steamdb.info/app/1219230/depots/",
+    "https://steambase.io/games/bingo-hall/info"
+  ],
+  "notes": "SteamDB shows 68.78% positive (29 reviews). Steambase player score 69 (23 reviews). Small sample; score mirrors averages.",
+  "raw_comment": "Bingo for up to 50 players, either with printed cards or phones as controllers. Shared screen + phone screens.",
+  "last_updated": "2025-12-29"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "TowerClimb",
+  "review_score_100": 88,
+  "max_players": 25,
+  "platforms": [
+    "Windows",
+    "macOS"
+  ],
+  "review_sources": [
+    "https://store.steampowered.com/app/396640/TowerClimb/",
+    "https://www.metacritic.com/game/towerclimb/"
+  ],
+  "notes": "Steam shows Very Positive (89% of 306). Metacritic user score 7.5; blended high\u201180s.",
+  "raw_comment": "A roguelike adventure platformer for up to 25 local players, split screen or single screen",
+  "last_updated": "2025-12-29"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Drink More Glurp",
+  "review_score_100": 88,
+  "max_players": 20,
+  "platforms": [
+    "Windows",
+    "macOS"
+  ],
+  "review_sources": [
+    "https://store.steampowered.com/app/1056690/Drink_More_Glurp/",
+    "https://steamdb.info/app/1056690/"
+  ],
+  "notes": "Steam shows Very Positive (89% of 189). SteamDB shows 87% positive; blended high\u201180s.",
+  "raw_comment": "Whacky physics based sports(ish) events. 2-20 local players in turn based multiplayer. Requires a gamepad with 2 analog sticks.",
+  "last_updated": "2025-12-29"
+}

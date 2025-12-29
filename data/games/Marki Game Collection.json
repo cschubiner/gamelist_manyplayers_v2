@@ -1,0 +1,15 @@
+{
+  "title": "Marki Game Collection",
+  "review_score_100": 70,
+  "max_players": 16,
+  "platforms": [
+    "Windows"
+  ],
+  "review_sources": [
+    "https://store.steampowered.com/app/2272530/Marki_Game_Collection/",
+    "https://steamdb.info/app/2272530/"
+  ],
+  "notes": "Steam has 7 reviews (no score). SteamDB shows 78.40% positive; small sample keeps score around 70.",
+  "raw_comment": "Mini-games for up to 16 local player using 8 shared controllers. Shared screen.",
+  "last_updated": "2025-12-29"
+}

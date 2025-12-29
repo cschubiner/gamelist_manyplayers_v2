@@ -1,0 +1,15 @@
+{
+  "title": "Pixel Fishies",
+  "review_score_100": 50,
+  "max_players": 16,
+  "platforms": [
+    "Windows"
+  ],
+  "review_sources": [
+    "https://store.steampowered.com/app/903560/Pixel_Fishies/",
+    "https://steamdb.info/app/903560/"
+  ],
+  "notes": "No user reviews yet; neutral score pending reviews.",
+  "raw_comment": "Lead a school of fish to eat food, grow, and destroy. Up to 16 local players in 4 teams. Set Steam Input to \"Forced off\" for the game if you want to use more than 4 XInput controllers. Shared screen.",
+  "last_updated": "2025-12-29"
+}

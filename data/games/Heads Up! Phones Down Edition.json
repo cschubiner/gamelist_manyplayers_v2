@@ -1,0 +1,15 @@
+{
+  "title": "Heads Up! Phones Down Edition",
+  "review_score_100": 50,
+  "max_players": 99,
+  "platforms": [
+    "Windows"
+  ],
+  "review_sources": [
+    "https://store.steampowered.com/app/2533370/Heads_Up_Phones_Down_Edition/",
+    "https://steamdb.info/app/2533370/"
+  ],
+  "notes": "Steam shows Mixed (50% of 8). SteamDB shows 49.22% positive; tiny sample keeps score at 50.",
+  "raw_comment": "Party game where a player tries to guess a word or phrase with the help of clues from friends. No hard limit to number of participants. Shared screen.",
+  "last_updated": "2025-12-29"
+}

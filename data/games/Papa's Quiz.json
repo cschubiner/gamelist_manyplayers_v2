@@ -1,0 +1,17 @@
+{
+  "title": "Papa's Quiz",
+  "review_score_100": 84,
+  "max_players": 8,
+  "platforms": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "review_sources": [
+    "https://store.steampowered.com/app/1484730/Papas_Quiz/",
+    "https://steamdb.info/app/1484730/info/"
+  ],
+  "notes": "Steam shows Very Positive (89% of 115). SteamDB shows 81.61% positive (141 reviews); blended to mid\u201180s.",
+  "raw_comment": "Quiz party game for up to 8 local players. Phones as controllers. Shared screen.",
+  "last_updated": "2025-12-29"
+}

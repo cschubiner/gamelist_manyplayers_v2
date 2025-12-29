@@ -1,0 +1,15 @@
+{
+  "title": "The You Quiz",
+  "review_score_100": 50,
+  "max_players": 8,
+  "platforms": [
+    "Windows"
+  ],
+  "review_sources": [
+    "https://store.steampowered.com/app/2857820/The_You_Quiz/",
+    "https://steamdb.info/app/2857820/"
+  ],
+  "notes": "Steam shows 1 review; SteamDB shows 64.08% positive (2 reviews). Very small sample.",
+  "raw_comment": "Social party game. 3-8 local players. \ud83d\udcf18 phones as controllers using browsers. \ud83d\udda5\ufe0f Phones and shared screen.",
+  "last_updated": "2025-12-29"
+}

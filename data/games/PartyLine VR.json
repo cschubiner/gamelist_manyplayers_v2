@@ -1,0 +1,16 @@
+{
+  "title": "PartyLine VR",
+  "review_score_100": 50,
+  "max_players": 8,
+  "platforms": [
+    "Windows",
+    "SteamVR"
+  ],
+  "review_sources": [
+    "https://store.steampowered.com/app/846830/PartyLine_VR/",
+    "https://steambase.io/games/partyline-vr/reviews"
+  ],
+  "notes": "Steam shows Mixed (50% of 14). Steambase player score 50; blended to 50.",
+  "raw_comment": "Minigames where 1 VR player plays with/against up to 8 players using phones/tablets as controllers. VR + shared screen.",
+  "last_updated": "2025-12-29"
+}

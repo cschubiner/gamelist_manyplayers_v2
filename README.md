@@ -28,7 +28,7 @@ Once GitHub Pages is enabled for the repo, open `index.html` from the repo root 
 
 ## Status
 
-Work in progress — not all games from `gameslist.txt` have review files yet.
+Complete — all games from `gameslist.txt` now have per‑game JSON metadata for the visualizer.
 
 ## Conventions
 

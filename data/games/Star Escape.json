@@ -1,0 +1,15 @@
+{
+  "title": "Star Escape",
+  "review_score_100": 55,
+  "max_players": 10,
+  "platforms": [
+    "Windows"
+  ],
+  "review_sources": [
+    "https://store.steampowered.com/app/1233460/Star_Escape/",
+    "https://steamdb.info/app/1233460/"
+  ],
+  "notes": "Steam has 1 review (no score). SteamDB lists app; tiny sample keeps score mid\u201150s.",
+  "raw_comment": "Planet-hopper space-racer for up to 10 local players. Shared screen.",
+  "last_updated": "2025-12-29"
+}

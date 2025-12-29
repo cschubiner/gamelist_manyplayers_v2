@@ -1,0 +1,15 @@
+{
+  "title": "ROUNDS",
+  "review_score_100": 94,
+  "max_players": 2,
+  "platforms": [
+    "Windows"
+  ],
+  "review_sources": [
+    "https://store.steampowered.com/app/1557740/ROUNDS/",
+    "https://steamdb.info/app/1557740/"
+  ],
+  "notes": "Steam shows Overwhelmingly Positive (95% of 31,844). SteamDB shows 93.31% positive; strong consensus.",
+  "raw_comment": "2D platform shooter. Normally a 1v1 game, but up to 16 local or online players via this mod: https://github.com/olavim/RoundsWithFriends Shared screen.",
+  "last_updated": "2025-12-29"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Splody",
+  "review_score_100": 86,
+  "max_players": 99,
+  "platforms": [
+    "Windows",
+    "macOS"
+  ],
+  "review_sources": [
+    "https://store.steampowered.com/app/490490/Splody/",
+    "https://steamdb.info/app/490490/"
+  ],
+  "notes": "Steam shows Very Positive (86% of 1,370). SteamDB shows 81.52% positive; blended mid\u201180s.",
+  "raw_comment": "Bomberman inspired game supporting \"as many local players as you can connect controllers\". Same screen.",
+  "last_updated": "2025-12-29"
+}

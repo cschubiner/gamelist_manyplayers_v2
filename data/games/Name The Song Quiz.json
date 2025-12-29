@@ -1,0 +1,15 @@
+{
+  "title": "Name The Song Quiz",
+  "review_score_100": 56,
+  "max_players": 18,
+  "platforms": [
+    "Windows"
+  ],
+  "review_sources": [
+    "https://store.steampowered.com/app/792480/Name_The_Song_Quiz/",
+    "https://steamdb.info/app/792480/"
+  ],
+  "notes": "Steam shows Mixed (56% of 50). SteamDB shows 54.16% positive; blended mid\u201150s.",
+  "raw_comment": "Guess the name of the song. Up to 18 local players using shared gamepads and 2 keyboard players. Support for teams. Use own song folder. Single Screen.",
+  "last_updated": "2025-12-29"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Sid Meier's Civilization\u00ae V",
+  "review_score_100": 95,
+  "max_players": 12,
+  "platforms": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "review_sources": [
+    "https://store.steampowered.com/app/8930/Sid_Meiers_Civilization_V/",
+    "https://www.metacritic.com/game/sid-meiers-civilization-v/"
+  ],
+  "notes": "Steam shows Overwhelmingly Positive (95% of 77k). Metacritic metascore 90; blended mid\u201190s.",
+  "raw_comment": "Turn-based strategy. 12 local players. Up to 22 when changing a value in a file. \ud83d\udda5\ufe0f Shared screen.",
+  "last_updated": "2025-12-29"
+}

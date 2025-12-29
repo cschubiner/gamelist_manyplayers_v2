@@ -1,0 +1,16 @@
+{
+  "title": "ANYKEY",
+  "review_score_100": 78,
+  "max_players": 60,
+  "platforms": [
+    "Windows",
+    "macOS"
+  ],
+  "review_sources": [
+    "https://store.steampowered.com/app/790450/ANYKEY/",
+    "https://steamdb.info/app/790450/"
+  ],
+  "notes": "Steam shows Very Positive (83% of 92). SteamDB shows 75.09% positive (92 reviews). Small sample; blended to high\u201170s.",
+  "raw_comment": "One button game supporting up to 60 players. Check simultaneous key press limit of your keyboard or plug in extra keyboards. Same screen.",
+  "last_updated": "2025-12-29"
+}

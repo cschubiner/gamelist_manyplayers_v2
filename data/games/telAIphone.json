@@ -1,0 +1,16 @@
+{
+  "title": "telAIphone",
+  "review_score_100": 50,
+  "max_players": 8,
+  "platforms": [
+    "Windows",
+    "macOS"
+  ],
+  "review_sources": [
+    "https://store.steampowered.com/app/2754640/telAIphone/",
+    "https://steambase.io/apps/telaiphone"
+  ],
+  "notes": "Coming soon with no user reviews yet; neutral score pending reviews.",
+  "raw_comment": "Whisper game. Describe an image to an AI who draws a new image which is passed to the next player. 4-8 players. \ud83d\udcf1 8 phones using browsers. \ud83d\udda5\ufe0f Phones + shared screen.",
+  "last_updated": "2025-12-29"
+}

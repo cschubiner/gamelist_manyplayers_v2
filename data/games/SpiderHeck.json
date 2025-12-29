@@ -1,0 +1,15 @@
+{
+  "title": "SpiderHeck",
+  "review_score_100": 88,
+  "max_players": 4,
+  "platforms": [
+    "Windows"
+  ],
+  "review_sources": [
+    "https://store.steampowered.com/app/1329500/SpiderHeck/",
+    "https://www.metacritic.com/game/spiderheck/"
+  ],
+  "notes": "Steam shows Very Positive (92% of 9,493). Metacritic metascore 70; blended to high\u201180s.",
+  "raw_comment": "2D platform shooter. 4 local players. 8+ with mod: https://github.com/Senyksia/InfiniteFriends \ud83c\udfae 8+ PS4/5. SteamInput off \ud83c\udfae 4 XBox (8+ via virtual PS4 using reWASD.) \u2328 1 on keyboard \ud83d\udda5\ufe0fShared screen",
+  "last_updated": "2025-12-29"
+}

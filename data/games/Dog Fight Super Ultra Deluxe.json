@@ -1,0 +1,15 @@
+{
+  "title": "Dog Fight Super Ultra Deluxe",
+  "review_score_100": 60,
+  "max_players": 16,
+  "platforms": [
+    "Windows"
+  ],
+  "review_sources": [
+    "https://store.steampowered.com/app/751530/Dog_Fight_Super_Ultra_Deluxe/",
+    "https://steamdb.info/app/751530/"
+  ],
+  "notes": "Steam has 2 reviews (no score). SteamDB shows 59.60% positive (4 reviews); tiny sample keeps score near 60.",
+  "raw_comment": "2d side view dogfighting game with up to 16 local players. Singleplayer and Online supported as well. Shared screen.",
+  "last_updated": "2025-12-29"
+}

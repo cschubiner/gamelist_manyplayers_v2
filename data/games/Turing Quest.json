@@ -1,0 +1,16 @@
+{
+  "title": "Turing Quest",
+  "review_score_100": 50,
+  "max_players": 6,
+  "platforms": [
+    "Windows",
+    "macOS"
+  ],
+  "review_sources": [
+    "https://store.steampowered.com/app/2292190/Turing_Quest/",
+    "https://steamdb.info/app/2292190/"
+  ],
+  "notes": "Coming soon with no user reviews yet; neutral score pending reviews.",
+  "raw_comment": "Up to 6 local players make up prompts. Players and an AI create funny answers to the prompts. Players vote for the funniest prompt. Will humans beat the AI? Shared screen, phones as controllers.",
+  "last_updated": "2025-12-29"
+}

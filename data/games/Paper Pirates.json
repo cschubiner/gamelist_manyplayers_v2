@@ -1,0 +1,15 @@
+{
+  "title": "Paper Pirates",
+  "review_score_100": 60,
+  "max_players": 8,
+  "platforms": [
+    "Windows"
+  ],
+  "review_sources": [
+    "https://store.steampowered.com/app/2111870/Paper_Pirates/",
+    "https://steamdb.info/app/2111870/"
+  ],
+  "notes": "Steam has 5 reviews (no score). SteamDB shows 72.16% positive from 5 reviews; small sample keeps score moderate.",
+  "raw_comment": "Social deduction game for 8 local players. Phones or tablets as controllers. Shared + separate screens.",
+  "last_updated": "2025-12-29"
+}

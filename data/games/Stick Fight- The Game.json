@@ -1,0 +1,17 @@
+{
+  "title": "Stick Fight: The Game",
+  "review_score_100": 94,
+  "max_players": 4,
+  "platforms": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "review_sources": [
+    "https://store.steampowered.com/app/674940/Stick_Fight_The_Game/",
+    "https://steamdb.info/app/674940/"
+  ],
+  "notes": "Steam shows Overwhelmingly Positive (95% of 112,799). SteamDB shows 92.23% positive; strong consensus.",
+  "raw_comment": "Hidden object. Co-op or vs. 17 local players. 17 players = 12 gamepads + 4 keyb. players +1 mouse. \ud83c\udfae SteamInput off: 8 PS4, 0 PS5, 4 XBox. SteamInput On (gamepad profile): 4 PS4/PS5/XBox. \ud83d\udda5\ufe0fShared",
+  "last_updated": "2025-12-29"
+}

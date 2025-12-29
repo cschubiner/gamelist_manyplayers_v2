@@ -1,0 +1,15 @@
+{
+  "title": "Crate Punks",
+  "review_score_100": 60,
+  "max_players": 8,
+  "platforms": [
+    "Windows"
+  ],
+  "review_sources": [
+    "https://store.steampowered.com/app/517960/Crate_Punks/",
+    "https://steamdb.info/app/517960/"
+  ],
+  "notes": "Steam has 6 reviews (no score). SteamDB shows 69.20% positive (6 reviews); small sample keeps score moderate.",
+  "raw_comment": "2D side view crate throwing brawler. 2-8 local players. Modify options file for even more players. Gamepads + 2 keyboard players supported. Gamepads only work on Win10 English version. Shared screen.",
+  "last_updated": "2025-12-29"
+}

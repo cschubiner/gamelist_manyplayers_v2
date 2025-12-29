@@ -1,0 +1,16 @@
+{
+  "title": "Blast Brawl 2",
+  "review_score_100": 90,
+  "max_players": 9,
+  "platforms": [
+    "Windows",
+    "PlayStation 4"
+  ],
+  "review_sources": [
+    "https://store.steampowered.com/app/383920/Blast_Brawl_2/",
+    "https://store.playstation.com/en-us/concept/211077"
+  ],
+  "notes": "Steam shows Positive (95% of 23). PlayStation rating 4.42/5 (19 ratings). Small sample but strong sentiment.",
+  "raw_comment": "2D platform fighting. 9 local players. \ud83c\udfae 9 wired PS4. SteamInput off. (9 wireless via virtual PS4 using reWASD.) \ud83c\udfae 4 XBox. (9 via reWASD. Activate virtual PS4 before game start.) \ud83d\udda5\ufe0f Shared screen.",
+  "last_updated": "2025-12-29"
+}

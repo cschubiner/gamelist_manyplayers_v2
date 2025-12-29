@@ -1,0 +1,17 @@
+{
+  "title": "Mount Your Friends",
+  "review_score_100": 95,
+  "max_players": 16,
+  "platforms": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "review_sources": [
+    "https://store.steampowered.com/app/314930/Mount_Your_Friends/",
+    "https://steamdb.info/app/314930/"
+  ],
+  "notes": "Steam shows Overwhelmingly Positive (95% of 2,811). SteamDB shows 93.65% positive; strong consensus.",
+  "raw_comment": "Hot Seat weird multiplayer sporting event, up to 16 players offline, same screen (turn based)",
+  "last_updated": "2025-12-29"
+}

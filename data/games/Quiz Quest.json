@@ -1,0 +1,16 @@
+{
+  "title": "Quiz Quest",
+  "review_score_100": 72,
+  "max_players": 6,
+  "platforms": [
+    "Windows",
+    "macOS"
+  ],
+  "review_sources": [
+    "https://store.steampowered.com/app/3024780/Quiz_Quest/",
+    "https://steamdb.info/app/3024780/"
+  ],
+  "notes": "Steam has 1 review; SteamDB shows 64.08% positive from 2 reviews. Small sample, cautious score.",
+  "raw_comment": "Trivia game for up to 6 players. Phones as controllers. \ud83d\udcf1 6 phones using browsers. \ud83d\udda5\ufe0f Phones + Shared screen.",
+  "last_updated": "2025-12-29"
+}

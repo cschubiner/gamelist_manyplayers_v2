@@ -1,0 +1,15 @@
+{
+  "title": "Sunken",
+  "review_score_100": 60,
+  "max_players": 12,
+  "platforms": [
+    "Windows"
+  ],
+  "review_sources": [
+    "https://store.steampowered.com/app/884470/Sunken/",
+    "https://steamdb.info/app/884470/"
+  ],
+  "notes": "Steam has 4 reviews (no score). SteamDB shows 70.84% positive; small sample keeps score moderate.",
+  "raw_comment": "Real time naval multiplayer battles for up to 12 local players, Shared screen.",
+  "last_updated": "2025-12-29"
+}

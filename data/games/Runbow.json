@@ -1,0 +1,17 @@
+{
+  "title": "Runbow",
+  "review_score_100": 82,
+  "max_players": 9,
+  "platforms": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "review_sources": [
+    "https://store.steampowered.com/app/464650/Runbow/",
+    "https://www.metacritic.com/game/runbow/"
+  ],
+  "notes": "Steam shows Very Positive (85% of 98). Metacritic metascore 82 (Wii U) with user score 7.4; blended low\u201180s.",
+  "raw_comment": "Platform racing. 9 players. \ud83c\udfae 9 PS4 with SteamInput off. \ud83c\udfae 9 XBox if 4 are connected before game start. (9 via reWASD. Activate virtual PS4 before game start.) \u2328 9 on keyboard. \ud83d\udda5\ufe0f Shared screen.",
+  "last_updated": "2025-12-29"
+}

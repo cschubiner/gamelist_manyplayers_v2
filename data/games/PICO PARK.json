@@ -1,0 +1,15 @@
+{
+  "title": "PICO PARK",
+  "review_score_100": 90,
+  "max_players": 8,
+  "platforms": [
+    "Windows"
+  ],
+  "review_sources": [
+    "https://store.steampowered.com/app/1509960/PICO_PARK/",
+    "https://steamdb.info/app/1509960/"
+  ],
+  "notes": "Steam shows Very Positive: 92% of 11,568 reviews. SteamDB shows 89.33% positive; strong sentiment.",
+  "raw_comment": "A coop puzzle game for 2-8 local players. New version with same levels as on Nintendo Switch + online mp. 8 Gamepads. 8 phones as controllers. (For 10 local players see Classic Edition.) Shared screen",
+  "last_updated": "2025-12-29"
+}

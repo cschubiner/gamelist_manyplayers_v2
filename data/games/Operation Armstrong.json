@@ -1,0 +1,16 @@
+{
+  "title": "Operation Armstrong",
+  "review_score_100": 74,
+  "max_players": 999,
+  "platforms": [
+    "Windows",
+    "Mobile (browser)"
+  ],
+  "review_sources": [
+    "https://store.steampowered.com/app/1145490/Operation_Armstrong/",
+    "https://steambase.io/games/operation-armstrong/reviews"
+  ],
+  "notes": "Steam shows Positive (81% of 22). Steambase player score 72; small sample keeps score low\u201170s.",
+  "raw_comment": "Infiltration team game. 1 VR player navigates a level supported by a team of hackers which clear obstacles and disrupt enemies. \"Any number\" of hackers use phones as controllers. Separate screens.",
+  "last_updated": "2025-12-29"
+}

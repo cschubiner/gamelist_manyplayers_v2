@@ -1,0 +1,15 @@
+{
+  "title": "Trenchfoot",
+  "review_score_100": 40,
+  "max_players": 16,
+  "platforms": [
+    "Windows"
+  ],
+  "review_sources": [
+    "https://store.steampowered.com/app/793570/Trenchfoot/",
+    "https://steamdb.info/app/793570/"
+  ],
+  "notes": "Steam has 1 review; SteamDB shows 40.58% positive. Tiny sample but low sentiment.",
+  "raw_comment": "Bomberman type game for up to 16 local players. (At the time of writing it doesn\u2019t support single player.) Single screen.",
+  "last_updated": "2025-12-29"
+}

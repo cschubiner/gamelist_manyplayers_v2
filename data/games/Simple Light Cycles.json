@@ -1,0 +1,15 @@
+{
+  "title": "Simple Light Cycles",
+  "review_score_100": 72,
+  "max_players": 16,
+  "platforms": [
+    "Windows"
+  ],
+  "review_sources": [
+    "https://store.steampowered.com/app/655030/Simple_Light_Cycles/",
+    "https://steamdb.info/app/655030/"
+  ],
+  "notes": "Steam shows Positive (80% of 30). SteamDB shows 69.33% positive; small sample keeps score low\u201170s.",
+  "raw_comment": "Tron/snake game for up to 16 local players using a mix of up to 16 gamepads and 4 keyboard players. Shared screen.",
+  "last_updated": "2025-12-29"
+}

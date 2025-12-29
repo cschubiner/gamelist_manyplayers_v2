@@ -1,0 +1,16 @@
+{
+  "title": "Melody Mania",
+  "review_score_100": 62,
+  "max_players": 99,
+  "platforms": [
+    "Windows",
+    "Android"
+  ],
+  "review_sources": [
+    "https://store.steampowered.com/app/2241210/Melody_Mania_Rhythm_Game/",
+    "https://steamdb.info/app/2241210/"
+  ],
+  "notes": "Steam shows only a few reviews; SteamDB lists app. Small sample keeps score low\u201160s.",
+  "raw_comment": "Singing game similar to Sing Star. No hard limit to number of mics but UI will get crowded. Android phones can also be used as microphones.Shared screen.",
+  "last_updated": "2025-12-29"
+}

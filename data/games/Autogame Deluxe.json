@@ -1,0 +1,15 @@
+{
+  "title": "Autogame Deluxe",
+  "review_score_100": 86,
+  "max_players": 10,
+  "platforms": [
+    "Windows"
+  ],
+  "review_sources": [
+    "https://store.steampowered.com/app/1900600/Autogame_Deluxe/",
+    "https://steamdb.info/app/1900600/"
+  ],
+  "notes": "Steam shows Positive (94% of 19). SteamDB shows 85.19% positive (19 reviews); small sample.",
+  "raw_comment": "One button party game. Drive a car and try not to crash into other cars. When you press your button the car turns 90 degrees and accelerates. 1-10 local players. Shared screen.",
+  "last_updated": "2025-12-29"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Golf With Your Friends",
+  "review_score_100": 88,
+  "max_players": 12,
+  "platforms": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "review_sources": [
+    "https://store.steampowered.com/app/431240/Golf_With_Your_Friends/",
+    "https://steamdb.info/app/431240/"
+  ],
+  "notes": "Steam shows Very Positive (92% of 72k). SteamDB shows 87.68% positive; blended high\u201180s.",
+  "raw_comment": "Minigolf game. 12 local players in turn based/hotseat mode. \ud83d\udda5\ufe0fShared screen.",
+  "last_updated": "2025-12-29"
+}

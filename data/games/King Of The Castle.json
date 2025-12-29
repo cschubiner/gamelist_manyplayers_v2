@@ -1,0 +1,16 @@
+{
+  "title": "King Of The Castle",
+  "review_score_100": 85,
+  "max_players": 25,
+  "platforms": [
+    "Windows",
+    "macOS"
+  ],
+  "review_sources": [
+    "https://store.steampowered.com/app/1839880/King_Of_The_Castle/",
+    "https://steamdb.info/app/1839880/"
+  ],
+  "notes": "Steam shows Very Positive (85% of 1,745). SteamDB shows 85.11% positive; strong consensus.",
+  "raw_comment": "Rule a kingdom, try not to lose your head. 4-25 players. \ud83d\udcf1 25 phones using browsers. \ud83d\udda5\ufe0f Phones + shared screen.",
+  "last_updated": "2025-12-29"
+}

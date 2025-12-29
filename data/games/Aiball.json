@@ -1,0 +1,15 @@
+{
+  "title": "Aiball",
+  "review_score_100": 50,
+  "max_players": 10,
+  "platforms": [
+    "Windows"
+  ],
+  "review_sources": [
+    "https://store.steampowered.com/app/1193030/Aiball/",
+    "https://steamdb.info/app/1193030/"
+  ],
+  "notes": "Steam shows Mixed (50% of 144). SteamDB shows 50.72% positive; blended to 50.",
+  "raw_comment": "Physics based game with soccer, king of the hill and sandbox mode. The ball doesn\u2019t spawn in soccer mode and king of the hill seems broken. 2-10 local players. Shared screen.",
+  "last_updated": "2025-12-29"
+}

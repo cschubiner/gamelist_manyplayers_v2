@@ -1,0 +1,15 @@
+{
+  "title": "Citywars Tower Defense",
+  "review_score_100": 70,
+  "max_players": 99,
+  "platforms": [
+    "Windows"
+  ],
+  "review_sources": [
+    "https://store.steampowered.com/app/1890650/Citywars_Tower_Defense/",
+    "https://steamdb.info/app/1890650/"
+  ],
+  "notes": "Small Steam review sample with mildly positive sentiment; score held around 70.",
+  "raw_comment": "Survival tower defense. Can be played in co-op in split screen where each screen is a full instance of the game connected via network multiplayer. No hard limit to number of local players",
+  "last_updated": "2025-12-29"
+}

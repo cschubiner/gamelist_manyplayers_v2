@@ -1,0 +1,18 @@
+{
+  "title": "Grab Your Friends",
+  "review_score_100": 50,
+  "max_players": 5,
+  "platforms": [
+    "Windows",
+    "SteamVR",
+    "OpenXR",
+    "Quest 3",
+    "Mobile (browser)"
+  ],
+  "review_sources": [
+    "https://store.steampowered.com/app/3481490/Grab_Your_Friends/"
+  ],
+  "notes": "Coming soon with no user reviews yet; neutral score pending reviews. VR vs mobile is explicitly described on the Steam page.",
+  "raw_comment": "VR player operates a claw machine. 4 phone players trapped in the machine try to avoid getting grabbed. \ud83d\udda5\ufe0f VR + phones.",
+  "last_updated": "2025-12-29"
+}

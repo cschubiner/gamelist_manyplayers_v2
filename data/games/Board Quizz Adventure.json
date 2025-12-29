@@ -1,0 +1,15 @@
+{
+  "title": "Board Quizz Adventure",
+  "review_score_100": 60,
+  "max_players": 999,
+  "platforms": [
+    "Windows"
+  ],
+  "review_sources": [
+    "https://store.steampowered.com/app/1032440/Board_Quizz_Adventure/",
+    "https://steamdb.info/app/1032440/"
+  ],
+  "notes": "Steam has 1 review (no score). SteamDB shows 69.20% positive (4 reviews); tiny sample keeps score moderate.",
+  "raw_comment": "a quiz-board game for 2 teams, up to unlimited (!?) numbers of players, only 2 controllers or 1 keyboard needed. Same screen!",
+  "last_updated": "2025-12-29"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Republic of Jungle",
+  "review_score_100": 72,
+  "max_players": 10,
+  "platforms": [
+    "Windows",
+    "macOS",
+    "Linux",
+    "Mobile (browser)"
+  ],
+  "review_sources": [
+    "https://store.steampowered.com/app/1033240/Republic_of_Jungle/",
+    "https://steambase.io/games/republic-of-jungle/info"
+  ],
+  "notes": "Steam shows Mostly Positive (73% of 1,119). Steambase player score 70; blended low\u201170s.",
+  "raw_comment": "Social deduction game for 5-10 players. Phones (browsers) as controllers. Separate screens.",
+  "last_updated": "2025-12-29"
+}

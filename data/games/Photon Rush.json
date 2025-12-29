@@ -1,0 +1,17 @@
+{
+  "title": "Photon Rush",
+  "review_score_100": 50,
+  "max_players": 16,
+  "platforms": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "review_sources": [
+    "https://store.steampowered.com/app/667660/Photon_Rush/",
+    "https://steamdb.info/app/667660/"
+  ],
+  "notes": "Steam shows no user reviews yet; neutral score pending reviews.",
+  "raw_comment": "Tron/Light cycle inspired game with power ups. 16 local players. Up to 8 controllers with support for 2 players per controller. 4 players on keyboard. Splitscreen.",
+  "last_updated": "2025-12-29"
+}

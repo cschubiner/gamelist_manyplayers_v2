@@ -1,0 +1,16 @@
+{
+  "title": "Survivors of Borridor",
+  "review_score_100": 72,
+  "max_players": 8,
+  "platforms": [
+    "Windows",
+    "Linux"
+  ],
+  "review_sources": [
+    "https://store.steampowered.com/app/783790/Survivors_of_Borridor/",
+    "https://steamdb.info/app/783790/"
+  ],
+  "notes": "Steam has only 8 reviews (no score). SteamDB shows 74.19% positive from 8 reviews; small sample lowers confidence.",
+  "raw_comment": "Co-op survival for 1-8 local players. Input support: mouse, keyboard, gamepad, smartphones as controllers. Top down, single screen.",
+  "last_updated": "2025-12-29"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Ewephoria",
+  "review_score_100": 64,
+  "max_players": 99,
+  "platforms": [
+    "Windows"
+  ],
+  "review_sources": [
+    "https://store.steampowered.com/app/1969260/Ewephoria/",
+    "https://steamdb.info/app/1969260/"
+  ],
+  "notes": "Very small review sample; SteamDB shows ~64% positive; score mid\u201160s.",
+  "raw_comment": "Sheep herding game. Co-op or versus. Phones as controllers. No hard limit for number of players. Shared screen.",
+  "last_updated": "2025-12-29"
+}

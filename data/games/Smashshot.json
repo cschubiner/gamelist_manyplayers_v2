@@ -1,0 +1,15 @@
+{
+  "title": "Smashshot",
+  "review_score_100": 70,
+  "max_players": 9,
+  "platforms": [
+    "Windows"
+  ],
+  "review_sources": [
+    "https://store.steampowered.com/app/3183700/Smashshot/",
+    "https://steamdb.info/app/3183700/"
+  ],
+  "notes": "Steam has 4 reviews (no score). SteamDB shows 73.52% positive; tiny sample keeps score around 70.",
+  "raw_comment": "Top-down twinstick shooter. 2-9 local players in PvP. 1-6 in PvE.",
+  "last_updated": "2025-12-29"
+}

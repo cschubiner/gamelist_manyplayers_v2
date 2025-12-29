@@ -1,0 +1,16 @@
+{
+  "title": "Spaceteam VR",
+  "review_score_100": 68,
+  "max_players": 6,
+  "platforms": [
+    "Windows",
+    "Oculus Rift"
+  ],
+  "review_sources": [
+    "https://store.steampowered.com/app/866770/Spaceteam_VR/",
+    "https://steamdb.info/app/866770/"
+  ],
+  "notes": "Steam has only 12 reviews (no score). SteamDB shows 76.41% positive; small sample lowers confidence.",
+  "raw_comment": "VR Cooperative communication game in space. Single player in VR with 2 bots. 2-6 players online. Local multiplayer with 1 VR player + up to 5 smart devices. Separate screens.",
+  "last_updated": "2025-12-29"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Potato Party: Hash It Out",
+  "review_score_100": 72,
+  "max_players": 9,
+  "platforms": [
+    "Windows",
+    "SteamVR"
+  ],
+  "review_sources": [
+    "https://store.steampowered.com/app/1085210/Potato_Party_Hash_It_Out/",
+    "https://steamdb.info/app/1085210/"
+  ],
+  "notes": "Steam shows Positive (80% of 15). SteamDB shows 77.47% positive; small sample.",
+  "raw_comment": "Pictionary. VR player draws using 3D shapes, air-painting, or canvas drawing. 1-8 other players guess the word using an android/iOS app. Shared screen for seeing the drawing.",
+  "last_updated": "2025-12-29"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Yargis - Space Melee",
+  "review_score_100": 60,
+  "max_players": 99,
+  "platforms": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "review_sources": [
+    "https://store.steampowered.com/app/541220/Yargis_Space_Melee/",
+    "https://steamdb.info/app/541220/"
+  ],
+  "notes": "Steam shows Mixed (59% of 61). SteamDB shows 59.01% positive; blended around 60.",
+  "raw_comment": "2d space shooter with various game modes. Can be played both local & online. 4 gamepads + as many players as your keyboard can handle. Same screen.",
+  "last_updated": "2025-12-29"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "QR Controller",
+  "review_score_100": 85,
+  "max_players": 16,
+  "platforms": [
+    "Windows",
+    "Linux"
+  ],
+  "review_sources": [
+    "https://store.steampowered.com/app/3637240/QR_Controller/"
+  ],
+  "notes": "Steam shows Positive: 95% of 21 reviews. Small sample lowers confidence.",
+  "raw_comment": "Utility for using phones as virtual gamepads. Works with at least 16 phones. Works on the same wi-fi or over the internet with some added latency. \ud83d\udcf1 Phones as controllers using browsers.",
+  "last_updated": "2025-12-29"
+}

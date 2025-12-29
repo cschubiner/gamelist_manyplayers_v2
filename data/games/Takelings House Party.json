@@ -1,0 +1,17 @@
+{
+  "title": "Takelings House Party",
+  "review_score_100": 75,
+  "max_players": 9,
+  "platforms": [
+    "Windows",
+    "SteamVR",
+    "Mobile (browser)"
+  ],
+  "review_sources": [
+    "https://store.steampowered.com/app/868150/Takelings_House_Party/",
+    "https://steamdb.info/app/868150/"
+  ],
+  "notes": "Steam shows Mostly Positive (79% of 298). SteamDB shows 73.24% positive; blended mid\u201170s.",
+  "raw_comment": "1 VR player attempts to exterminate the pesky takelings that have invaded his house. 1VR player vs up to 8 local players or AI. Up to 8 gamepads. Phones as controllers. Shared screen + 1 VR .",
+  "last_updated": "2025-12-29"
+}

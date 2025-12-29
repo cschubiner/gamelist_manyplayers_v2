@@ -1,0 +1,16 @@
+{
+  "title": "Couch Cup",
+  "review_score_100": 70,
+  "max_players": 12,
+  "platforms": [
+    "Windows",
+    "Mobile (browser)"
+  ],
+  "review_sources": [
+    "https://store.steampowered.com/app/2606730/Couch_Cup/",
+    "https://steamdb.info/app/2606730/"
+  ],
+  "notes": "Very small review sample with mostly positive sentiment; score around 70.",
+  "raw_comment": "Minigames. 3-12 local players. \ud83d\udcf1 Phones as controllers using browsers. \ud83d\udda5\ufe0f Shared screen.",
+  "last_updated": "2025-12-29"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Bomb Fight",
+  "review_score_100": 60,
+  "max_players": 12,
+  "platforms": [
+    "Windows"
+  ],
+  "review_sources": [
+    "https://store.steampowered.com/app/1241400/Bomb_Fight/",
+    "https://steamdb.info/app/1241400/"
+  ],
+  "notes": "Steam has 4 reviews (no score). SteamDB shows 73.52% positive (4 reviews); tiny sample keeps score moderate.",
+  "raw_comment": "Bomberman inspired game with 4 game modes. 12 local players. Support for: 12 gamepads. Shared controllers. 4 keyboard players. Shared screen.",
+  "last_updated": "2025-12-29"
+}

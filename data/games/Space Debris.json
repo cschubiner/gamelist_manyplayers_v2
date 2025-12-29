@@ -1,0 +1,15 @@
+{
+  "title": "Space Debris",
+  "review_score_100": 60,
+  "max_players": 16,
+  "platforms": [
+    "Windows"
+  ],
+  "review_sources": [
+    "https://store.steampowered.com/app/1410300/Space_Debris/",
+    "https://steamdb.info/app/1410300/"
+  ],
+  "notes": "Steam has 2 reviews (no score). SteamDB shows 64.08% positive; tiny sample keeps score moderate.",
+  "raw_comment": "Asteroids type game. Co-op or versus.12 ships with different abilities. 1-16 local players. 4 Xinput + 8 Dinput + 4 Keyboard. Shared screen.",
+  "last_updated": "2025-12-29"
+}

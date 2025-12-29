@@ -1,0 +1,15 @@
+{
+  "title": "Up to Par",
+  "review_score_100": 80,
+  "max_players": 16,
+  "platforms": [
+    "Windows"
+  ],
+  "review_sources": [
+    "https://store.steampowered.com/app/3006150/Up_to_Par/",
+    "https://steamdb.info/app/3006150/"
+  ],
+  "notes": "Steam shows Positive (83% of 12). SteamDB shows 81.07% positive; small sample keeps score around 80.",
+  "raw_comment": "Minigolf with roguelite elements. 16 local players simultaneously. \ud83c\udfae 16 PS4/PS5. SteamInput on. \ud83c\udfae 16 XBox. \u2328 1 on keyboard. \ud83d\uddb1 1 on mouse. \ud83d\udda5\ufe0f Shared screen.",
+  "last_updated": "2025-12-29"
+}

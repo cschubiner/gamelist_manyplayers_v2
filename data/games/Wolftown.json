@@ -1,0 +1,16 @@
+{
+  "title": "Wolftown",
+  "review_score_100": 64,
+  "max_players": 16,
+  "platforms": [
+    "Windows",
+    "Mobile (browser)"
+  ],
+  "review_sources": [
+    "https://store.steampowered.com/app/2822070/Wolftown/",
+    "https://steamdb.info/app/2822070/"
+  ],
+  "notes": "Steam has 2 reviews (no score). SteamDB shows 64.08% positive; tiny sample keeps score mid\u201160s.",
+  "raw_comment": "Social deduction game. 4-16 local players. \ud83d\udcf1 Phones as controllers using browsers. \ud83d\udda5\ufe0f Phones and shared screen.",
+  "last_updated": "2025-12-29"
+}

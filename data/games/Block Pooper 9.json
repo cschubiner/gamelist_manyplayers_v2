@@ -1,0 +1,15 @@
+{
+  "title": "Block Pooper 9",
+  "review_score_100": 62,
+  "max_players": 16,
+  "platforms": [
+    "Windows"
+  ],
+  "review_sources": [
+    "https://store.steampowered.com/app/972600/Block_Pooper_9/",
+    "https://steamdb.info/app/972600/"
+  ],
+  "notes": "Steam shows Mixed (65% of 26). SteamDB shows 61.38% positive (28 reviews); blended to low\u201160s.",
+  "raw_comment": "Players control heads competing to collect falling points and collaborating to keep the heart from being eaten. At least 16 local players. Tested with more than 4 XInput controllers. Shared screen",
+  "last_updated": "2025-12-29"
+}

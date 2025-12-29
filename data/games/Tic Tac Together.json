@@ -1,0 +1,16 @@
+{
+  "title": "Tic Tac Together",
+  "review_score_100": 70,
+  "max_players": 12,
+  "platforms": [
+    "Windows",
+    "Mobile (browser)"
+  ],
+  "review_sources": [
+    "https://store.steampowered.com/app/1996890/Tic_Tac_Together/",
+    "https://steamdb.info/app/1996890/"
+  ],
+  "notes": "Steam has 8 reviews (no score). SteamDB shows 80.97% positive; small sample keeps score around 70.",
+  "raw_comment": "Team based Tic Tac Toe. 12 players. Phone/tablet/ browser as a controller.",
+  "last_updated": "2025-12-29"
+}

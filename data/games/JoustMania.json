@@ -1,0 +1,16 @@
+{
+  "title": "JoustMania",
+  "review_score_100": 80,
+  "max_players": 18,
+  "platforms": [
+    "Windows",
+    "Raspberry Pi"
+  ],
+  "review_sources": [
+    "https://store.steampowered.com/app/1093850/JoustMania/",
+    "https://steamdb.info/app/1093850/"
+  ],
+  "notes": "Steam shows Positive (92% of 13). SteamDB shows 79.35% positive; small sample keeps score ~80.",
+  "raw_comment": "Physical party game for open spaces. Requires PlayStation Move controllers. Several game modes. Supports 7 PS Move controllers on Windows or 18+ PS Move controllers on Raspberry Pi. (No screen.)",
+  "last_updated": "2025-12-29"
+}
