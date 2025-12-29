@@ -13,5 +13,21 @@
   ],
   "notes": "Steam shows Overwhelmingly Positive (95% of 1,916). Metacritic metascore 74; blended high\u201180s.",
   "raw_comment": "5 party games, phones or tablets as controllers: Fibbage 3 (2-8 players), Survive the Internet (3-8 players), Monster Seeking Monster (3-7 players), Bracketeering (3-16 pl.), Civic Doodle (3-8 pl.)",
-  "last_updated": "2025-12-29"
+  "last_updated": "2025-12-29",
+  "screen_mode": "unknown",
+  "play_mode": "unknown",
+  "input_methods": [
+    "gamepad",
+    "phone",
+    "tablet",
+    "vr"
+  ],
+  "requires_vr": true,
+  "shared_screen": false,
+  "split_screen": false,
+  "separate_screens": false,
+  "turn_based": false,
+  "simultaneous": false,
+  "review_count": null,
+  "popularity_score_100": 60
 }

@@ -12,5 +12,19 @@
   ],
   "notes": "Coming soon with no user reviews yet; neutral score pending reviews.",
   "raw_comment": "Up to 6 local players make up prompts. Players and an AI create funny answers to the prompts. Players vote for the funniest prompt. Will humans beat the AI? Shared screen, phones as controllers.",
-  "last_updated": "2025-12-29"
+  "last_updated": "2025-12-29",
+  "screen_mode": "shared",
+  "play_mode": "unknown",
+  "input_methods": [
+    "gamepad",
+    "phone"
+  ],
+  "requires_vr": false,
+  "shared_screen": true,
+  "split_screen": false,
+  "separate_screens": false,
+  "turn_based": false,
+  "simultaneous": false,
+  "review_count": null,
+  "popularity_score_100": 10
 }

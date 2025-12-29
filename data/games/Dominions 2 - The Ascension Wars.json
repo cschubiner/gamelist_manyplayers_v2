@@ -11,5 +11,16 @@
   ],
   "notes": "Small but positive Steam sentiment; score in low\u201180s.",
   "raw_comment": "Turn-based strategy game. 17 local players. \ud83d\udda5\ufe0f Shared screen.",
-  "last_updated": "2025-12-29"
+  "last_updated": "2025-12-29",
+  "screen_mode": "shared",
+  "play_mode": "turn_based",
+  "input_methods": [],
+  "requires_vr": false,
+  "shared_screen": true,
+  "split_screen": false,
+  "separate_screens": false,
+  "turn_based": true,
+  "simultaneous": false,
+  "review_count": null,
+  "popularity_score_100": 60
 }

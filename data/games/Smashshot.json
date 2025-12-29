@@ -11,5 +11,16 @@
   ],
   "notes": "Steam has 4 reviews (no score). SteamDB shows 73.52% positive; tiny sample keeps score around 70.",
   "raw_comment": "Top-down twinstick shooter. 2-9 local players in PvP. 1-6 in PvE.",
-  "last_updated": "2025-12-29"
+  "last_updated": "2025-12-29",
+  "screen_mode": "unknown",
+  "play_mode": "unknown",
+  "input_methods": [],
+  "requires_vr": false,
+  "shared_screen": false,
+  "split_screen": false,
+  "separate_screens": false,
+  "turn_based": false,
+  "simultaneous": false,
+  "review_count": null,
+  "popularity_score_100": 40
 }

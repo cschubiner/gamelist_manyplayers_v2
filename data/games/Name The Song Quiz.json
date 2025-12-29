@@ -11,5 +11,19 @@
   ],
   "notes": "Steam shows Mixed (56% of 50). SteamDB shows 54.16% positive; blended mid\u201150s.",
   "raw_comment": "Guess the name of the song. Up to 18 local players using shared gamepads and 2 keyboard players. Support for teams. Use own song folder. Single Screen.",
-  "last_updated": "2025-12-29"
+  "last_updated": "2025-12-29",
+  "screen_mode": "shared",
+  "play_mode": "unknown",
+  "input_methods": [
+    "gamepad",
+    "keyboard"
+  ],
+  "requires_vr": false,
+  "shared_screen": true,
+  "split_screen": false,
+  "separate_screens": false,
+  "turn_based": false,
+  "simultaneous": false,
+  "review_count": null,
+  "popularity_score_100": 56
 }

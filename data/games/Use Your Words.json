@@ -12,5 +12,19 @@
   ],
   "notes": "Steam shows Very Positive: 90% of 741 reviews; Steambase player score 89/100. Score reflects strong sentiment.",
   "raw_comment": "Word based party game with 4 mini games. 3-6 players using phones, tablets, etc. Up to 1000 spectators can participate by voting for their favorite answers.",
-  "last_updated": "2025-12-29"
+  "last_updated": "2025-12-29",
+  "screen_mode": "unknown",
+  "play_mode": "unknown",
+  "input_methods": [
+    "phone",
+    "tablet"
+  ],
+  "requires_vr": false,
+  "shared_screen": false,
+  "split_screen": false,
+  "separate_screens": false,
+  "turn_based": false,
+  "simultaneous": false,
+  "review_count": 741,
+  "popularity_score_100": 89
 }

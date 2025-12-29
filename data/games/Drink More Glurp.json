@@ -12,5 +12,18 @@
   ],
   "notes": "Steam shows Very Positive (89% of 189). SteamDB shows 87% positive; blended high\u201180s.",
   "raw_comment": "Whacky physics based sports(ish) events. 2-20 local players in turn based multiplayer. Requires a gamepad with 2 analog sticks.",
-  "last_updated": "2025-12-29"
+  "last_updated": "2025-12-29",
+  "screen_mode": "unknown",
+  "play_mode": "turn_based",
+  "input_methods": [
+    "gamepad"
+  ],
+  "requires_vr": false,
+  "shared_screen": false,
+  "split_screen": false,
+  "separate_screens": false,
+  "turn_based": true,
+  "simultaneous": false,
+  "review_count": null,
+  "popularity_score_100": 60
 }

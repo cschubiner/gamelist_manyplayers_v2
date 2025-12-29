@@ -12,5 +12,21 @@
   ],
   "notes": "Steam shows Mostly Positive (79% of 24). SteamDB shows 68.75% positive (25 reviews). Small sample lowers confidence.",
   "raw_comment": "A party game for deeper conversations. Local multiplayer for 2-5 players. Browser on phones, tablets, etc. as controllers. Shared screen.",
-  "last_updated": "2025-12-29"
+  "last_updated": "2025-12-29",
+  "screen_mode": "shared",
+  "play_mode": "unknown",
+  "input_methods": [
+    "browser",
+    "gamepad",
+    "phone",
+    "tablet"
+  ],
+  "requires_vr": false,
+  "shared_screen": true,
+  "split_screen": false,
+  "separate_screens": false,
+  "turn_based": false,
+  "simultaneous": false,
+  "review_count": 25,
+  "popularity_score_100": 59
 }

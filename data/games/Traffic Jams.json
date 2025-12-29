@@ -13,5 +13,19 @@
   ],
   "notes": "Steam shows Mixed: 61% of 18 reviews. SteamDB shows 57.31% positive; blended to low\u201160s.",
   "raw_comment": "Control traffic in VR with hand gestures. Up to 4 mobile players try to mess with the VR player by activating natural disasters or causing crashes.",
-  "last_updated": "2025-12-29"
+  "last_updated": "2025-12-29",
+  "screen_mode": "unknown",
+  "play_mode": "unknown",
+  "input_methods": [
+    "phone",
+    "vr"
+  ],
+  "requires_vr": true,
+  "shared_screen": false,
+  "split_screen": false,
+  "separate_screens": false,
+  "turn_based": false,
+  "simultaneous": false,
+  "review_count": 18,
+  "popularity_score_100": 45
 }

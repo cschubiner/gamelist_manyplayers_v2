@@ -13,5 +13,19 @@
   ],
   "notes": "Steam shows Very Positive (86% of 4,309). Metacritic metascore 70; blended low\u201180s.",
   "raw_comment": "5 party games, phones as controllers: Fibbage 4 (2-8 players). Quixort (1-10 players). Junktopia (3-8 players). Nonsensory (3-8 players). Roomerang (4-9 players)",
-  "last_updated": "2025-12-29"
+  "last_updated": "2025-12-29",
+  "screen_mode": "unknown",
+  "play_mode": "unknown",
+  "input_methods": [
+    "gamepad",
+    "phone"
+  ],
+  "requires_vr": false,
+  "shared_screen": false,
+  "split_screen": false,
+  "separate_screens": false,
+  "turn_based": false,
+  "simultaneous": false,
+  "review_count": null,
+  "popularity_score_100": 60
 }

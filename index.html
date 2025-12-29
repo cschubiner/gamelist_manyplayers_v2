@@ -21,8 +21,13 @@
     <main class="app">
       <section class="controls">
         <div class="control-group">
-          <label for="search">Search</label>
+          <label for="search">Search title</label>
           <input id="search" type="search" placeholder="Search by title..." />
+        </div>
+
+        <div class="control-group">
+          <label for="notesSearch">Search notes</label>
+          <input id="notesSearch" type="search" placeholder="Search in notes & comments..." />
         </div>
 
         <div class="control-group">
@@ -32,9 +37,21 @@
         </div>
 
         <div class="control-group">
+          <label for="popularityRange">Popularity (min)</label>
+          <input id="popularityRange" type="range" min="0" max="100" value="0" />
+          <div class="range-value"><span id="popularityValue">0</span>+</div>
+        </div>
+
+        <div class="control-group">
           <label for="playersRange">Max players (min)</label>
           <input id="playersRange" type="range" min="1" max="60" value="1" />
           <div class="range-value"><span id="playersValue">1</span>+</div>
+        </div>
+
+        <div class="control-group">
+          <label for="reviewCountRange">Review count (min)</label>
+          <input id="reviewCountRange" type="range" min="0" max="1000" value="0" />
+          <div class="range-value"><span id="reviewCountValue">0</span>+</div>
         </div>
 
         <div class="control-group">
@@ -43,8 +60,24 @@
         </div>
 
         <div class="control-group">
+          <label>Screen mode</label>
+          <div id="screenModes" class="chip-list"></div>
+        </div>
+
+        <div class="control-group">
+          <label>Play mode</label>
+          <div id="playModes" class="chip-list"></div>
+        </div>
+
+        <div class="control-group">
+          <label>Input methods</label>
+          <div id="inputMethods" class="chip-list"></div>
+        </div>
+
+        <div class="control-group">
           <label for="sort">Sort</label>
           <select id="sort">
+            <option value="popularity_desc">Popularity (high → low)</option>
             <option value="score_desc">Score (high → low)</option>
             <option value="players_desc">Max players (high → low)</option>
             <option value="title_asc">Title (A → Z)</option>
@@ -56,6 +89,18 @@
             <input id="viewToggle" type="checkbox" />
             <span>Table view</span>
           </label>
+        </div>
+
+        <div class="control-group inline">
+          <label class="toggle">
+            <input id="vrToggle" type="checkbox" />
+            <span>Requires VR</span>
+          </label>
+        </div>
+
+        <div class="control-group">
+          <label for="updatedAfter">Updated after</label>
+          <input id="updatedAfter" type="date" />
         </div>
       </section>
 
@@ -78,8 +123,11 @@
             <tr>
               <th>Title</th>
               <th>Score</th>
+              <th>Popularity</th>
               <th>Max players</th>
+              <th>Reviews</th>
               <th>Platforms</th>
+              <th>Updated</th>
             </tr>
           </thead>
           <tbody id="tableBody"></tbody>

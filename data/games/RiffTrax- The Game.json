@@ -16,5 +16,20 @@
   ],
   "notes": "Steam shows Very Positive: 88% of 316 reviews. Metacritic metascore 71; blended to mid\u201170s.",
   "raw_comment": "Compete in writing or selecting the funniest captions to b-movie film clips. Up to 6 players using browsers on smartphones, tablets, etc. An additional 12 audience members can play along.",
-  "last_updated": "2025-12-29"
+  "last_updated": "2025-12-29",
+  "screen_mode": "unknown",
+  "play_mode": "unknown",
+  "input_methods": [
+    "browser",
+    "phone",
+    "tablet"
+  ],
+  "requires_vr": false,
+  "shared_screen": false,
+  "split_screen": false,
+  "separate_screens": false,
+  "turn_based": false,
+  "simultaneous": false,
+  "review_count": 316,
+  "popularity_score_100": 76
 }

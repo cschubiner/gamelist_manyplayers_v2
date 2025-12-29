@@ -9,7 +9,21 @@
     "https://store.steampowered.com/app/1241400/Bomb_Fight/",
     "https://steamdb.info/app/1241400/"
   ],
-  "notes": "Steam has 4 reviews (no score). SteamDB shows 73.52% positive (4 reviews); tiny sample keeps score moderate.",
+  "notes": "Steam has 4 reviews (no score). SteamDB shows 73.52% positive (4 reviews); tiny sample keeps score moderate. Steambase shows 4 reviews; local shared-screen bomber game with gamepad/keyboard support.",
   "raw_comment": "Bomberman inspired game with 4 game modes. 12 local players. Support for: 12 gamepads. Shared controllers. 4 keyboard players. Shared screen.",
-  "last_updated": "2025-12-29"
+  "last_updated": "2025-12-29",
+  "screen_mode": "shared",
+  "play_mode": "simultaneous",
+  "input_methods": [
+    "gamepad",
+    "keyboard"
+  ],
+  "requires_vr": false,
+  "shared_screen": true,
+  "split_screen": false,
+  "separate_screens": false,
+  "turn_based": false,
+  "simultaneous": true,
+  "review_count": 4,
+  "popularity_score_100": 35
 }

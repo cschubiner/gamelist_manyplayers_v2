@@ -12,5 +12,18 @@
   ],
   "notes": "Steam shows Very Positive: 90% of 86 reviews. Score reflects strong sentiment with modest sample.",
   "raw_comment": "Memory based gameplay. 1-8 local players. Mobile devices as input devices. Same screen.",
-  "last_updated": "2025-12-29"
+  "last_updated": "2025-12-29",
+  "screen_mode": "shared",
+  "play_mode": "unknown",
+  "input_methods": [
+    "phone"
+  ],
+  "requires_vr": false,
+  "shared_screen": true,
+  "split_screen": false,
+  "separate_screens": false,
+  "turn_based": false,
+  "simultaneous": false,
+  "review_count": 86,
+  "popularity_score_100": 79
 }

@@ -12,5 +12,21 @@
   ],
   "notes": "Steam shows Mixed (50% of 14). Steambase player score 50; blended to 50.",
   "raw_comment": "Minigames where 1 VR player plays with/against up to 8 players using phones/tablets as controllers. VR + shared screen.",
-  "last_updated": "2025-12-29"
+  "last_updated": "2025-12-29",
+  "screen_mode": "shared",
+  "play_mode": "unknown",
+  "input_methods": [
+    "gamepad",
+    "phone",
+    "tablet",
+    "vr"
+  ],
+  "requires_vr": true,
+  "shared_screen": true,
+  "split_screen": false,
+  "separate_screens": false,
+  "turn_based": false,
+  "simultaneous": false,
+  "review_count": null,
+  "popularity_score_100": 50
 }

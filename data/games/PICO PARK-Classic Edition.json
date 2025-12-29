@@ -11,5 +11,19 @@
   ],
   "notes": "Steam shows Overwhelmingly Positive (97% of 16,275). SteamDB shows 95.79% positive; strong consensus.",
   "raw_comment": "A cooperative local multiplayer action puzzle game for 2-10 players. Up to 10 gamepads or phones as controllers. (See Pico Park a newer version for 8 local players + online mp without phone support.)",
-  "last_updated": "2025-12-29"
+  "last_updated": "2025-12-29",
+  "screen_mode": "unknown",
+  "play_mode": "unknown",
+  "input_methods": [
+    "gamepad",
+    "phone"
+  ],
+  "requires_vr": false,
+  "shared_screen": false,
+  "split_screen": false,
+  "separate_screens": false,
+  "turn_based": false,
+  "simultaneous": false,
+  "review_count": null,
+  "popularity_score_100": 60
 }

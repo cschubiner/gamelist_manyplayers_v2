@@ -12,5 +12,18 @@
   ],
   "notes": "Steam has only 12 reviews (no score). SteamDB shows 76.41% positive; small sample lowers confidence.",
   "raw_comment": "VR Cooperative communication game in space. Single player in VR with 2 bots. 2-6 players online. Local multiplayer with 1 VR player + up to 5 smart devices. Separate screens.",
-  "last_updated": "2025-12-29"
+  "last_updated": "2025-12-29",
+  "screen_mode": "separate",
+  "play_mode": "unknown",
+  "input_methods": [
+    "vr"
+  ],
+  "requires_vr": true,
+  "shared_screen": false,
+  "split_screen": false,
+  "separate_screens": true,
+  "turn_based": false,
+  "simultaneous": false,
+  "review_count": null,
+  "popularity_score_100": 55
 }

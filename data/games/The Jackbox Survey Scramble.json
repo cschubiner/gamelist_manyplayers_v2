@@ -13,5 +13,21 @@
   ],
   "notes": "Steam shows Very Positive (85% of 40). SteamDB shows 81.25% positive; small sample keeps score low\u201180s.",
   "raw_comment": "Survey based game modes. 2-10 local players and up to 10,000 audience members. Phones/tablets/browsers as controllers. \ud83d\udcf1 10 phones using browsers. \ud83d\udda5\ufe0f Shared screen.",
-  "last_updated": "2025-12-29"
+  "last_updated": "2025-12-29",
+  "screen_mode": "shared",
+  "play_mode": "unknown",
+  "input_methods": [
+    "browser",
+    "gamepad",
+    "phone",
+    "tablet"
+  ],
+  "requires_vr": false,
+  "shared_screen": true,
+  "split_screen": false,
+  "separate_screens": false,
+  "turn_based": false,
+  "simultaneous": false,
+  "review_count": null,
+  "popularity_score_100": 55
 }

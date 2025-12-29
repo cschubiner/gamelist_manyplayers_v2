@@ -11,5 +11,21 @@
   ],
   "notes": "Steam has 6 reviews (no score). Steambase player score 71 based on 7 reviews; small sample.",
   "raw_comment": "VR + local multiplayer mini game based party game. 2-6 players in VR + keyboard/controller mode. 4-9 players in VR + smartphone mode. Separate screens.",
-  "last_updated": "2025-12-29"
+  "last_updated": "2025-12-29",
+  "screen_mode": "separate",
+  "play_mode": "unknown",
+  "input_methods": [
+    "gamepad",
+    "keyboard",
+    "phone",
+    "vr"
+  ],
+  "requires_vr": true,
+  "shared_screen": false,
+  "split_screen": false,
+  "separate_screens": true,
+  "turn_based": false,
+  "simultaneous": false,
+  "review_count": 7,
+  "popularity_score_100": 46
 }

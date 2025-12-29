@@ -11,5 +11,20 @@
   ],
   "notes": "Steam shows Positive: 81% of 16 reviews. Small sample lowers confidence.",
   "raw_comment": "Top-down racing game for up to 8 local players. 2 keyboard players, up to 8 gamepads (XInput limit unverified), up to 8 phones as controllers. Shared screen.",
-  "last_updated": "2025-12-29"
+  "last_updated": "2025-12-29",
+  "screen_mode": "shared",
+  "play_mode": "unknown",
+  "input_methods": [
+    "gamepad",
+    "keyboard",
+    "phone"
+  ],
+  "requires_vr": false,
+  "shared_screen": true,
+  "split_screen": false,
+  "separate_screens": false,
+  "turn_based": false,
+  "simultaneous": false,
+  "review_count": 16,
+  "popularity_score_100": 60
 }

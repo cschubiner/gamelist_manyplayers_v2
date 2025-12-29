@@ -12,5 +12,21 @@
   ],
   "notes": "Steam has only 8 reviews (no score). SteamDB shows 74.19% positive from 8 reviews; small sample lowers confidence.",
   "raw_comment": "Co-op survival for 1-8 local players. Input support: mouse, keyboard, gamepad, smartphones as controllers. Top down, single screen.",
-  "last_updated": "2025-12-29"
+  "last_updated": "2025-12-29",
+  "screen_mode": "shared",
+  "play_mode": "unknown",
+  "input_methods": [
+    "gamepad",
+    "keyboard",
+    "mouse",
+    "phone"
+  ],
+  "requires_vr": false,
+  "shared_screen": true,
+  "split_screen": false,
+  "separate_screens": false,
+  "turn_based": false,
+  "simultaneous": false,
+  "review_count": 8,
+  "popularity_score_100": 47
 }

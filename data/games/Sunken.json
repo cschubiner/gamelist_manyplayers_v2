@@ -11,5 +11,16 @@
   ],
   "notes": "Steam has 4 reviews (no score). SteamDB shows 70.84% positive; small sample keeps score moderate.",
   "raw_comment": "Real time naval multiplayer battles for up to 12 local players, Shared screen.",
-  "last_updated": "2025-12-29"
+  "last_updated": "2025-12-29",
+  "screen_mode": "shared",
+  "play_mode": "simultaneous",
+  "input_methods": [],
+  "requires_vr": false,
+  "shared_screen": true,
+  "split_screen": false,
+  "separate_screens": false,
+  "turn_based": false,
+  "simultaneous": true,
+  "review_count": null,
+  "popularity_score_100": 55
 }

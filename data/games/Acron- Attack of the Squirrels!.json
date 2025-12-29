@@ -12,7 +12,21 @@
     "https://store.steampowered.com/app/1094870/Acron_Attack_of_the_Squirrels/",
     "https://steamdb.info/app/1094870/info/"
   ],
-  "notes": "Steam shows Very Positive (94% of 154). SteamDB shows 84.45% positive (204 reviews). Blended to high\u201180s.",
+  "notes": "Steam shows Very Positive (94% of 154). SteamDB shows 84.45% positive (204 reviews). Blended to high\u201180s. Steam store requires a VR player plus mobile players (iOS/Android); played together on a shared screen.",
   "raw_comment": "1 VR player plays as a tree whose mission is to protect the golden acorns from theiving squirrels. The squirrels are played by 2-8 mobile device players. Seperate screens.",
-  "last_updated": "2025-12-29"
+  "last_updated": "2025-12-29",
+  "screen_mode": "shared",
+  "play_mode": "simultaneous",
+  "input_methods": [
+    "vr",
+    "phone"
+  ],
+  "requires_vr": true,
+  "shared_screen": true,
+  "split_screen": false,
+  "separate_screens": false,
+  "turn_based": false,
+  "simultaneous": true,
+  "review_count": 154,
+  "popularity_score_100": 83
 }

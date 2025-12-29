@@ -11,5 +11,16 @@
   ],
   "notes": "Steam has 2 reviews (no score). SteamDB shows 59.60% positive (4 reviews); tiny sample keeps score near 60.",
   "raw_comment": "2d side view dogfighting game with up to 16 local players. Singleplayer and Online supported as well. Shared screen.",
-  "last_updated": "2025-12-29"
+  "last_updated": "2025-12-29",
+  "screen_mode": "shared",
+  "play_mode": "unknown",
+  "input_methods": [],
+  "requires_vr": false,
+  "shared_screen": true,
+  "split_screen": false,
+  "separate_screens": false,
+  "turn_based": false,
+  "simultaneous": false,
+  "review_count": 4,
+  "popularity_score_100": 35
 }

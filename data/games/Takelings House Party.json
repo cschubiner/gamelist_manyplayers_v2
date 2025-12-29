@@ -13,5 +13,20 @@
   ],
   "notes": "Steam shows Mostly Positive (79% of 298). SteamDB shows 73.24% positive; blended mid\u201170s.",
   "raw_comment": "1 VR player attempts to exterminate the pesky takelings that have invaded his house. 1VR player vs up to 8 local players or AI. Up to 8 gamepads. Phones as controllers. Shared screen + 1 VR .",
-  "last_updated": "2025-12-29"
+  "last_updated": "2025-12-29",
+  "screen_mode": "shared",
+  "play_mode": "unknown",
+  "input_methods": [
+    "gamepad",
+    "phone",
+    "vr"
+  ],
+  "requires_vr": true,
+  "shared_screen": true,
+  "split_screen": false,
+  "separate_screens": false,
+  "turn_based": false,
+  "simultaneous": false,
+  "review_count": null,
+  "popularity_score_100": 60
 }

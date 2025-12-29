@@ -10,7 +10,21 @@
     "https://www.metacritic.com/game/as-dusk-falls/",
     "https://steambase.io/games/as-dusk-falls/steam-charts"
   ],
-  "notes": "Steam shows Very Positive: 90% of 3,307 reviews; Metacritic metascore 77. Blended to low\u201180s.",
+  "notes": "Steam shows Very Positive: 90% of 3,307 reviews; Metacritic metascore 77. Blended to low\u201180s. Official FAQ and companion app describe up to 8 players on the same screen using controllers and smartphones.",
   "raw_comment": "Interactive story based on choices. Up to 8 players can experience the game together by using the companion app to vote on choices. Phones as controllers. Shared screen.",
-  "last_updated": "2025-12-29"
+  "last_updated": "2025-12-29",
+  "screen_mode": "shared",
+  "play_mode": "simultaneous",
+  "input_methods": [
+    "gamepad",
+    "phone"
+  ],
+  "requires_vr": false,
+  "shared_screen": true,
+  "split_screen": false,
+  "separate_screens": false,
+  "turn_based": false,
+  "simultaneous": true,
+  "review_count": 3760,
+  "popularity_score_100": 89
 }

@@ -14,5 +14,19 @@
   ],
   "notes": "Steam English reviews are Very Positive (87% of 2,055). SteamDB shows 84.28% positive across ~3k reviews; strong sentiment.",
   "raw_comment": "Detective game. Can be played single player, online or locally. 6 local players. \ud83d\udcf1 6 phones as controllers using an app. \ud83d\udda5\ufe0f Phones and shared screen.",
-  "last_updated": "2025-12-29"
+  "last_updated": "2025-12-29",
+  "screen_mode": "separate",
+  "play_mode": "unknown",
+  "input_methods": [
+    "gamepad",
+    "phone"
+  ],
+  "requires_vr": false,
+  "shared_screen": false,
+  "split_screen": false,
+  "separate_screens": true,
+  "turn_based": false,
+  "simultaneous": false,
+  "review_count": 3000,
+  "popularity_score_100": 89
 }

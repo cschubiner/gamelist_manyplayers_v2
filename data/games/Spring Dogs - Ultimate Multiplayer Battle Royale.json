@@ -11,5 +11,19 @@
   ],
   "notes": "Steam shows Very Positive (81% of 11). SteamDB shows 78.53% positive; tiny sample.",
   "raw_comment": "3D platform racing. 8 local players or up to 16 players in teams of two. \ud83c\udfae 16 PS4/PS5 with Steam Input off. \ud83c\udfae 4 XBox. (16 via virtual PS4 using reWASD.) \u2328 2 on keyboard. \ud83d\udda5\ufe0f Split screen.",
-  "last_updated": "2025-12-29"
+  "last_updated": "2025-12-29",
+  "screen_mode": "split",
+  "play_mode": "unknown",
+  "input_methods": [
+    "gamepad",
+    "keyboard"
+  ],
+  "requires_vr": false,
+  "shared_screen": false,
+  "split_screen": true,
+  "separate_screens": false,
+  "turn_based": false,
+  "simultaneous": false,
+  "review_count": null,
+  "popularity_score_100": 40
 }

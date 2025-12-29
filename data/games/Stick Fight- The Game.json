@@ -13,5 +13,19 @@
   ],
   "notes": "Steam shows Overwhelmingly Positive (95% of 112,799). SteamDB shows 92.23% positive; strong consensus.",
   "raw_comment": "Hidden object. Co-op or vs. 17 local players. 17 players = 12 gamepads + 4 keyb. players +1 mouse. \ud83c\udfae SteamInput off: 8 PS4, 0 PS5, 4 XBox. SteamInput On (gamepad profile): 4 PS4/PS5/XBox. \ud83d\udda5\ufe0fShared",
-  "last_updated": "2025-12-29"
+  "last_updated": "2025-12-29",
+  "screen_mode": "unknown",
+  "play_mode": "unknown",
+  "input_methods": [
+    "gamepad",
+    "mouse"
+  ],
+  "requires_vr": false,
+  "shared_screen": false,
+  "split_screen": false,
+  "separate_screens": false,
+  "turn_based": false,
+  "simultaneous": false,
+  "review_count": null,
+  "popularity_score_100": 60
 }

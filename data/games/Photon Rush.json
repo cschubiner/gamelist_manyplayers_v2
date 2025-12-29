@@ -13,5 +13,19 @@
   ],
   "notes": "Steam shows no user reviews yet; neutral score pending reviews.",
   "raw_comment": "Tron/Light cycle inspired game with power ups. 16 local players. Up to 8 controllers with support for 2 players per controller. 4 players on keyboard. Splitscreen.",
-  "last_updated": "2025-12-29"
+  "last_updated": "2025-12-29",
+  "screen_mode": "split",
+  "play_mode": "unknown",
+  "input_methods": [
+    "gamepad",
+    "keyboard"
+  ],
+  "requires_vr": false,
+  "shared_screen": false,
+  "split_screen": true,
+  "separate_screens": false,
+  "turn_based": false,
+  "simultaneous": false,
+  "review_count": null,
+  "popularity_score_100": 10
 }

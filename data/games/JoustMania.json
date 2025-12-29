@@ -12,5 +12,18 @@
   ],
   "notes": "Steam shows Positive (92% of 13). SteamDB shows 79.35% positive; small sample keeps score ~80.",
   "raw_comment": "Physical party game for open spaces. Requires PlayStation Move controllers. Several game modes. Supports 7 PS Move controllers on Windows or 18+ PS Move controllers on Raspberry Pi. (No screen.)",
-  "last_updated": "2025-12-29"
+  "last_updated": "2025-12-29",
+  "screen_mode": "no_screen",
+  "play_mode": "unknown",
+  "input_methods": [
+    "gamepad"
+  ],
+  "requires_vr": false,
+  "shared_screen": false,
+  "split_screen": false,
+  "separate_screens": false,
+  "turn_based": false,
+  "simultaneous": false,
+  "review_count": null,
+  "popularity_score_100": 55
 }

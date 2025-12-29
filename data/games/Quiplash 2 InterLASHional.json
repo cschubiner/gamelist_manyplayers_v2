@@ -17,5 +17,20 @@
   ],
   "notes": "Steam reviews are Very Positive (92% of 323). Metacritic has two critic reviews (80\u201382), supporting a high blended score.",
   "raw_comment": "Party game with phones or tablets as controllers for 3-8 players. Content in French, Italian, German, Spanish, and English. English content is identical to Quiplash 2, found in Jackbox Party Pack 3.",
-  "last_updated": "2025-12-29"
+  "last_updated": "2025-12-29",
+  "screen_mode": "unknown",
+  "play_mode": "unknown",
+  "input_methods": [
+    "gamepad",
+    "phone",
+    "tablet"
+  ],
+  "requires_vr": false,
+  "shared_screen": false,
+  "split_screen": false,
+  "separate_screens": false,
+  "turn_based": false,
+  "simultaneous": false,
+  "review_count": null,
+  "popularity_score_100": 60
 }

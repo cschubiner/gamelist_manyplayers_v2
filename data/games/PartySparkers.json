@@ -11,5 +11,19 @@
   ],
   "notes": "Coming soon with no user reviews yet; neutral score pending reviews.",
   "raw_comment": "3 party games, phones as controllers: Trivia game Bajillions (2-20 players), Improv game Unrealty (3-7), and the bluffing game Little Stinkers (2-6)",
-  "last_updated": "2025-12-29"
+  "last_updated": "2025-12-29",
+  "screen_mode": "unknown",
+  "play_mode": "unknown",
+  "input_methods": [
+    "gamepad",
+    "phone"
+  ],
+  "requires_vr": false,
+  "shared_screen": false,
+  "split_screen": false,
+  "separate_screens": false,
+  "turn_based": false,
+  "simultaneous": false,
+  "review_count": null,
+  "popularity_score_100": 10
 }

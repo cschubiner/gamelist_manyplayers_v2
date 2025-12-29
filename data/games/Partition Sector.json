@@ -11,5 +11,19 @@
   ],
   "notes": "Steam has 3 reviews (no score). SteamDB shows 69.20% positive (4 reviews); tiny sample keeps score moderate.",
   "raw_comment": "Bomberman-like game with 6 game modes: Classic, Deathmatch, CTF, Battle Royale (individual or team), King of the Hill, Snake Hunter. Up to 20 local players. 16 gamepads + 4 keyboard. Shared screen.",
-  "last_updated": "2025-12-29"
+  "last_updated": "2025-12-29",
+  "screen_mode": "shared",
+  "play_mode": "unknown",
+  "input_methods": [
+    "gamepad",
+    "keyboard"
+  ],
+  "requires_vr": false,
+  "shared_screen": true,
+  "split_screen": false,
+  "separate_screens": false,
+  "turn_based": false,
+  "simultaneous": false,
+  "review_count": 4,
+  "popularity_score_100": 35
 }

@@ -12,7 +12,22 @@
     "https://steamdb.info/app/529950/depots/",
     "https://www.metacritic.com/game/12-orbits/"
   ],
-  "notes": "Steam shows Very Positive (87% of 263). SteamDB shows 81.01% positive (289 reviews). Metacritic has no score yet; blended to mid\u201180s.",
+  "notes": "Steam shows Very Positive (87% of 263). SteamDB shows 81.01% positive (289 reviews). Metacritic has no score yet; blended to mid\u201180s. Steam store describes local multiplayer for 2-12 people at once and mentions single keyboard/touchscreen/controller support.",
   "raw_comment": "Many different mini-games moving around colorful dots, up to 12 players, same screens",
-  "last_updated": "2025-12-29"
+  "last_updated": "2025-12-29",
+  "screen_mode": "shared",
+  "play_mode": "simultaneous",
+  "input_methods": [
+    "keyboard",
+    "gamepad",
+    "touchscreen"
+  ],
+  "requires_vr": false,
+  "shared_screen": true,
+  "split_screen": false,
+  "separate_screens": false,
+  "turn_based": false,
+  "simultaneous": true,
+  "review_count": 263,
+  "popularity_score_100": 84
 }

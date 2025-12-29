@@ -12,5 +12,19 @@
   ],
   "notes": "Steam shows Very Positive (85% of 1,745). SteamDB shows 85.11% positive; strong consensus.",
   "raw_comment": "Rule a kingdom, try not to lose your head. 4-25 players. \ud83d\udcf1 25 phones using browsers. \ud83d\udda5\ufe0f Phones + shared screen.",
-  "last_updated": "2025-12-29"
+  "last_updated": "2025-12-29",
+  "screen_mode": "separate",
+  "play_mode": "unknown",
+  "input_methods": [
+    "browser",
+    "phone"
+  ],
+  "requires_vr": false,
+  "shared_screen": false,
+  "split_screen": false,
+  "separate_screens": true,
+  "turn_based": false,
+  "simultaneous": false,
+  "review_count": null,
+  "popularity_score_100": 60
 }

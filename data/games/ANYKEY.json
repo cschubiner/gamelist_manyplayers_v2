@@ -12,5 +12,18 @@
   ],
   "notes": "Steam shows Very Positive (83% of 92). SteamDB shows 75.09% positive (92 reviews). Small sample; blended to high\u201170s.",
   "raw_comment": "One button game supporting up to 60 players. Check simultaneous key press limit of your keyboard or plug in extra keyboards. Same screen.",
-  "last_updated": "2025-12-29"
+  "last_updated": "2025-12-29",
+  "screen_mode": "shared",
+  "play_mode": "simultaneous",
+  "input_methods": [
+    "keyboard"
+  ],
+  "requires_vr": false,
+  "shared_screen": true,
+  "split_screen": false,
+  "separate_screens": false,
+  "turn_based": false,
+  "simultaneous": true,
+  "review_count": 92,
+  "popularity_score_100": 73
 }

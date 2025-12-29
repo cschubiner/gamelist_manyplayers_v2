@@ -13,5 +13,16 @@
   ],
   "notes": "Steam shows Overwhelmingly Positive (95% of 77k). Metacritic metascore 90; blended mid\u201190s.",
   "raw_comment": "Turn-based strategy. 12 local players. Up to 22 when changing a value in a file. \ud83d\udda5\ufe0f Shared screen.",
-  "last_updated": "2025-12-29"
+  "last_updated": "2025-12-29",
+  "screen_mode": "shared",
+  "play_mode": "turn_based",
+  "input_methods": [],
+  "requires_vr": false,
+  "shared_screen": true,
+  "split_screen": false,
+  "separate_screens": false,
+  "turn_based": true,
+  "simultaneous": false,
+  "review_count": null,
+  "popularity_score_100": 60
 }

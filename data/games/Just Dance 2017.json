@@ -18,5 +18,19 @@
   ],
   "notes": "Metacritic metascore 72 (19 critic reviews) with mixed user score 5.4. Score tracks critic consensus.",
   "raw_comment": "Dance game where you use smart phones as controllers. Versus or co-op up to 6 players.",
-  "last_updated": "2025-12-29"
+  "last_updated": "2025-12-29",
+  "screen_mode": "unknown",
+  "play_mode": "unknown",
+  "input_methods": [
+    "gamepad",
+    "phone"
+  ],
+  "requires_vr": false,
+  "shared_screen": false,
+  "split_screen": false,
+  "separate_screens": false,
+  "turn_based": false,
+  "simultaneous": false,
+  "review_count": null,
+  "popularity_score_100": 60
 }

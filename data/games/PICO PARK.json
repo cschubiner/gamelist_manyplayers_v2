@@ -11,5 +11,19 @@
   ],
   "notes": "Steam shows Very Positive: 92% of 11,568 reviews. SteamDB shows 89.33% positive; strong sentiment.",
   "raw_comment": "A coop puzzle game for 2-8 local players. New version with same levels as on Nintendo Switch + online mp. 8 Gamepads. 8 phones as controllers. (For 10 local players see Classic Edition.) Shared screen",
-  "last_updated": "2025-12-29"
+  "last_updated": "2025-12-29",
+  "screen_mode": "shared",
+  "play_mode": "unknown",
+  "input_methods": [
+    "gamepad",
+    "phone"
+  ],
+  "requires_vr": false,
+  "shared_screen": true,
+  "split_screen": false,
+  "separate_screens": false,
+  "turn_based": false,
+  "simultaneous": false,
+  "review_count": 11568,
+  "popularity_score_100": 100
 }

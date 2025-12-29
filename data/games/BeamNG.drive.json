@@ -9,7 +9,22 @@
     "https://store.steampowered.com/app/284160/BeamNGdrive/",
     "https://steamdb.info/app/284160/"
   ],
-  "notes": "Steam shows Overwhelmingly Positive (97% of 184k). SteamDB shows 96.41% positive (364k). Strong consensus.",
+  "notes": "Steam shows Overwhelmingly Positive (97% of 184k). SteamDB shows 96.41% positive (364k). Strong consensus. Steam store shows 184,270 English reviews and lists standard PC input methods.",
   "raw_comment": "A dynamic soft-body physics vehicle simulator.\" 16 local players shared screen. Limited by performance and scenarios available. Create scenarios or use freeroam.(4 XInput, 16 DirectInput, 1 keyboard)",
-  "last_updated": "2025-12-29"
+  "last_updated": "2025-12-29",
+  "screen_mode": "shared",
+  "play_mode": "simultaneous",
+  "input_methods": [
+    "gamepad",
+    "keyboard",
+    "mouse"
+  ],
+  "requires_vr": false,
+  "shared_screen": true,
+  "split_screen": false,
+  "separate_screens": false,
+  "turn_based": false,
+  "simultaneous": true,
+  "review_count": 184270,
+  "popularity_score_100": 100
 }

@@ -9,7 +9,21 @@
     "https://store.steampowered.com/app/2221770/AbominAgency/",
     "https://steamdb.info/app/2221770/"
   ],
-  "notes": "Steam shows no user reviews yet; neutral score pending reviews.",
+  "notes": "Steam shows no user reviews yet; neutral score pending reviews. Steam store lists no user reviews and Shared/Split Screen PvP/Co-op; supports local multiplayer with remote play.",
   "raw_comment": "Creative party game for 3-8 players. Smart devices as controllers. \ud83d\udcf1 8 phones using browsers. \ud83d\udda5\ufe0f Phones + shared screen.",
-  "last_updated": "2025-12-29"
+  "last_updated": "2025-12-29",
+  "screen_mode": "shared",
+  "play_mode": "simultaneous",
+  "input_methods": [
+    "phone",
+    "browser"
+  ],
+  "requires_vr": false,
+  "shared_screen": true,
+  "split_screen": false,
+  "separate_screens": false,
+  "turn_based": false,
+  "simultaneous": true,
+  "review_count": 0,
+  "popularity_score_100": 25
 }

@@ -19,5 +19,20 @@
   ],
   "notes": "Steam shows Overwhelmingly Positive: 96% of 10,906 reviews. Metacritic metascore 71; blended score remains very high.",
   "raw_comment": "Drawing based party game with phones or tablets as controllers for 3-8 players.",
-  "last_updated": "2025-12-29"
+  "last_updated": "2025-12-29",
+  "screen_mode": "unknown",
+  "play_mode": "unknown",
+  "input_methods": [
+    "gamepad",
+    "phone",
+    "tablet"
+  ],
+  "requires_vr": false,
+  "shared_screen": false,
+  "split_screen": false,
+  "separate_screens": false,
+  "turn_based": false,
+  "simultaneous": false,
+  "review_count": 10906,
+  "popularity_score_100": 100
 }

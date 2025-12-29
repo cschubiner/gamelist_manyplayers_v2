@@ -9,7 +9,21 @@
     "https://store.steampowered.com/app/1032440/Board_Quizz_Adventure/",
     "https://steamdb.info/app/1032440/"
   ],
-  "notes": "Steam has 1 review (no score). SteamDB shows 69.20% positive (4 reviews); tiny sample keeps score moderate.",
+  "notes": "Steam has 1 review (no score). SteamDB shows 69.20% positive (4 reviews); tiny sample keeps score moderate. Steam store lists 1 review and Shared/Split Screen PvP; only two controllers or keyboard; team-based quiz board play.",
   "raw_comment": "a quiz-board game for 2 teams, up to unlimited (!?) numbers of players, only 2 controllers or 1 keyboard needed. Same screen!",
-  "last_updated": "2025-12-29"
+  "last_updated": "2025-12-29",
+  "screen_mode": "shared",
+  "play_mode": "turn_based",
+  "input_methods": [
+    "gamepad",
+    "keyboard"
+  ],
+  "requires_vr": false,
+  "shared_screen": true,
+  "split_screen": false,
+  "separate_screens": false,
+  "turn_based": true,
+  "simultaneous": false,
+  "review_count": 1,
+  "popularity_score_100": 35
 }

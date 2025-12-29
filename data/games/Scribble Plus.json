@@ -10,5 +10,18 @@
   ],
   "notes": "Steam shows only 7 reviews (6 positive, 1 negative). Small sample keeps score moderate.",
   "raw_comment": "Drawing and guessing game. Custom wordlist support. Several game modes. Modifiers to make drawing trickier. Up to 8 local or online players. Each player uses a device with a browser. Separate screens.",
-  "last_updated": "2025-12-29"
+  "last_updated": "2025-12-29",
+  "screen_mode": "separate",
+  "play_mode": "unknown",
+  "input_methods": [
+    "browser"
+  ],
+  "requires_vr": false,
+  "shared_screen": false,
+  "split_screen": false,
+  "separate_screens": true,
+  "turn_based": false,
+  "simultaneous": false,
+  "review_count": null,
+  "popularity_score_100": 55
 }

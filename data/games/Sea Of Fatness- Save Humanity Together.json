@@ -11,5 +11,18 @@
   ],
   "notes": "Steam shows Mostly Positive (72% of 11). Steambase player score 68; small sample keeps score high\u201160s.",
   "raw_comment": "Physics driven 2d (puzzle?) game. Can be played co-op with XInput gamepads and up to 10 mice. Same screen.",
-  "last_updated": "2025-12-29"
+  "last_updated": "2025-12-29",
+  "screen_mode": "shared",
+  "play_mode": "unknown",
+  "input_methods": [
+    "gamepad"
+  ],
+  "requires_vr": false,
+  "shared_screen": true,
+  "split_screen": false,
+  "separate_screens": false,
+  "turn_based": false,
+  "simultaneous": false,
+  "review_count": null,
+  "popularity_score_100": 55
 }

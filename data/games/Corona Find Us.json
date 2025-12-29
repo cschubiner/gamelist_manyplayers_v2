@@ -11,5 +11,16 @@
   ],
   "notes": "Steambase shows mixed player score with tiny sample; score kept low\u2011mid 50s.",
   "raw_comment": "Nanobots fight viruses and bacteria. 1 to 16 local players or more. Shared screen.",
-  "last_updated": "2025-12-29"
+  "last_updated": "2025-12-29",
+  "screen_mode": "shared",
+  "play_mode": "unknown",
+  "input_methods": [],
+  "requires_vr": false,
+  "shared_screen": true,
+  "split_screen": false,
+  "separate_screens": false,
+  "turn_based": false,
+  "simultaneous": false,
+  "review_count": null,
+  "popularity_score_100": 40
 }

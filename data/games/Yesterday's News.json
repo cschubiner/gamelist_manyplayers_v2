@@ -11,5 +11,19 @@
   ],
   "notes": "Steam shows Positive (93% of 16). Small sample keeps score below mid\u201180s.",
   "raw_comment": "Craft hilarious headlines and vote for the best. 3-8 players. \ud83d\udcf1 8 phones using browsers. \ud83d\udda5\ufe0f Phones + shared screen.",
-  "last_updated": "2025-12-29"
+  "last_updated": "2025-12-29",
+  "screen_mode": "separate",
+  "play_mode": "unknown",
+  "input_methods": [
+    "browser",
+    "phone"
+  ],
+  "requires_vr": false,
+  "shared_screen": false,
+  "split_screen": false,
+  "separate_screens": true,
+  "turn_based": false,
+  "simultaneous": false,
+  "review_count": null,
+  "popularity_score_100": 55
 }

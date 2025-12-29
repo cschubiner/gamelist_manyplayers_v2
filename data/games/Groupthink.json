@@ -12,5 +12,21 @@
   ],
   "notes": "Steam shows Mixed (63% of 11). SteamDB shows 57.18% positive; small sample keeps score around 60.",
   "raw_comment": "Party game where a team comes up with an answer by submitting a letter one person at a time. 3-16 local players. Browser on phones, tablets, etc as controllers. Shared screen.",
-  "last_updated": "2025-12-29"
+  "last_updated": "2025-12-29",
+  "screen_mode": "shared",
+  "play_mode": "unknown",
+  "input_methods": [
+    "browser",
+    "gamepad",
+    "phone",
+    "tablet"
+  ],
+  "requires_vr": false,
+  "shared_screen": true,
+  "split_screen": false,
+  "separate_screens": false,
+  "turn_based": false,
+  "simultaneous": false,
+  "review_count": null,
+  "popularity_score_100": 55
 }

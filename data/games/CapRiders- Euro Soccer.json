@@ -10,7 +10,21 @@
     "https://store.steampowered.com/app/492200/CapRiders_Euro_Soccer/",
     "https://steamdb.info/app/492200/"
   ],
-  "notes": "Steam reviews are Positive (86% of 15). SteamDB shows 74.51% positive (21 reviews); blended score reflects small but favorable sample.",
+  "notes": "Steam reviews are Positive (86% of 15). SteamDB shows 74.51% positive (21 reviews); blended score reflects small but favorable sample. Steam store lists 15 reviews and supports up to 8 gamepads or iOS/Android phones as controllers on the same screen.",
   "raw_comment": "Local multiplayer soccer game with unusual ball control mechanic. Gamepads or Android/iOS phones as controllers. Up to 8 players, same screen.",
-  "last_updated": "2025-12-29"
+  "last_updated": "2025-12-29",
+  "screen_mode": "shared",
+  "play_mode": "simultaneous",
+  "input_methods": [
+    "gamepad",
+    "phone"
+  ],
+  "requires_vr": false,
+  "shared_screen": true,
+  "split_screen": false,
+  "separate_screens": false,
+  "turn_based": false,
+  "simultaneous": true,
+  "review_count": 15,
+  "popularity_score_100": 63
 }

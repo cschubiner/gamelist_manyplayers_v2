@@ -11,5 +11,20 @@
   ],
   "notes": "Steam has 5 reviews (no score). SteamDB shows 72.16% positive from 5 reviews; small sample keeps score moderate.",
   "raw_comment": "Social deduction game for 8 local players. Phones or tablets as controllers. Shared + separate screens.",
-  "last_updated": "2025-12-29"
+  "last_updated": "2025-12-29",
+  "screen_mode": "separate",
+  "play_mode": "unknown",
+  "input_methods": [
+    "gamepad",
+    "phone",
+    "tablet"
+  ],
+  "requires_vr": false,
+  "shared_screen": false,
+  "split_screen": false,
+  "separate_screens": true,
+  "turn_based": false,
+  "simultaneous": false,
+  "review_count": 5,
+  "popularity_score_100": 35
 }

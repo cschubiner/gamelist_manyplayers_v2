@@ -12,5 +12,21 @@
   ],
   "notes": "Steam has 7 reviews (no score). SteamDB shows 66.76% positive (11 reviews); tiny sample keeps score mid\u201160s.",
   "raw_comment": "Party game for 1 VR or keyboard player and up to 10 phones as controller players (or AI) = 11 players.",
-  "last_updated": "2025-12-29"
+  "last_updated": "2025-12-29",
+  "screen_mode": "unknown",
+  "play_mode": "unknown",
+  "input_methods": [
+    "gamepad",
+    "keyboard",
+    "phone",
+    "vr"
+  ],
+  "requires_vr": true,
+  "shared_screen": false,
+  "split_screen": false,
+  "separate_screens": false,
+  "turn_based": false,
+  "simultaneous": false,
+  "review_count": 11,
+  "popularity_score_100": 51
 }

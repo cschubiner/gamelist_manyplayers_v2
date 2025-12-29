@@ -13,5 +13,20 @@
   ],
   "notes": "Steam shows Overwhelmingly Positive (95% of 4,020). Metacritic metascore 79; blended high\u201180s.",
   "raw_comment": "5 party games, phones or tablets as controllers: YOU DON\u2019T KNOW JACK 2015 (1-4 players), Fibbage XL (2-8 players), Drawful (3-8 players), Word Spud (2-8 players), Lie Swatter (1-100 players)",
-  "last_updated": "2025-12-29"
+  "last_updated": "2025-12-29",
+  "screen_mode": "unknown",
+  "play_mode": "unknown",
+  "input_methods": [
+    "gamepad",
+    "phone",
+    "tablet"
+  ],
+  "requires_vr": false,
+  "shared_screen": false,
+  "split_screen": false,
+  "separate_screens": false,
+  "turn_based": false,
+  "simultaneous": false,
+  "review_count": null,
+  "popularity_score_100": 60
 }

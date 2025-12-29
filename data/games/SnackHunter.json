@@ -12,5 +12,18 @@
   ],
   "notes": "Steam shows Positive (94% of 18). SteamDB shows 76.58% positive; small sample keeps score high\u201180s.",
   "raw_comment": "Hide and seek game played on phones using an app. The hunter\u2019s location is displayed on the PC screen for everyone to see. Up to 16 players. Shared screen + phone screens.",
-  "last_updated": "2025-12-29"
+  "last_updated": "2025-12-29",
+  "screen_mode": "shared",
+  "play_mode": "unknown",
+  "input_methods": [
+    "phone"
+  ],
+  "requires_vr": false,
+  "shared_screen": true,
+  "split_screen": false,
+  "separate_screens": false,
+  "turn_based": false,
+  "simultaneous": false,
+  "review_count": null,
+  "popularity_score_100": 55
 }

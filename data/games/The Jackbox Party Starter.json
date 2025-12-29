@@ -19,5 +19,19 @@
   ],
   "notes": "Steam reviews are Very Positive (88% of 677). Metacritic metascore 70 with user score 7.3; blended to mid\u201180s.",
   "raw_comment": "3 party games, phones as controllers: Quiplash 3 (3 -8 players), Tee K.O. (3-8 players ), Trivia Murder Party 2 (1-8 players), English, French, Italian, German and Spanish.",
-  "last_updated": "2025-12-29"
+  "last_updated": "2025-12-29",
+  "screen_mode": "unknown",
+  "play_mode": "unknown",
+  "input_methods": [
+    "gamepad",
+    "phone"
+  ],
+  "requires_vr": false,
+  "shared_screen": false,
+  "split_screen": false,
+  "separate_screens": false,
+  "turn_based": false,
+  "simultaneous": false,
+  "review_count": null,
+  "popularity_score_100": 60
 }

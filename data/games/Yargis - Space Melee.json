@@ -13,5 +13,19 @@
   ],
   "notes": "Steam shows Mixed (59% of 61). SteamDB shows 59.01% positive; blended around 60.",
   "raw_comment": "2d space shooter with various game modes. Can be played both local & online. 4 gamepads + as many players as your keyboard can handle. Same screen.",
-  "last_updated": "2025-12-29"
+  "last_updated": "2025-12-29",
+  "screen_mode": "shared",
+  "play_mode": "unknown",
+  "input_methods": [
+    "gamepad",
+    "keyboard"
+  ],
+  "requires_vr": false,
+  "shared_screen": true,
+  "split_screen": false,
+  "separate_screens": false,
+  "turn_based": false,
+  "simultaneous": false,
+  "review_count": null,
+  "popularity_score_100": 60
 }

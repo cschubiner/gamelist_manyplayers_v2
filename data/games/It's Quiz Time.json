@@ -14,5 +14,19 @@
   ],
   "notes": "Steam reviews are Mixed (59% of 115). Metacritic metascore 58; blended score in mid\u201160s.",
   "raw_comment": "Trivia game. 8 players. \ud83d\udcf1 Phones as controllers using app. \ud83d\udda5\ufe0f Phones and shared screen.",
-  "last_updated": "2025-12-29"
+  "last_updated": "2025-12-29",
+  "screen_mode": "separate",
+  "play_mode": "unknown",
+  "input_methods": [
+    "gamepad",
+    "phone"
+  ],
+  "requires_vr": false,
+  "shared_screen": false,
+  "split_screen": false,
+  "separate_screens": true,
+  "turn_based": false,
+  "simultaneous": false,
+  "review_count": null,
+  "popularity_score_100": 60
 }

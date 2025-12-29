@@ -9,7 +9,20 @@
     "https://store.steampowered.com/app/410000/Chalo_Chalo/",
     "https://steamdb.info/app/410000/"
   ],
-  "notes": "Steam reviews are Positive (80% of 20). SteamDB shows 69.94% positive (27 reviews); blended score reflects mixed-positive small sample.",
+  "notes": "Steam reviews are Positive (80% of 20). SteamDB shows 69.94% positive (27 reviews); blended score reflects mixed-positive small sample. Steam store lists 20 reviews and confirms 3\u20138 players on the same screen using controllers.",
   "raw_comment": "Really slow racing for 3 to 8 players. Gamepads or phones as controllers. Shared screen.",
-  "last_updated": "2025-12-29"
+  "last_updated": "2025-12-29",
+  "screen_mode": "shared",
+  "play_mode": "simultaneous",
+  "input_methods": [
+    "gamepad"
+  ],
+  "requires_vr": false,
+  "shared_screen": true,
+  "split_screen": false,
+  "separate_screens": false,
+  "turn_based": false,
+  "simultaneous": true,
+  "review_count": 20,
+  "popularity_score_100": 57
 }

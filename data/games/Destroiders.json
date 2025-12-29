@@ -9,7 +9,20 @@
     "https://store.steampowered.com/app/2077580/Destroiders/",
     "https://steamdb.info/app/2077580/"
   ],
-  "notes": "Very small review sample; score mid\u201160s.",
+  "notes": "Very small review sample; score mid\u201160s. Steam page lists Shared/Split Screen PvP/Co-op features and \u201ccouch co-op only\u201d; up to 4 players.",
   "raw_comment": "2.5D rock blaster space shooter. Co-op or versus, up to 4 teams, no hard limit for number of local players. Shared screen.",
-  "last_updated": "2025-12-29"
+  "last_updated": "2025-12-29",
+  "screen_mode": "shared",
+  "play_mode": "simultaneous",
+  "input_methods": [
+    "gamepad"
+  ],
+  "requires_vr": false,
+  "shared_screen": true,
+  "split_screen": false,
+  "separate_screens": false,
+  "turn_based": false,
+  "simultaneous": true,
+  "review_count": 2,
+  "popularity_score_100": 40
 }

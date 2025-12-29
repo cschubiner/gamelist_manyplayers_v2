@@ -11,5 +11,19 @@
   ],
   "notes": "Steam shows Very Positive (91% of 730). Steambase player score 92; strong consensus.",
   "raw_comment": "A simple one-button game where to shoot or jump on your friends, for 2-16 players, same screen, sharing a keyboard or controller.",
-  "last_updated": "2025-12-29"
+  "last_updated": "2025-12-29",
+  "screen_mode": "shared",
+  "play_mode": "unknown",
+  "input_methods": [
+    "gamepad",
+    "keyboard"
+  ],
+  "requires_vr": false,
+  "shared_screen": true,
+  "split_screen": false,
+  "separate_screens": false,
+  "turn_based": false,
+  "simultaneous": false,
+  "review_count": null,
+  "popularity_score_100": 60
 }

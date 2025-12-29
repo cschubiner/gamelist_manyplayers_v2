@@ -12,5 +12,18 @@
   ],
   "notes": "Very small review sample; score kept low\u2011mid 50s pending more data.",
   "raw_comment": "Similar to pictionary. 1 VR player is given a word and tries to create a model representing that word. An audience of any number can watch the screen and guess the word. 1 VR headset + 1 screen.",
-  "last_updated": "2025-12-29"
+  "last_updated": "2025-12-29",
+  "screen_mode": "unknown",
+  "play_mode": "unknown",
+  "input_methods": [
+    "vr"
+  ],
+  "requires_vr": true,
+  "shared_screen": false,
+  "split_screen": false,
+  "separate_screens": false,
+  "turn_based": false,
+  "simultaneous": false,
+  "review_count": null,
+  "popularity_score_100": 40
 }

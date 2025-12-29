@@ -12,7 +12,20 @@
     "https://store.steampowered.com/app/1884480/Big_Screen_Games__Pack_1/",
     "https://www.metacritic.com/game/big-screen-games-pack-1/"
   ],
-  "notes": "Steam has only 4 reviews (no score). Metacritic has no critic/user scores yet; small sample keeps score cautious.",
+  "notes": "Steam has only 4 reviews (no score). Metacritic has no critic/user scores yet; small sample keeps score cautious. Steam store lists 4 user reviews and players use phones as controllers on a big shared screen.",
   "raw_comment": "3 party games. Phones as controller. Up to 8 players. Herd Mentality - answer the same as others. Scrawl - drawing game. Can of Squirms - awkward questions where you have to choose between 2 players.",
-  "last_updated": "2025-12-29"
+  "last_updated": "2025-12-29",
+  "screen_mode": "shared",
+  "play_mode": "simultaneous",
+  "input_methods": [
+    "phone"
+  ],
+  "requires_vr": false,
+  "shared_screen": true,
+  "split_screen": false,
+  "separate_screens": false,
+  "turn_based": false,
+  "simultaneous": true,
+  "review_count": 4,
+  "popularity_score_100": 35
 }

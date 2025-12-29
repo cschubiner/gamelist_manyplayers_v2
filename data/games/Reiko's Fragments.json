@@ -13,5 +13,19 @@
   ],
   "notes": "Steam shows Mixed (66% of 151). Steambase player score 70; blended to high\u201160s.",
   "raw_comment": "A VR player tries to escape a haunted house by searching for spiritual items while being chased by a ghost reacting to sounds and up to 8 phone players trigger scares in the house.",
-  "last_updated": "2025-12-29"
+  "last_updated": "2025-12-29",
+  "screen_mode": "unknown",
+  "play_mode": "unknown",
+  "input_methods": [
+    "phone",
+    "vr"
+  ],
+  "requires_vr": true,
+  "shared_screen": false,
+  "split_screen": false,
+  "separate_screens": false,
+  "turn_based": false,
+  "simultaneous": false,
+  "review_count": null,
+  "popularity_score_100": 60
 }

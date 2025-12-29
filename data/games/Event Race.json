@@ -11,5 +11,19 @@
   ],
   "notes": "Steam shows Positive (76% of 13). SteamDB shows 78.11% positive (23 reviews); small sample.",
   "raw_comment": "Top down racing for up to 30 local players. Max number of gamepads currently unknown. Phones as controllers. Shared screen.",
-  "last_updated": "2025-12-29"
+  "last_updated": "2025-12-29",
+  "screen_mode": "shared",
+  "play_mode": "unknown",
+  "input_methods": [
+    "gamepad",
+    "phone"
+  ],
+  "requires_vr": false,
+  "shared_screen": true,
+  "split_screen": false,
+  "separate_screens": false,
+  "turn_based": false,
+  "simultaneous": false,
+  "review_count": 23,
+  "popularity_score_100": 63
 }

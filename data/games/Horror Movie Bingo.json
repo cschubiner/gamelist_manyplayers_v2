@@ -12,5 +12,18 @@
   ],
   "notes": "Steam has only a few reviews (no score). SteamDB lists the app; tiny sample keeps score moderate.",
   "raw_comment": "Watch a horror movie of your choice. Start the game, each player gets a bingo card on their smartphone. Instead of numbers you have to notice something in the movie. 1-12 local players on smartphones.",
-  "last_updated": "2025-12-29"
+  "last_updated": "2025-12-29",
+  "screen_mode": "unknown",
+  "play_mode": "unknown",
+  "input_methods": [
+    "phone"
+  ],
+  "requires_vr": false,
+  "shared_screen": false,
+  "split_screen": false,
+  "separate_screens": false,
+  "turn_based": false,
+  "simultaneous": false,
+  "review_count": null,
+  "popularity_score_100": 40
 }

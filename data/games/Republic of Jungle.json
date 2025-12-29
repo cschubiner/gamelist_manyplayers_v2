@@ -14,5 +14,20 @@
   ],
   "notes": "Steam shows Mostly Positive (73% of 1,119). Steambase player score 70; blended low\u201170s.",
   "raw_comment": "Social deduction game for 5-10 players. Phones (browsers) as controllers. Separate screens.",
-  "last_updated": "2025-12-29"
+  "last_updated": "2025-12-29",
+  "screen_mode": "separate",
+  "play_mode": "unknown",
+  "input_methods": [
+    "browser",
+    "gamepad",
+    "phone"
+  ],
+  "requires_vr": false,
+  "shared_screen": false,
+  "split_screen": false,
+  "separate_screens": true,
+  "turn_based": false,
+  "simultaneous": false,
+  "review_count": null,
+  "popularity_score_100": 60
 }

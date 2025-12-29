@@ -11,5 +11,18 @@
   ],
   "notes": "Steam has 3 reviews; SteamDB shows 32.94% positive. Very small sample but low sentiment.",
   "raw_comment": "Split in 2 teams: one team is for infected robots, the other team has to find them. Up to 16 players using 8 gamepads, same screen",
-  "last_updated": "2025-12-29"
+  "last_updated": "2025-12-29",
+  "screen_mode": "shared",
+  "play_mode": "unknown",
+  "input_methods": [
+    "gamepad"
+  ],
+  "requires_vr": false,
+  "shared_screen": true,
+  "split_screen": false,
+  "separate_screens": false,
+  "turn_based": false,
+  "simultaneous": false,
+  "review_count": null,
+  "popularity_score_100": 33
 }

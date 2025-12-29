@@ -11,5 +11,19 @@
   ],
   "notes": "Steam shows Mixed: 66% of 12 reviews. SteamDB shows 64.63% positive; small sample keeps score mid\u201160s.",
   "raw_comment": "Strategic party game for up to 6 players. 1 player, as planet earth, tries to wipe out the human race. Up to 5 players try to save humanity. Phones as controllers. Shared screen + phone screens.",
-  "last_updated": "2025-12-29"
+  "last_updated": "2025-12-29",
+  "screen_mode": "shared",
+  "play_mode": "unknown",
+  "input_methods": [
+    "gamepad",
+    "phone"
+  ],
+  "requires_vr": false,
+  "shared_screen": true,
+  "split_screen": false,
+  "separate_screens": false,
+  "turn_based": false,
+  "simultaneous": false,
+  "review_count": 12,
+  "popularity_score_100": 51
 }

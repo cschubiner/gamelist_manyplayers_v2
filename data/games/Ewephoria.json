@@ -11,5 +11,19 @@
   ],
   "notes": "Very small review sample; SteamDB shows ~64% positive; score mid\u201160s.",
   "raw_comment": "Sheep herding game. Co-op or versus. Phones as controllers. No hard limit for number of players. Shared screen.",
-  "last_updated": "2025-12-29"
+  "last_updated": "2025-12-29",
+  "screen_mode": "shared",
+  "play_mode": "unknown",
+  "input_methods": [
+    "gamepad",
+    "phone"
+  ],
+  "requires_vr": false,
+  "shared_screen": true,
+  "split_screen": false,
+  "separate_screens": false,
+  "turn_based": false,
+  "simultaneous": false,
+  "review_count": null,
+  "popularity_score_100": 40
 }

@@ -11,5 +11,16 @@
   ],
   "notes": "Steam has 7 reviews (no score). SteamDB shows 78.40% positive; small sample keeps score around 70.",
   "raw_comment": "2D side-view roleplaying. Claims to support up to 9 local players. \ud83d\udda5\ufe0f Split screen.",
-  "last_updated": "2025-12-29"
+  "last_updated": "2025-12-29",
+  "screen_mode": "split",
+  "play_mode": "unknown",
+  "input_methods": [],
+  "requires_vr": false,
+  "shared_screen": false,
+  "split_screen": true,
+  "separate_screens": false,
+  "turn_based": false,
+  "simultaneous": false,
+  "review_count": null,
+  "popularity_score_100": 55
 }

@@ -12,5 +12,20 @@
   ],
   "notes": "Steam reviews are Positive (87% of 382). SteamDB shows 80.48% positive; blended to high\u201170s/low\u201180s.",
   "raw_comment": "Bluffing party game with phones or tablets as controllers for 2-8 players.",
-  "last_updated": "2025-12-29"
+  "last_updated": "2025-12-29",
+  "screen_mode": "unknown",
+  "play_mode": "unknown",
+  "input_methods": [
+    "gamepad",
+    "phone",
+    "tablet"
+  ],
+  "requires_vr": false,
+  "shared_screen": false,
+  "split_screen": false,
+  "separate_screens": false,
+  "turn_based": false,
+  "simultaneous": false,
+  "review_count": null,
+  "popularity_score_100": 60
 }

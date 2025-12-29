@@ -12,5 +12,20 @@
   ],
   "notes": "Steam shows Positive (81% of 22). Steambase player score 72; small sample keeps score low\u201170s.",
   "raw_comment": "Infiltration team game. 1 VR player navigates a level supported by a team of hackers which clear obstacles and disrupt enemies. \"Any number\" of hackers use phones as controllers. Separate screens.",
-  "last_updated": "2025-12-29"
+  "last_updated": "2025-12-29",
+  "screen_mode": "separate",
+  "play_mode": "unknown",
+  "input_methods": [
+    "gamepad",
+    "phone",
+    "vr"
+  ],
+  "requires_vr": true,
+  "shared_screen": false,
+  "split_screen": false,
+  "separate_screens": true,
+  "turn_based": false,
+  "simultaneous": false,
+  "review_count": null,
+  "popularity_score_100": 55
 }
