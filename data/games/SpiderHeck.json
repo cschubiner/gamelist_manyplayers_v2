@@ -9,11 +9,11 @@
     "https://store.steampowered.com/app/1329500/SpiderHeck/",
     "https://www.metacritic.com/game/spiderheck/"
   ],
-  "notes": "Steam shows Very Positive (92% of 9,493). Metacritic metascore 70; blended to high\u201180s.",
-  "raw_comment": "2D platform shooter. 4 local players. 8+ with mod: https://github.com/Senyksia/InfiniteFriends \ud83c\udfae 8+ PS4/5. SteamInput off \ud83c\udfae 4 XBox (8+ via virtual PS4 using reWASD.) \u2328 1 on keyboard \ud83d\udda5\ufe0fShared screen",
+  "notes": "Steam shows Very Positive (92% of 9,493). Metacritic metascore 70; blended to high‑80s. Play mode inferred from description.",
+  "raw_comment": "2D platform shooter. 4 local players. 8+ with mod: https://github.com/Senyksia/InfiniteFriends 🎮 8+ PS4/5. SteamInput off 🎮 4 XBox (8+ via virtual PS4 using reWASD.) ⌨ 1 on keyboard 🖥️Shared screen",
   "last_updated": "2025-12-29",
   "screen_mode": "shared",
-  "play_mode": "unknown",
+  "play_mode": "simultaneous",
   "input_methods": [
     "gamepad",
     "keyboard"
@@ -23,7 +23,7 @@
   "split_screen": false,
   "separate_screens": false,
   "turn_based": false,
-  "simultaneous": false,
+  "simultaneous": true,
   "review_count": null,
   "popularity_score_100": 60
 }

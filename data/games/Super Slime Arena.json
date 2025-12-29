@@ -11,18 +11,18 @@
     "https://store.steampowered.com/app/706960/Super_Slime_Arena/",
     "https://www.gamingonlinux.com/2018/01/party-fighting-game-super-slime-arena-has-released-its-not-great/"
   ],
-  "notes": "Steam shows Mostly Positive (76% of 42). GamingOnLinux is strongly negative; blended to mid\u201150s.",
+  "notes": "Steam shows Mostly Positive (76% of 42). GamingOnLinux is strongly negative; blended to mid‑50s. Play mode inferred from description.",
   "raw_comment": null,
   "last_updated": "2025-12-29",
   "screen_mode": "unknown",
-  "play_mode": "unknown",
+  "play_mode": "simultaneous",
   "input_methods": [],
   "requires_vr": false,
   "shared_screen": false,
   "split_screen": false,
   "separate_screens": false,
   "turn_based": false,
-  "simultaneous": false,
+  "simultaneous": true,
   "review_count": null,
   "popularity_score_100": 55
 }

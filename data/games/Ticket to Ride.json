@@ -1,5 +1,5 @@
 {
-  "title": "Ticket to Ride\u00ae",
+  "title": "Ticket to Ride®",
   "review_score_100": 67,
   "max_players": 5,
   "platforms": [
@@ -10,11 +10,11 @@
     "https://store.steampowered.com/app/2477010/Ticket_to_Ride/",
     "https://www.metacritic.com/game/ticket-to-ride/"
   ],
-  "notes": "Steam overall reviews are Mixed (66% of 816) despite recent Very Positive; Metacritic shows tbd with a single 70 review. Blended score reflects mixed sentiment.",
-  "raw_comment": "Board game. Can be played single player, online or locally. 5 local players. \ud83d\udcf1 5 phones as controllers. \ud83d\udda5\ufe0f Phones and shared screen.",
+  "notes": "Steam overall reviews are Mixed (66% of 816) despite recent Very Positive; Metacritic shows tbd with a single 70 review. Blended score reflects mixed sentiment. Play mode inferred from description.",
+  "raw_comment": "Board game. Can be played single player, online or locally. 5 local players. 📱 5 phones as controllers. 🖥️ Phones and shared screen.",
   "last_updated": "2025-12-29",
   "screen_mode": "separate",
-  "play_mode": "unknown",
+  "play_mode": "turn_based",
   "input_methods": [
     "gamepad",
     "phone"
@@ -23,7 +23,7 @@
   "shared_screen": false,
   "split_screen": false,
   "separate_screens": true,
-  "turn_based": false,
+  "turn_based": true,
   "simultaneous": false,
   "review_count": null,
   "popularity_score_100": 60

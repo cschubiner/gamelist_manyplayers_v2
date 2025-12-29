@@ -9,18 +9,18 @@
     "https://store.steampowered.com/app/1532120/Spaceteam_The_Second_Dimension/",
     "https://steamdb.info/app/1532120/"
   ],
-  "notes": "Coming soon with no user reviews yet; neutral score pending reviews.",
+  "notes": "Coming soon with no user reviews yet; neutral score pending reviews. Play mode inferred from description.",
   "raw_comment": "Cooperative communication game in space. Single player with 2 bots. 2-6 players online. Local multiplayer with 1 pc player + up to 5 smart devices. Separate screens.",
   "last_updated": "2025-12-29",
   "screen_mode": "separate",
-  "play_mode": "unknown",
+  "play_mode": "simultaneous",
   "input_methods": [],
   "requires_vr": false,
   "shared_screen": false,
   "split_screen": false,
   "separate_screens": true,
   "turn_based": false,
-  "simultaneous": false,
+  "simultaneous": true,
   "review_count": null,
   "popularity_score_100": 10
 }

@@ -7,23 +7,24 @@
     "Mobile (browser)"
   ],
   "review_sources": [
-    "https://store.steampowered.com/app/2269310/Horror_Movie_Bingo/",
-    "https://steamdb.info/app/2269310/"
+    "https://store.steampowered.com/app/1433310/Horror_Movie_Bingo/"
   ],
-  "notes": "Steam has only a few reviews (no score). SteamDB lists the app; tiny sample keeps score moderate.",
+  "notes": "Steam lists Shared/Split Screen PvP and notes play on phones, tablets, or laptops; no user reviews. Play mode inferred from description.",
   "raw_comment": "Watch a horror movie of your choice. Start the game, each player gets a bingo card on their smartphone. Instead of numbers you have to notice something in the movie. 1-12 local players on smartphones.",
   "last_updated": "2025-12-29",
-  "screen_mode": "unknown",
-  "play_mode": "unknown",
+  "screen_mode": "shared",
+  "play_mode": "simultaneous",
   "input_methods": [
-    "phone"
+    "phone",
+    "tablet",
+    "browser"
   ],
   "requires_vr": false,
-  "shared_screen": false,
-  "split_screen": false,
+  "shared_screen": true,
+  "split_screen": true,
   "separate_screens": false,
   "turn_based": false,
-  "simultaneous": false,
-  "review_count": null,
+  "simultaneous": true,
+  "review_count": 0,
   "popularity_score_100": 40
 }

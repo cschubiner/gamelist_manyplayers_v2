@@ -8,21 +8,20 @@
     "Linux"
   ],
   "review_sources": [
-    "https://store.steampowered.com/app/431240/Golf_With_Your_Friends/",
-    "https://steamdb.info/app/431240/"
+    "https://store.steampowered.com/app/431240/Golf_With_Your_Friends/"
   ],
-  "notes": "Steam shows Very Positive (92% of 72k). SteamDB shows 87.68% positive; blended high\u201180s.",
-  "raw_comment": "Minigolf game. 12 local players in turn based/hotseat mode. \ud83d\udda5\ufe0fShared screen.",
+  "notes": "Steam describes fast-paced simultaneous mini golf for up to 12 players and lists 45,312 total reviews in all languages.",
+  "raw_comment": "Minigolf game. 12 local players in turn based/hotseat mode. 🖥️Shared screen.",
   "last_updated": "2025-12-29",
   "screen_mode": "shared",
-  "play_mode": "turn_based",
+  "play_mode": "simultaneous",
   "input_methods": [],
   "requires_vr": false,
   "shared_screen": true,
   "split_screen": false,
   "separate_screens": false,
-  "turn_based": true,
-  "simultaneous": false,
-  "review_count": null,
+  "turn_based": false,
+  "simultaneous": true,
+  "review_count": 45312,
   "popularity_score_100": 60
 }

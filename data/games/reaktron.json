@@ -10,11 +10,11 @@
     "https://store.steampowered.com/app/1029640/reaktron/",
     "https://steambase.io/games/reaktron/reviews"
   ],
-  "notes": "Steam shows no user reviews; Steambase has 1 review with 100 score. Score held at 80 due to tiny sample.",
+  "notes": "Steam shows no user reviews; Steambase has 1 review with 100 score. Score held at 80 due to tiny sample. Play mode inferred from description.",
   "raw_comment": "Snake/tron game with a bunch of new features for up to 12 local or remote players using keyboards, gamepads or phones as controllers. Shared screen.",
   "last_updated": "2025-12-29",
   "screen_mode": "shared",
-  "play_mode": "unknown",
+  "play_mode": "simultaneous",
   "input_methods": [
     "gamepad",
     "keyboard",
@@ -25,7 +25,7 @@
   "split_screen": false,
   "separate_screens": false,
   "turn_based": false,
-  "simultaneous": false,
+  "simultaneous": true,
   "review_count": null,
   "popularity_score_100": 10
 }

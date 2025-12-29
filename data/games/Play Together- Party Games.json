@@ -6,25 +6,24 @@
     "Windows"
   ],
   "review_sources": [
-    "https://store.steampowered.com/app/2806310/Play_Together_Party_Games/"
+    "https://store.steampowered.com/app/746210/Play_Together_Party_Games/"
   ],
-  "notes": "Steam shows no user reviews yet; neutral score pending reviews.",
+  "notes": "Steam says use phones as controllers (browser/iOS/Android) and lists 5 user reviews. Play mode inferred from description.",
   "raw_comment": "Collection of games for 2-8 players. Phones/tablets as controllers. Some games support keyboard or gamepads. Shared screen.",
   "last_updated": "2025-12-29",
   "screen_mode": "shared",
-  "play_mode": "unknown",
+  "play_mode": "simultaneous",
   "input_methods": [
-    "gamepad",
-    "keyboard",
     "phone",
-    "tablet"
+    "tablet",
+    "browser"
   ],
   "requires_vr": false,
   "shared_screen": true,
-  "split_screen": false,
-  "separate_screens": false,
+  "split_screen": true,
+  "separate_screens": true,
   "turn_based": false,
-  "simultaneous": false,
-  "review_count": null,
+  "simultaneous": true,
+  "review_count": 5,
   "popularity_score_100": 10
 }

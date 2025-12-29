@@ -6,24 +6,23 @@
     "Windows"
   ],
   "review_sources": [
-    "https://store.steampowered.com/app/2496760/Event_Race/",
-    "https://steamdb.info/app/2496760/"
+    "https://store.steampowered.com/app/2441260/Event_Race/"
   ],
-  "notes": "Steam shows Positive (76% of 13). SteamDB shows 78.11% positive (23 reviews); small sample.",
+  "notes": "Steam store notes shared/split-screen PvP and phones as extra controllers; 22 user reviews (small sample).",
   "raw_comment": "Top down racing for up to 30 local players. Max number of gamepads currently unknown. Phones as controllers. Shared screen.",
   "last_updated": "2025-12-29",
   "screen_mode": "shared",
-  "play_mode": "unknown",
+  "play_mode": "simultaneous",
   "input_methods": [
     "gamepad",
     "phone"
   ],
   "requires_vr": false,
   "shared_screen": true,
-  "split_screen": false,
+  "split_screen": true,
   "separate_screens": false,
   "turn_based": false,
-  "simultaneous": false,
-  "review_count": 23,
+  "simultaneous": true,
+  "review_count": 22,
   "popularity_score_100": 63
 }

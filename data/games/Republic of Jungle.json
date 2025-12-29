@@ -9,25 +9,23 @@
     "Mobile (browser)"
   ],
   "review_sources": [
-    "https://store.steampowered.com/app/1033240/Republic_of_Jungle/",
-    "https://steambase.io/games/republic-of-jungle/info"
+    "https://store.steampowered.com/app/1033240/Republic_of_Jungle/"
   ],
-  "notes": "Steam shows Mostly Positive (73% of 1,119). Steambase player score 70; blended low\u201170s.",
+  "notes": "Steam lists 1,119 user reviews and notes players join via web browser on phone/computer. Play mode inferred from description.",
   "raw_comment": "Social deduction game for 5-10 players. Phones (browsers) as controllers. Separate screens.",
   "last_updated": "2025-12-29",
   "screen_mode": "separate",
-  "play_mode": "unknown",
+  "play_mode": "simultaneous",
   "input_methods": [
-    "browser",
-    "gamepad",
-    "phone"
+    "phone",
+    "browser"
   ],
   "requires_vr": false,
   "shared_screen": false,
   "split_screen": false,
   "separate_screens": true,
   "turn_based": false,
-  "simultaneous": false,
-  "review_count": null,
+  "simultaneous": true,
+  "review_count": 1119,
   "popularity_score_100": 60
 }

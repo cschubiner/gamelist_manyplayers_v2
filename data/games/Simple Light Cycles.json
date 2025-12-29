@@ -9,11 +9,11 @@
     "https://store.steampowered.com/app/655030/Simple_Light_Cycles/",
     "https://steamdb.info/app/655030/"
   ],
-  "notes": "Steam shows Positive (80% of 30). SteamDB shows 69.33% positive; small sample keeps score low\u201170s.",
+  "notes": "Steam shows Positive (80% of 30). SteamDB shows 69.33% positive; small sample keeps score low‑70s. Play mode inferred from description.",
   "raw_comment": "Tron/snake game for up to 16 local players using a mix of up to 16 gamepads and 4 keyboard players. Shared screen.",
   "last_updated": "2025-12-29",
   "screen_mode": "shared",
-  "play_mode": "unknown",
+  "play_mode": "simultaneous",
   "input_methods": [
     "gamepad",
     "keyboard"
@@ -23,7 +23,7 @@
   "split_screen": false,
   "separate_screens": false,
   "turn_based": false,
-  "simultaneous": false,
+  "simultaneous": true,
   "review_count": null,
   "popularity_score_100": 55
 }

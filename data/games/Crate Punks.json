@@ -6,24 +6,23 @@
     "Windows"
   ],
   "review_sources": [
-    "https://store.steampowered.com/app/517960/Crate_Punks/",
-    "https://steamdb.info/app/517960/"
+    "https://store.steampowered.com/app/517960/Crate_Punks/"
   ],
-  "notes": "Steam has 6 reviews (no score). SteamDB shows 69.20% positive (6 reviews); small sample keeps score moderate.",
+  "notes": "Steam lists Shared/Split Screen PvP, USB controller support, and keyboard controls; 6 user reviews. Play mode inferred from description.",
   "raw_comment": "2D side view crate throwing brawler. 2-8 local players. Modify options file for even more players. Gamepads + 2 keyboard players supported. Gamepads only work on Win10 English version. Shared screen.",
   "last_updated": "2025-12-29",
   "screen_mode": "shared",
-  "play_mode": "unknown",
+  "play_mode": "simultaneous",
   "input_methods": [
     "gamepad",
     "keyboard"
   ],
   "requires_vr": false,
   "shared_screen": true,
-  "split_screen": false,
+  "split_screen": true,
   "separate_screens": false,
   "turn_based": false,
-  "simultaneous": false,
+  "simultaneous": true,
   "review_count": 6,
   "popularity_score_100": 35
 }

@@ -7,24 +7,24 @@
     "Mobile (browser)"
   ],
   "review_sources": [
-    "https://store.steampowered.com/app/1560570/Party_Quiz/",
-    "https://steamdb.info/app/1560570/"
+    "https://store.steampowered.com/app/2024070/Party_Quiz/"
   ],
-  "notes": "Steam has 8 reviews (no score). SteamDB shows 69.20% positive; small sample keeps score around 70.",
+  "notes": "Steam says players can join with a web-enabled device like a smartphone or tablet and lists 119 user reviews. Play mode inferred from description.",
   "raw_comment": "Quiz game for 8 local players + a game show host. The game includes quiz packs but you can get more via Steam Workshop or create your own. Phones as controllers. Shared screen + phones.",
   "last_updated": "2025-12-29",
   "screen_mode": "shared",
-  "play_mode": "unknown",
+  "play_mode": "simultaneous",
   "input_methods": [
-    "gamepad",
-    "phone"
+    "phone",
+    "tablet",
+    "browser"
   ],
   "requires_vr": false,
   "shared_screen": true,
-  "split_screen": false,
-  "separate_screens": false,
+  "split_screen": true,
+  "separate_screens": true,
   "turn_based": false,
-  "simultaneous": false,
-  "review_count": null,
+  "simultaneous": true,
+  "review_count": 119,
   "popularity_score_100": 55
 }

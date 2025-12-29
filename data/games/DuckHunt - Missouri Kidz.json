@@ -7,14 +7,13 @@
     "Mobile (browser)"
   ],
   "review_sources": [
-    "https://store.steampowered.com/app/1559690/DuckHunt__Missouri_Kidz/",
-    "https://steamdb.info/app/1559690/"
+    "https://store.steampowered.com/app/1921240/DuckHunt__Missouri_Kidz/"
   ],
-  "notes": "Steam has only a few reviews (no score). SteamDB lists the app; tiny sample keeps score moderate.",
-  "raw_comment": "Carnival shooting game where you aim by pointing your phone\u2019s camera at the screen. Any number of local players divided into 2 teams. Shared screen.",
+  "notes": "Steam lists 1 user review and describes phone-based aiming on a shared screen. Play mode inferred from description.",
+  "raw_comment": "Carnival shooting game where you aim by pointing your phone’s camera at the screen. Any number of local players divided into 2 teams. Shared screen.",
   "last_updated": "2025-12-29",
   "screen_mode": "shared",
-  "play_mode": "unknown",
+  "play_mode": "simultaneous",
   "input_methods": [
     "phone"
   ],
@@ -23,7 +22,7 @@
   "split_screen": false,
   "separate_screens": false,
   "turn_based": false,
-  "simultaneous": false,
-  "review_count": null,
+  "simultaneous": true,
+  "review_count": 1,
   "popularity_score_100": 40
 }

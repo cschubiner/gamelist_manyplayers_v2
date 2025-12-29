@@ -7,23 +7,23 @@
     "Mobile (browser)"
   ],
   "review_sources": [
-    "https://store.steampowered.com/app/3035590/Nova_Rally/",
-    "https://steamdb.info/app/3035590/"
+    "https://store.steampowered.com/app/3035590/Nova_Rally/"
   ],
-  "notes": "Steam has 2 reviews; SteamDB shows 64.08% positive; tiny sample keeps score mid\u201160s.",
-  "raw_comment": "Affect a car race by sending commands to your driver like boost, ram, shield or special. 24 local players using phones. \ud83d\udda5\ufe0f Shared screen + phones.",
+  "notes": "Steam says players use phones via browser as controllers and lists 2 user reviews. Play mode inferred from description.",
+  "raw_comment": "Affect a car race by sending commands to your driver like boost, ram, shield or special. 24 local players using phones. 🖥️ Shared screen + phones.",
   "last_updated": "2025-12-29",
   "screen_mode": "shared",
-  "play_mode": "unknown",
+  "play_mode": "simultaneous",
   "input_methods": [
-    "phone"
+    "phone",
+    "browser"
   ],
   "requires_vr": false,
   "shared_screen": true,
-  "split_screen": false,
+  "split_screen": true,
   "separate_screens": false,
   "turn_based": false,
-  "simultaneous": false,
-  "review_count": null,
+  "simultaneous": true,
+  "review_count": 2,
   "popularity_score_100": 40
 }

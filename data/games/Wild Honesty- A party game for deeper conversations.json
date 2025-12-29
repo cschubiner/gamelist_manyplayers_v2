@@ -10,11 +10,11 @@
     "https://store.steampowered.com/app/1354520/Wild_Honesty_A_party_game_for_deeper_conversations/",
     "https://steamdb.info/app/1354520/"
   ],
-  "notes": "Steam shows Mostly Positive (79% of 24). SteamDB shows 68.75% positive (25 reviews). Small sample lowers confidence.",
+  "notes": "Steam shows Mostly Positive (79% of 24). SteamDB shows 68.75% positive (25 reviews). Small sample lowers confidence. Play mode inferred from description.",
   "raw_comment": "A party game for deeper conversations. Local multiplayer for 2-5 players. Browser on phones, tablets, etc. as controllers. Shared screen.",
   "last_updated": "2025-12-29",
   "screen_mode": "shared",
-  "play_mode": "unknown",
+  "play_mode": "simultaneous",
   "input_methods": [
     "browser",
     "gamepad",
@@ -26,7 +26,7 @@
   "split_screen": false,
   "separate_screens": false,
   "turn_based": false,
-  "simultaneous": false,
+  "simultaneous": true,
   "review_count": 25,
   "popularity_score_100": 59
 }

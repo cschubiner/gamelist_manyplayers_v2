@@ -8,24 +8,23 @@
     "Oculus Rift"
   ],
   "review_sources": [
-    "https://store.steampowered.com/app/1261640/Goalie_VR/",
-    "https://steamdb.info/app/1261640/"
+    "https://store.steampowered.com/app/668010/Goalie_VR/"
   ],
-  "notes": "Steam shows 8 reviews (7 positive, 1 negative). SteamDB shows 78.98% positive; small sample lowers confidence.",
+  "notes": "Steam says it supports play against friends using a compatible iOS/Android device; 7 user reviews. Play mode inferred from description.",
   "raw_comment": "VR hockey goalie vs up to five iOS or Android app phone players. Separate screens.",
   "last_updated": "2025-12-29",
   "screen_mode": "separate",
-  "play_mode": "unknown",
+  "play_mode": "simultaneous",
   "input_methods": [
-    "phone",
-    "vr"
+    "vr",
+    "phone"
   ],
   "requires_vr": true,
   "shared_screen": false,
   "split_screen": false,
   "separate_screens": true,
   "turn_based": false,
-  "simultaneous": false,
-  "review_count": null,
+  "simultaneous": true,
+  "review_count": 7,
   "popularity_score_100": 55
 }

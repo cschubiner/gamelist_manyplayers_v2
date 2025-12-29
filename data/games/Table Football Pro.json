@@ -9,18 +9,18 @@
     "https://store.steampowered.com/app/569500/Table_Football_Pro/",
     "https://steambase.io/games/table-football-pro/reviews"
   ],
-  "notes": "Steam shows Mixed (50% of 22). Steambase player score 54; blended low\u201150s.",
+  "notes": "Steam shows Mixed (50% of 22). Steambase player score 54; blended low‑50s. Play mode inferred from description.",
   "raw_comment": "Table football simulation supporting up to 22 local players. The gameplay is like the classic \"LEGO soccer table\". Same screen",
   "last_updated": "2025-12-29",
   "screen_mode": "shared",
-  "play_mode": "unknown",
+  "play_mode": "simultaneous",
   "input_methods": [],
   "requires_vr": false,
   "shared_screen": true,
   "split_screen": false,
   "separate_screens": false,
   "turn_based": false,
-  "simultaneous": false,
+  "simultaneous": true,
   "review_count": null,
   "popularity_score_100": 54
 }

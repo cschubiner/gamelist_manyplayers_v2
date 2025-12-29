@@ -9,22 +9,21 @@
   "review_sources": [
     "https://store.steampowered.com/app/3990590/Jabby_Games_Pack_1/"
   ],
-  "notes": "Planned release with no user reviews yet; neutral score pending reviews.",
-  "raw_comment": "Party game collection with AI player. 8 local players. \ud83d\udcf1 Phones as controllers using browsers. Shared screen + phones.",
+  "notes": "Steam says your phone is the controller with no app downloads and lists Shared/Split Screen PvP; no user reviews yet. Play mode inferred from description.",
+  "raw_comment": "Party game collection with AI player. 8 local players. 📱 Phones as controllers using browsers. Shared screen + phones.",
   "last_updated": "2025-12-29",
   "screen_mode": "shared",
-  "play_mode": "unknown",
+  "play_mode": "simultaneous",
   "input_methods": [
-    "browser",
-    "gamepad",
-    "phone"
+    "phone",
+    "browser"
   ],
   "requires_vr": false,
   "shared_screen": true,
-  "split_screen": false,
+  "split_screen": true,
   "separate_screens": false,
   "turn_based": false,
-  "simultaneous": false,
-  "review_count": null,
+  "simultaneous": true,
+  "review_count": 0,
   "popularity_score_100": 10
 }

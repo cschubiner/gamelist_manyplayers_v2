@@ -9,24 +9,23 @@
     "Xbox One"
   ],
   "review_sources": [
-    "https://store.steampowered.com/app/992990/Its_Quiz_Time/",
-    "https://www.metacritic.com/game/its-quiz-time/"
+    "https://store.steampowered.com/app/648780/Its_Quiz_Time/",
+    "https://snapfingerclick.com/game-itsquiztime.html"
   ],
-  "notes": "Steam reviews are Mixed (59% of 115). Metacritic metascore 58; blended score in mid\u201160s.",
-  "raw_comment": "Trivia game. 8 players. \ud83d\udcf1 Phones as controllers using app. \ud83d\udda5\ufe0f Phones and shared screen.",
+  "notes": "Steam lists Shared/Split Screen PvP and 221 user reviews; Snap Finger Click says you use your phone as a controller. Play mode inferred from description.",
+  "raw_comment": "Trivia game. 8 players. 📱 Phones as controllers using app. 🖥️ Phones and shared screen.",
   "last_updated": "2025-12-29",
-  "screen_mode": "separate",
-  "play_mode": "unknown",
+  "screen_mode": "shared",
+  "play_mode": "simultaneous",
   "input_methods": [
-    "gamepad",
     "phone"
   ],
   "requires_vr": false,
-  "shared_screen": false,
-  "split_screen": false,
-  "separate_screens": true,
+  "shared_screen": true,
+  "split_screen": true,
+  "separate_screens": false,
   "turn_based": false,
-  "simultaneous": false,
-  "review_count": null,
+  "simultaneous": true,
+  "review_count": 221,
   "popularity_score_100": 60
 }

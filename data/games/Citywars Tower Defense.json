@@ -7,20 +7,23 @@
   ],
   "review_sources": [
     "https://store.steampowered.com/app/1890650/Citywars_Tower_Defense/",
-    "https://steamdb.info/app/1890650/"
+    "https://steamdb.info/app/1890650/info/",
+    "https://steamcommunity.com/app/1890650/discussions/0/3878218962827396385/"
   ],
-  "notes": "Small Steam review sample with mildly positive sentiment; score held around 70.",
+  "notes": "Steam shows 1,111 user reviews; SteamDB lists Full Controller Support and Shared/Split Screen Co-op; dev confirms split-screen and online play can be combined. Play mode inferred from description.",
   "raw_comment": "Survival tower defense. Can be played in co-op in split screen where each screen is a full instance of the game connected via network multiplayer. No hard limit to number of local players",
   "last_updated": "2025-12-29",
-  "screen_mode": "split",
-  "play_mode": "unknown",
-  "input_methods": [],
+  "screen_mode": "shared",
+  "play_mode": "simultaneous",
+  "input_methods": [
+    "gamepad"
+  ],
   "requires_vr": false,
-  "shared_screen": false,
+  "shared_screen": true,
   "split_screen": true,
-  "separate_screens": false,
+  "separate_screens": true,
   "turn_based": false,
-  "simultaneous": false,
-  "review_count": null,
+  "simultaneous": true,
+  "review_count": 1111,
   "popularity_score_100": 60
 }

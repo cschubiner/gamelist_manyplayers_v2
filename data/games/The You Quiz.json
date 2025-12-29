@@ -9,11 +9,11 @@
     "https://store.steampowered.com/app/2857820/The_You_Quiz/",
     "https://steamdb.info/app/2857820/"
   ],
-  "notes": "Steam shows 1 review; SteamDB shows 64.08% positive (2 reviews). Very small sample.",
-  "raw_comment": "Social party game. 3-8 local players. \ud83d\udcf18 phones as controllers using browsers. \ud83d\udda5\ufe0f Phones and shared screen.",
+  "notes": "Steam shows 1 review; SteamDB shows 64.08% positive (2 reviews). Very small sample. Play mode inferred from description.",
+  "raw_comment": "Social party game. 3-8 local players. 📱8 phones as controllers using browsers. 🖥️ Phones and shared screen.",
   "last_updated": "2025-12-29",
   "screen_mode": "separate",
-  "play_mode": "unknown",
+  "play_mode": "simultaneous",
   "input_methods": [
     "browser",
     "gamepad",
@@ -24,7 +24,7 @@
   "split_screen": false,
   "separate_screens": true,
   "turn_based": false,
-  "simultaneous": false,
+  "simultaneous": true,
   "review_count": 2,
   "popularity_score_100": 25
 }

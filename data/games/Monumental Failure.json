@@ -7,23 +7,22 @@
   ],
   "review_sources": [
     "https://store.steampowered.com/app/573300/Monumental_Failure/",
-    "https://steamdb.info/app/573300/",
     "https://www.gamegrin.com/reviews/monumental-failure-review/"
   ],
-  "notes": "Steam shows Positive (86% of 22). GameGrin review 7/10; blended to high\u201170s.",
+  "notes": "Steam lists Shared/Split Screen PvP/Co-op and 22 user reviews; GameGrin review score 7/10. Play mode inferred from description.",
   "raw_comment": "Physics-based monument construction sim. Up to 16 players in Team Versus mode. Max 10 controllers, share controllers for 16 players. Team versus = split screen. Coop (up to 4 players) = shared screen.",
   "last_updated": "2025-12-29",
   "screen_mode": "split",
-  "play_mode": "unknown",
+  "play_mode": "simultaneous",
   "input_methods": [
     "gamepad"
   ],
   "requires_vr": false,
-  "shared_screen": false,
+  "shared_screen": true,
   "split_screen": true,
   "separate_screens": false,
   "turn_based": false,
-  "simultaneous": false,
-  "review_count": null,
+  "simultaneous": true,
+  "review_count": 22,
   "popularity_score_100": 60
 }

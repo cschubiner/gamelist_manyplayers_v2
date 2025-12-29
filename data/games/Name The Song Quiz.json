@@ -6,24 +6,23 @@
     "Windows"
   ],
   "review_sources": [
-    "https://store.steampowered.com/app/792480/Name_The_Song_Quiz/",
-    "https://steamdb.info/app/792480/"
+    "https://store.steampowered.com/app/792480/Name_The_Song_Quiz/"
   ],
-  "notes": "Steam shows Mixed (56% of 50). SteamDB shows 54.16% positive; blended mid\u201150s.",
+  "notes": "Steam lists Shared/Split Screen PvP and 50 user reviews. Play mode inferred from description.",
   "raw_comment": "Guess the name of the song. Up to 18 local players using shared gamepads and 2 keyboard players. Support for teams. Use own song folder. Single Screen.",
   "last_updated": "2025-12-29",
   "screen_mode": "shared",
-  "play_mode": "unknown",
+  "play_mode": "simultaneous",
   "input_methods": [
     "gamepad",
     "keyboard"
   ],
   "requires_vr": false,
   "shared_screen": true,
-  "split_screen": false,
+  "split_screen": true,
   "separate_screens": false,
   "turn_based": false,
-  "simultaneous": false,
-  "review_count": null,
+  "simultaneous": true,
+  "review_count": 50,
   "popularity_score_100": 56
 }

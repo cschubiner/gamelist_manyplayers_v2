@@ -7,26 +7,24 @@
     "SteamVR"
   ],
   "review_sources": [
-    "https://store.steampowered.com/app/669630/Crazy_Farm_VRGROUND/",
-    "https://steamdb.info/app/669630/"
+    "https://store.steampowered.com/app/876130/Crazy_Farm__VRGROUND/"
   ],
-  "notes": "Steam has 7 reviews (no score). SteamDB shows 66.76% positive (11 reviews); tiny sample keeps score mid\u201160s.",
+  "notes": "Steam describes VR (or PC) players versus smart-device players and lists 7 user reviews. Play mode inferred from description.",
   "raw_comment": "Party game for 1 VR or keyboard player and up to 10 phones as controller players (or AI) = 11 players.",
   "last_updated": "2025-12-29",
-  "screen_mode": "unknown",
-  "play_mode": "unknown",
+  "screen_mode": "separate",
+  "play_mode": "simultaneous",
   "input_methods": [
-    "gamepad",
-    "keyboard",
+    "vr",
     "phone",
-    "vr"
+    "keyboard"
   ],
   "requires_vr": true,
   "shared_screen": false,
   "split_screen": false,
-  "separate_screens": false,
+  "separate_screens": true,
   "turn_based": false,
-  "simultaneous": false,
-  "review_count": 11,
+  "simultaneous": true,
+  "review_count": 7,
   "popularity_score_100": 51
 }

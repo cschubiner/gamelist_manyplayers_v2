@@ -11,22 +11,21 @@
     "https://store.steampowered.com/app/351510/Quiplash/",
     "https://steambase.io/games/quiplash/steam-charts"
   ],
-  "notes": "Steam shows Very Positive: 93% of 971 reviews; Steambase player score 90/100. Score reflects strong sentiment.",
+  "notes": "Steam store lists Shared/Split Screen PvP and notes phones/tablets as controllers; 972 user reviews. Play mode inferred from description.",
   "raw_comment": "Party game with phones or tablets as controllers for 3-8 players.",
   "last_updated": "2025-12-29",
-  "screen_mode": "unknown",
-  "play_mode": "unknown",
+  "screen_mode": "shared",
+  "play_mode": "simultaneous",
   "input_methods": [
-    "gamepad",
     "phone",
     "tablet"
   ],
   "requires_vr": false,
-  "shared_screen": false,
-  "split_screen": false,
+  "shared_screen": true,
+  "split_screen": true,
   "separate_screens": false,
   "turn_based": false,
-  "simultaneous": false,
-  "review_count": 971,
+  "simultaneous": true,
+  "review_count": 972,
   "popularity_score_100": 91
 }

@@ -7,25 +7,24 @@
     "Mobile (browser)"
   ],
   "review_sources": [
-    "https://store.steampowered.com/app/1145490/Operation_Armstrong/",
-    "https://steambase.io/games/operation-armstrong/reviews"
+    "https://store.steampowered.com/app/1145490/Operation_Armstrong/"
   ],
-  "notes": "Steam shows Positive (81% of 22). Steambase player score 72; small sample keeps score low\u201170s.",
+  "notes": "Steam describes VR player assisted by smartphone users via browser and lists 22 user reviews. Play mode inferred from description.",
   "raw_comment": "Infiltration team game. 1 VR player navigates a level supported by a team of hackers which clear obstacles and disrupt enemies. \"Any number\" of hackers use phones as controllers. Separate screens.",
   "last_updated": "2025-12-29",
   "screen_mode": "separate",
-  "play_mode": "unknown",
+  "play_mode": "simultaneous",
   "input_methods": [
-    "gamepad",
+    "vr",
     "phone",
-    "vr"
+    "browser"
   ],
   "requires_vr": true,
   "shared_screen": false,
   "split_screen": false,
   "separate_screens": true,
   "turn_based": false,
-  "simultaneous": false,
-  "review_count": null,
+  "simultaneous": true,
+  "review_count": 22,
   "popularity_score_100": 55
 }

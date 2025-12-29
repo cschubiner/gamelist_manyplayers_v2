@@ -6,24 +6,23 @@
     "Windows"
   ],
   "review_sources": [
-    "https://store.steampowered.com/app/1694140/Project_Planet__Earth_vs_Humanity/",
-    "https://steamdb.info/app/1694140/"
+    "https://store.steampowered.com/app/2224610/Project_Planet__Earth_vs_Humanity"
   ],
-  "notes": "Steam shows Mixed: 66% of 12 reviews. SteamDB shows 64.63% positive; small sample keeps score mid\u201160s.",
+  "notes": "Steam lists Shared/Split Screen PvP/Co-op and 355 user reviews. Play mode inferred from description.",
   "raw_comment": "Strategic party game for up to 6 players. 1 player, as planet earth, tries to wipe out the human race. Up to 5 players try to save humanity. Phones as controllers. Shared screen + phone screens.",
   "last_updated": "2025-12-29",
   "screen_mode": "shared",
-  "play_mode": "unknown",
+  "play_mode": "simultaneous",
   "input_methods": [
     "gamepad",
     "phone"
   ],
   "requires_vr": false,
   "shared_screen": true,
-  "split_screen": false,
+  "split_screen": true,
   "separate_screens": false,
   "turn_based": false,
-  "simultaneous": false,
-  "review_count": 12,
+  "simultaneous": true,
+  "review_count": 355,
   "popularity_score_100": 51
 }

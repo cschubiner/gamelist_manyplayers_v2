@@ -7,21 +7,23 @@
     "macOS"
   ],
   "review_sources": [
-    "https://store.steampowered.com/app/572220/MageQuit/",
-    "https://steamdb.info/app/572220/"
+    "https://store.steampowered.com/app/572220/MageQuit/"
   ],
-  "notes": "Steam shows Very Positive (91% of 976). SteamDB shows 83.46% positive; strong sentiment.",
+  "notes": "Steam lists Shared/Split Screen PvP and 979 user reviews; local brawls are simultaneous.",
   "raw_comment": "a wizard-brawling arena game where up to 10 players (same screen) use spells and physics to do battle.",
   "last_updated": "2025-12-29",
   "screen_mode": "shared",
-  "play_mode": "unknown",
-  "input_methods": [],
+  "play_mode": "simultaneous",
+  "input_methods": [
+    "gamepad",
+    "keyboard"
+  ],
   "requires_vr": false,
   "shared_screen": true,
-  "split_screen": false,
+  "split_screen": true,
   "separate_screens": false,
   "turn_based": false,
-  "simultaneous": false,
-  "review_count": null,
+  "simultaneous": true,
+  "review_count": 979,
   "popularity_score_100": 60
 }

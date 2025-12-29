@@ -10,11 +10,11 @@
     "https://store.steampowered.com/app/630560/Super_Sketchy_Party/",
     "https://steamdb.info/app/630560/"
   ],
-  "notes": "SteamDB shows 68.52% positive (132 reviews); Steam sentiment is mixed\u2011positive. Score reflects that.",
+  "notes": "SteamDB shows 68.52% positive (132 reviews); Steam sentiment is mixed‑positive. Score reflects that. Play mode inferred from description.",
   "raw_comment": "Drawing and guessing game. Multiple languages. 3-12 local or online players. Phones as controllers. Separate screens.",
   "last_updated": "2025-12-29",
   "screen_mode": "separate",
-  "play_mode": "unknown",
+  "play_mode": "simultaneous",
   "input_methods": [
     "gamepad",
     "phone"
@@ -24,7 +24,7 @@
   "split_screen": false,
   "separate_screens": true,
   "turn_based": false,
-  "simultaneous": false,
+  "simultaneous": true,
   "review_count": 132,
   "popularity_score_100": 63
 }

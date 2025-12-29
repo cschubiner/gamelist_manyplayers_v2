@@ -8,21 +8,23 @@
     "Linux"
   ],
   "review_sources": [
-    "https://store.steampowered.com/app/661940/Regular_Human_Basketball/",
-    "https://steambase.io/games/regular-human-basketball/reviews"
+    "https://store.steampowered.com/app/661940/Regular_Human_Basketball/"
   ],
-  "notes": "Steam shows Very Positive (93% of 213). Steambase player score 84; blended high\u201180s.",
-  "raw_comment": "2 teams cooperate to control their team\u2019s gigantic robot basketball player with rocket jets a magnetic arm and wheels. At least 10 local players confirmed. Online play supported. Same screen.",
+  "notes": "Steam lists Shared/Split Screen PvP and 213 user reviews. Play mode inferred from description.",
+  "raw_comment": "2 teams cooperate to control their team’s gigantic robot basketball player with rocket jets a magnetic arm and wheels. At least 10 local players confirmed. Online play supported. Same screen.",
   "last_updated": "2025-12-29",
   "screen_mode": "shared",
-  "play_mode": "unknown",
-  "input_methods": [],
+  "play_mode": "simultaneous",
+  "input_methods": [
+    "gamepad",
+    "keyboard"
+  ],
   "requires_vr": false,
   "shared_screen": true,
-  "split_screen": false,
+  "split_screen": true,
   "separate_screens": false,
   "turn_based": false,
-  "simultaneous": false,
-  "review_count": null,
+  "simultaneous": true,
+  "review_count": 213,
   "popularity_score_100": 60
 }

@@ -7,23 +7,22 @@
     "macOS"
   ],
   "review_sources": [
-    "https://store.steampowered.com/app/1056690/Drink_More_Glurp/",
-    "https://steamdb.info/app/1056690/"
+    "https://store.steampowered.com/app/1056690/"
   ],
-  "notes": "Steam shows Very Positive (89% of 189). SteamDB shows 87% positive; blended high\u201180s.",
+  "notes": "Steam describes hotseat party play for 2–20 local players and shows 186 user reviews.",
   "raw_comment": "Whacky physics based sports(ish) events. 2-20 local players in turn based multiplayer. Requires a gamepad with 2 analog sticks.",
   "last_updated": "2025-12-29",
-  "screen_mode": "unknown",
+  "screen_mode": "shared",
   "play_mode": "turn_based",
   "input_methods": [
     "gamepad"
   ],
   "requires_vr": false,
-  "shared_screen": false,
+  "shared_screen": true,
   "split_screen": false,
   "separate_screens": false,
   "turn_based": true,
   "simultaneous": false,
-  "review_count": null,
+  "review_count": 186,
   "popularity_score_100": 60
 }

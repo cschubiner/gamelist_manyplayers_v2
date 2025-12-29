@@ -9,11 +9,11 @@
     "https://store.steampowered.com/app/1068720/Partition_Sector/",
     "https://steamdb.info/app/1068720/info"
   ],
-  "notes": "Steam has 3 reviews (no score). SteamDB shows 69.20% positive (4 reviews); tiny sample keeps score moderate.",
+  "notes": "Steam lists Shared/Split Screen PvP/Co-op and SteamDB shows 4 total reviews. Play mode inferred from description.",
   "raw_comment": "Bomberman-like game with 6 game modes: Classic, Deathmatch, CTF, Battle Royale (individual or team), King of the Hill, Snake Hunter. Up to 20 local players. 16 gamepads + 4 keyboard. Shared screen.",
   "last_updated": "2025-12-29",
   "screen_mode": "shared",
-  "play_mode": "unknown",
+  "play_mode": "simultaneous",
   "input_methods": [
     "gamepad",
     "keyboard"
@@ -23,7 +23,7 @@
   "split_screen": false,
   "separate_screens": false,
   "turn_based": false,
-  "simultaneous": false,
+  "simultaneous": true,
   "review_count": 4,
   "popularity_score_100": 35
 }

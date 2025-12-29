@@ -8,24 +8,23 @@
     "Linux"
   ],
   "review_sources": [
-    "https://store.steampowered.com/app/667660/Photon_Rush/",
-    "https://steamdb.info/app/667660/"
+    "https://store.steampowered.com/app/667660/Photon_Rush/"
   ],
-  "notes": "Steam shows no user reviews yet; neutral score pending reviews.",
+  "notes": "Steam lists Shared/Split Screen PvP and no user reviews yet. Play mode inferred from description.",
   "raw_comment": "Tron/Light cycle inspired game with power ups. 16 local players. Up to 8 controllers with support for 2 players per controller. 4 players on keyboard. Splitscreen.",
   "last_updated": "2025-12-29",
   "screen_mode": "split",
-  "play_mode": "unknown",
+  "play_mode": "simultaneous",
   "input_methods": [
     "gamepad",
     "keyboard"
   ],
   "requires_vr": false,
-  "shared_screen": false,
+  "shared_screen": true,
   "split_screen": true,
   "separate_screens": false,
   "turn_based": false,
-  "simultaneous": false,
-  "review_count": null,
+  "simultaneous": true,
+  "review_count": 0,
   "popularity_score_100": 10
 }

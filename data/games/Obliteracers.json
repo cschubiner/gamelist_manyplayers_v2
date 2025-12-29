@@ -8,21 +8,27 @@
     "Linux"
   ],
   "review_sources": [
-    "https://store.steampowered.com/app/323370/Obliteracers/",
-    "https://www.metacritic.com/game/obliteracers/"
+    "https://store.steampowered.com/app/368740/Obliteracers/",
+    "https://www.metacritic.com/game/obliteracers/",
+    "https://steamcommunity.com/app/368740/discussions/0/490123938443561681/"
   ],
-  "notes": "Steam shows Mixed (65% of 167). Metacritic metascore 78; blended to ~70.",
+  "notes": "Steam describes same-screen party racing for up to 16 players using gamepads, laptops, and smart devices as extra controllers; 167 user reviews. Play mode inferred from description.",
   "raw_comment": "Micromachines style racing game up to 16 local players, same screen",
   "last_updated": "2025-12-29",
   "screen_mode": "shared",
-  "play_mode": "unknown",
-  "input_methods": [],
+  "play_mode": "simultaneous",
+  "input_methods": [
+    "gamepad",
+    "keyboard",
+    "phone",
+    "browser"
+  ],
   "requires_vr": false,
   "shared_screen": true,
   "split_screen": false,
   "separate_screens": false,
   "turn_based": false,
-  "simultaneous": false,
-  "review_count": null,
+  "simultaneous": true,
+  "review_count": 167,
   "popularity_score_100": 60
 }

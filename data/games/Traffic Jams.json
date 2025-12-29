@@ -11,11 +11,11 @@
     "https://store.steampowered.com/app/437540/Traffic_Jams/",
     "https://steamdb.info/app/437540/"
   ],
-  "notes": "Steam shows Mixed: 61% of 18 reviews. SteamDB shows 57.31% positive; blended to low\u201160s.",
+  "notes": "Steam shows Mixed: 61% of 18 reviews. SteamDB shows 57.31% positive; blended to low‑60s. Play mode inferred from description.",
   "raw_comment": "Control traffic in VR with hand gestures. Up to 4 mobile players try to mess with the VR player by activating natural disasters or causing crashes.",
   "last_updated": "2025-12-29",
   "screen_mode": "unknown",
-  "play_mode": "unknown",
+  "play_mode": "simultaneous",
   "input_methods": [
     "phone",
     "vr"
@@ -25,7 +25,7 @@
   "split_screen": false,
   "separate_screens": false,
   "turn_based": false,
-  "simultaneous": false,
+  "simultaneous": true,
   "review_count": 18,
   "popularity_score_100": 45
 }

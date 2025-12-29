@@ -9,11 +9,11 @@
     "https://store.steampowered.com/app/721740/Sea_Of_Fatness_Save_Humanity_Together/",
     "https://steambase.io/games/sea-of-fatness-save-humanity-together/reviews"
   ],
-  "notes": "Steam shows Mostly Positive (72% of 11). Steambase player score 68; small sample keeps score high\u201160s.",
+  "notes": "Steam shows Mostly Positive (72% of 11). Steambase player score 68; small sample keeps score high‑60s. Play mode inferred from description.",
   "raw_comment": "Physics driven 2d (puzzle?) game. Can be played co-op with XInput gamepads and up to 10 mice. Same screen.",
   "last_updated": "2025-12-29",
   "screen_mode": "shared",
-  "play_mode": "unknown",
+  "play_mode": "simultaneous",
   "input_methods": [
     "gamepad"
   ],
@@ -22,7 +22,7 @@
   "split_screen": false,
   "separate_screens": false,
   "turn_based": false,
-  "simultaneous": false,
+  "simultaneous": true,
   "review_count": null,
   "popularity_score_100": 55
 }

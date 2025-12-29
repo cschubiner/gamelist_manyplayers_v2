@@ -6,21 +6,23 @@
     "Windows"
   ],
   "review_sources": [
-    "https://store.steampowered.com/app/1557740/ROUNDS/",
-    "https://steamdb.info/app/1557740/"
+    "https://store.steampowered.com/app/1557740/ROUNDS/"
   ],
-  "notes": "Steam shows Overwhelmingly Positive (95% of 31,844). SteamDB shows 93.31% positive; strong consensus.",
+  "notes": "Steam lists Shared/Split Screen PvP and 31,844 user reviews. Play mode inferred from description.",
   "raw_comment": "2D platform shooter. Normally a 1v1 game, but up to 16 local or online players via this mod: https://github.com/olavim/RoundsWithFriends Shared screen.",
   "last_updated": "2025-12-29",
   "screen_mode": "shared",
-  "play_mode": "unknown",
-  "input_methods": [],
+  "play_mode": "simultaneous",
+  "input_methods": [
+    "gamepad",
+    "keyboard"
+  ],
   "requires_vr": false,
   "shared_screen": true,
   "split_screen": false,
   "separate_screens": false,
   "turn_based": false,
-  "simultaneous": false,
-  "review_count": null,
+  "simultaneous": true,
+  "review_count": 31844,
   "popularity_score_100": 60
 }

@@ -8,24 +8,24 @@
     "Mobile (browser)"
   ],
   "review_sources": [
-    "https://store.steampowered.com/app/1171240/Reikos_Fragments/",
-    "https://steambase.io/apps/reikos-fragments"
+    "https://store.steampowered.com/app/1171240/Reikos_Fragments/"
   ],
-  "notes": "Steam shows Mixed (66% of 151). Steambase player score 70; blended to high\u201160s.",
+  "notes": "Steam describes VR player plus phone controllers and shows 151 user reviews. Play mode inferred from description.",
   "raw_comment": "A VR player tries to escape a haunted house by searching for spiritual items while being chased by a ghost reacting to sounds and up to 8 phone players trigger scares in the house.",
   "last_updated": "2025-12-29",
-  "screen_mode": "unknown",
-  "play_mode": "unknown",
+  "screen_mode": "separate",
+  "play_mode": "simultaneous",
   "input_methods": [
+    "vr",
     "phone",
-    "vr"
+    "browser"
   ],
   "requires_vr": true,
   "shared_screen": false,
   "split_screen": false,
-  "separate_screens": false,
+  "separate_screens": true,
   "turn_based": false,
-  "simultaneous": false,
-  "review_count": null,
+  "simultaneous": true,
+  "review_count": 151,
   "popularity_score_100": 60
 }

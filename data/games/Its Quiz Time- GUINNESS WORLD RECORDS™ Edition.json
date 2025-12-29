@@ -1,30 +1,30 @@
 {
-  "title": "It\u2019s Quiz Time: GUINNESS WORLD RECORDS\u2122 Edition",
+  "title": "It’s Quiz Time: GUINNESS WORLD RECORDS™ Edition",
   "review_score_100": 70,
   "max_players": 8,
   "platforms": [
     "Windows"
   ],
   "review_sources": [
-    "https://store.steampowered.com/app/2876190/Its_Quiz_Time_GUINNESS_WORLD_RECORDS_Edition/",
-    "https://steamdb.info/app/2876190/"
+    "https://store.steampowered.com/app/3744100/Its_Quiz_Time_GUINNESS_WORLD_RECORDS_Edition/",
+    "https://www.snapfingerclick.com/game-guinnessworldrecordsquiz.html"
   ],
-  "notes": "Tiny review sample; score held around 70 pending more data.",
-  "raw_comment": "Quiz game. 8 local players. \ud83d\udcf1 Phones as controllers using browsers. \ud83d\udda5\ufe0f Phones and shared screen.",
+  "notes": "Steam lists 1 user review and Shared/Split Screen Co-op; Snap Finger Click notes web-based controllers on phone, tablet, or laptop. Play mode inferred from description.",
+  "raw_comment": "Quiz game. 8 local players. 📱 Phones as controllers using browsers. 🖥️ Phones and shared screen.",
   "last_updated": "2025-12-29",
-  "screen_mode": "separate",
-  "play_mode": "unknown",
+  "screen_mode": "shared",
+  "play_mode": "simultaneous",
   "input_methods": [
-    "browser",
-    "gamepad",
-    "phone"
+    "phone",
+    "tablet",
+    "browser"
   ],
   "requires_vr": false,
-  "shared_screen": false,
-  "split_screen": false,
-  "separate_screens": true,
+  "shared_screen": true,
+  "split_screen": true,
+  "separate_screens": false,
   "turn_based": false,
-  "simultaneous": false,
-  "review_count": null,
+  "simultaneous": true,
+  "review_count": 1,
   "popularity_score_100": 60
 }

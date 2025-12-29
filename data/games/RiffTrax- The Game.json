@@ -14,11 +14,11 @@
     "https://store.steampowered.com/app/1769280/RiffTrax_The_Game/",
     "https://www.metacritic.com/game/rifftrax-the-game/"
   ],
-  "notes": "Steam shows Very Positive: 88% of 316 reviews. Metacritic metascore 71; blended to mid\u201170s.",
+  "notes": "Steam shows Very Positive: 88% of 316 reviews. Metacritic metascore 71; blended to mid‑70s. Play mode inferred from description.",
   "raw_comment": "Compete in writing or selecting the funniest captions to b-movie film clips. Up to 6 players using browsers on smartphones, tablets, etc. An additional 12 audience members can play along.",
   "last_updated": "2025-12-29",
   "screen_mode": "unknown",
-  "play_mode": "unknown",
+  "play_mode": "simultaneous",
   "input_methods": [
     "browser",
     "phone",
@@ -29,7 +29,7 @@
   "split_screen": false,
   "separate_screens": false,
   "turn_based": false,
-  "simultaneous": false,
+  "simultaneous": true,
   "review_count": 316,
   "popularity_score_100": 76
 }

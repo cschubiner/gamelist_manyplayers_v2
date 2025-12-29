@@ -6,21 +6,20 @@
     "Windows"
   ],
   "review_sources": [
-    "https://store.steampowered.com/app/751530/Dog_Fight_Super_Ultra_Deluxe/",
-    "https://steamdb.info/app/751530/"
+    "https://store.steampowered.com/app/751530/Dog_Fight_Super_Ultra_Deluxe/"
   ],
-  "notes": "Steam has 2 reviews (no score). SteamDB shows 59.60% positive (4 reviews); tiny sample keeps score near 60.",
+  "notes": "Steam lists hotseat/local multiplayer up to 16 players and 2 user reviews. Play mode inferred from description.",
   "raw_comment": "2d side view dogfighting game with up to 16 local players. Singleplayer and Online supported as well. Shared screen.",
   "last_updated": "2025-12-29",
   "screen_mode": "shared",
-  "play_mode": "unknown",
+  "play_mode": "turn_based",
   "input_methods": [],
   "requires_vr": false,
   "shared_screen": true,
   "split_screen": false,
   "separate_screens": false,
-  "turn_based": false,
+  "turn_based": true,
   "simultaneous": false,
-  "review_count": 4,
+  "review_count": 2,
   "popularity_score_100": 35
 }

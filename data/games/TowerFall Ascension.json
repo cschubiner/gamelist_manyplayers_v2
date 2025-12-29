@@ -16,18 +16,18 @@
     "https://store.steampowered.com/app/251470/TowerFall_Ascension/",
     "https://www.metacritic.com/game/towerfall-ascension/"
   ],
-  "notes": "Steam English reviews are Very Positive (94% of 1,708). Metacritic metascore 87 with user score 7.1; blended to ~90.",
+  "notes": "Steam English reviews are Very Positive (94% of 1,708). Metacritic metascore 87 with user score 7.1; blended to ~90. Play mode inferred from description.",
   "raw_comment": "Towerfall can be played with up to 8 players with this MOD: https://github.com/Jonesey13/TF-8-Player or with the official 8 players game on https://mattmakesgames.itch.io/towerfall-8-player",
   "last_updated": "2025-12-29",
   "screen_mode": "unknown",
-  "play_mode": "unknown",
+  "play_mode": "simultaneous",
   "input_methods": [],
   "requires_vr": false,
   "shared_screen": false,
   "split_screen": false,
   "separate_screens": false,
   "turn_based": false,
-  "simultaneous": false,
+  "simultaneous": true,
   "review_count": null,
   "popularity_score_100": 60
 }

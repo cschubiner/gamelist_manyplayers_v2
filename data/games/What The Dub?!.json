@@ -9,11 +9,11 @@
     "https://steamdb.info/app/1495860/",
     "https://www.metacritic.com/game/what-the-dub/critic-reviews/?platform=pc"
   ],
-  "notes": "SteamDB shows 86.22% positive (372). Metacritic metascore 78; blended mid\u201180s.",
+  "notes": "SteamDB shows 86.22% positive (372). Metacritic metascore 78; blended mid‑80s. Play mode inferred from description.",
   "raw_comment": "Players see a short video clip and make up funny captions. The clip is played back with text-to-speech dubbing and best caption gets most points. 12 players using phones as controllers. Shared screen.",
   "last_updated": "2025-12-29",
   "screen_mode": "shared",
-  "play_mode": "unknown",
+  "play_mode": "simultaneous",
   "input_methods": [
     "gamepad",
     "phone"
@@ -23,7 +23,7 @@
   "split_screen": false,
   "separate_screens": false,
   "turn_based": false,
-  "simultaneous": false,
+  "simultaneous": true,
   "review_count": null,
   "popularity_score_100": 60
 }

@@ -9,11 +9,11 @@
     "https://store.steampowered.com/app/619110/The_Crowded_Party_Game_Collection/",
     "https://steamdb.info/app/619110/"
   ],
-  "notes": "SteamDB shows 54.55% positive (28 reviews); Steam sentiment is mixed. Score reflects mid\u201150s.",
+  "notes": "SteamDB shows 54.55% positive (28 reviews); Steam sentiment is mixed. Score reflects mid‑50s. Play mode inferred from description.",
   "raw_comment": "Party game with mini games for up to 10 players. Phones as controllers. Same screen.",
   "last_updated": "2025-12-29",
   "screen_mode": "shared",
-  "play_mode": "unknown",
+  "play_mode": "simultaneous",
   "input_methods": [
     "gamepad",
     "phone"
@@ -23,7 +23,7 @@
   "split_screen": false,
   "separate_screens": false,
   "turn_based": false,
-  "simultaneous": false,
+  "simultaneous": true,
   "review_count": 28,
   "popularity_score_100": 40
 }

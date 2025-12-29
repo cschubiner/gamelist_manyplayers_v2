@@ -14,11 +14,11 @@
     "https://store.steampowered.com/app/207140/SpeedRunners/",
     "https://www.metacritic.com/game/speedrunners/"
   ],
-  "notes": "Steam shows Very Positive (95% of 22,548). Metacritic metascore 84; blended high\u201180s.",
-  "raw_comment": "2D platform racing. 4 local players. 16 with mod: https://www.moddb.com/mods/speedrunners-multiplayer-plus \ud83c\udfae 16 PS4/PS5. SteamInput on. \ud83c\udfae 16 XBox. SteamInput on. \u2328 1 on keyoard \ud83d\udda5\ufe0f Shared screen.",
+  "notes": "Steam shows Very Positive (95% of 22,548). Metacritic metascore 84; blended high‑80s. Play mode inferred from description.",
+  "raw_comment": "2D platform racing. 4 local players. 16 with mod: https://www.moddb.com/mods/speedrunners-multiplayer-plus 🎮 16 PS4/PS5. SteamInput on. 🎮 16 XBox. SteamInput on. ⌨ 1 on keyoard 🖥️ Shared screen.",
   "last_updated": "2025-12-29",
   "screen_mode": "shared",
-  "play_mode": "unknown",
+  "play_mode": "simultaneous",
   "input_methods": [
     "gamepad",
     "keyboard"
@@ -28,7 +28,7 @@
   "split_screen": false,
   "separate_screens": false,
   "turn_based": false,
-  "simultaneous": false,
+  "simultaneous": true,
   "review_count": null,
   "popularity_score_100": 60
 }

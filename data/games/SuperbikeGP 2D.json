@@ -9,18 +9,18 @@
     "https://store.steampowered.com/app/2858300/SuperbikeGP_2D/",
     "https://steamdb.info/app/2858300/"
   ],
-  "notes": "Coming soon with no user reviews yet; neutral score pending reviews.",
+  "notes": "Coming soon with no user reviews yet; neutral score pending reviews. Play mode inferred from description.",
   "raw_comment": null,
   "last_updated": "2025-12-29",
   "screen_mode": "unknown",
-  "play_mode": "unknown",
+  "play_mode": "simultaneous",
   "input_methods": [],
   "requires_vr": false,
   "shared_screen": false,
   "split_screen": false,
   "separate_screens": false,
   "turn_based": false,
-  "simultaneous": false,
+  "simultaneous": true,
   "review_count": null,
   "popularity_score_100": 10
 }

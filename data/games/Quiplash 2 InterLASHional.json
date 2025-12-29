@@ -12,25 +12,23 @@
     "Xbox One"
   ],
   "review_sources": [
-    "https://store.steampowered.com/app/1111940/Quiplash_2_InterLASHional/",
-    "https://www.metacritic.com/game/quiplash-2-interlashional/"
+    "https://store.steampowered.com/app/1111940/Quiplash_2_InterLASHional/"
   ],
-  "notes": "Steam reviews are Very Positive (92% of 323). Metacritic has two critic reviews (80\u201382), supporting a high blended score.",
+  "notes": "Steam lists Shared/Split Screen PvP and 323 user reviews; phones/tablets are controllers. Play mode inferred from description.",
   "raw_comment": "Party game with phones or tablets as controllers for 3-8 players. Content in French, Italian, German, Spanish, and English. English content is identical to Quiplash 2, found in Jackbox Party Pack 3.",
   "last_updated": "2025-12-29",
-  "screen_mode": "unknown",
-  "play_mode": "unknown",
+  "screen_mode": "shared",
+  "play_mode": "simultaneous",
   "input_methods": [
-    "gamepad",
     "phone",
     "tablet"
   ],
   "requires_vr": false,
-  "shared_screen": false,
-  "split_screen": false,
+  "shared_screen": true,
+  "split_screen": true,
   "separate_screens": false,
   "turn_based": false,
-  "simultaneous": false,
-  "review_count": null,
+  "simultaneous": true,
+  "review_count": 323,
   "popularity_score_100": 60
 }

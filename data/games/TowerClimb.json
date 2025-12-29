@@ -10,18 +10,18 @@
     "https://store.steampowered.com/app/396640/TowerClimb/",
     "https://www.metacritic.com/game/towerclimb/"
   ],
-  "notes": "Steam shows Very Positive (89% of 306). Metacritic user score 7.5; blended high\u201180s.",
+  "notes": "Steam shows Very Positive (89% of 306). Metacritic user score 7.5; blended high‑80s. Play mode inferred from description.",
   "raw_comment": "A roguelike adventure platformer for up to 25 local players, split screen or single screen",
   "last_updated": "2025-12-29",
   "screen_mode": "split",
-  "play_mode": "unknown",
+  "play_mode": "simultaneous",
   "input_methods": [],
   "requires_vr": false,
   "shared_screen": false,
   "split_screen": true,
   "separate_screens": false,
   "turn_based": false,
-  "simultaneous": false,
+  "simultaneous": true,
   "review_count": null,
   "popularity_score_100": 60
 }

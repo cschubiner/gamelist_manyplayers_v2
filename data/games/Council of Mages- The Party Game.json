@@ -6,24 +6,25 @@
     "Windows"
   ],
   "review_sources": [
-    "https://store.steampowered.com/app/1638620/Council_of_Mages_The_Party_Game/",
-    "https://steamdb.info/app/1638620/"
+    "https://store.steampowered.com/app/2506130/Council_of_Mages_The_Party_Game/",
+    "https://steamcommunity.com/app/2506130/discussions/1/4362372817691273623/",
+    "https://steamdb.info/app/2506130/info/"
   ],
-  "notes": "Steam shows no user reviews yet; neutral score pending reviews.",
+  "notes": "Steam says you can connect phones as controllers; SteamDB lists Shared/Split Screen PvP/Co-op and partial controller support; 1 user review. Play mode inferred from description.",
   "raw_comment": "Party game with mini games. Up to 6 local players. Gamepads or phones as controllers. Shared screen.",
   "last_updated": "2025-12-29",
   "screen_mode": "shared",
-  "play_mode": "unknown",
+  "play_mode": "simultaneous",
   "input_methods": [
     "gamepad",
     "phone"
   ],
   "requires_vr": false,
   "shared_screen": true,
-  "split_screen": false,
+  "split_screen": true,
   "separate_screens": false,
   "turn_based": false,
-  "simultaneous": false,
-  "review_count": null,
+  "simultaneous": true,
+  "review_count": 1,
   "popularity_score_100": 10
 }

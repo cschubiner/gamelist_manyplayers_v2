@@ -11,11 +11,11 @@
     "https://store.steampowered.com/app/2652000/The_Jackbox_Naughty_Pack/",
     "https://steambase.io/games/the-jackbox-naughty-pack/steam-charts"
   ],
-  "notes": "Steam shows Mostly Negative: 30% positive of 357 reviews; Steambase player score 33/100. Score reflects strong negative sentiment.",
-  "raw_comment": "3 party games, phones as controllers: Fakin\u2019 It All Night Long, Dirty Drawful, Let Me Finish. 3 to 8 players + 10,000 audience members\ud83d\udcf1 8 phones using browsers. \ud83d\udda5\ufe0f Phones + shared screen.",
+  "notes": "Steam shows Mostly Negative: 30% positive of 357 reviews; Steambase player score 33/100. Score reflects strong negative sentiment. Play mode inferred from description.",
+  "raw_comment": "3 party games, phones as controllers: Fakin’ It All Night Long, Dirty Drawful, Let Me Finish. 3 to 8 players + 10,000 audience members📱 8 phones using browsers. 🖥️ Phones + shared screen.",
   "last_updated": "2025-12-29",
   "screen_mode": "separate",
-  "play_mode": "unknown",
+  "play_mode": "simultaneous",
   "input_methods": [
     "browser",
     "gamepad",
@@ -26,7 +26,7 @@
   "split_screen": false,
   "separate_screens": true,
   "turn_based": false,
-  "simultaneous": false,
+  "simultaneous": true,
   "review_count": 357,
   "popularity_score_100": 32
 }

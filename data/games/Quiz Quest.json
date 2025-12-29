@@ -7,25 +7,23 @@
     "macOS"
   ],
   "review_sources": [
-    "https://store.steampowered.com/app/3024780/Quiz_Quest/",
-    "https://steamdb.info/app/3024780/"
+    "https://store.steampowered.com/app/3024780/Quiz_Quest/"
   ],
-  "notes": "Steam has 1 review; SteamDB shows 64.08% positive from 2 reviews. Small sample, cautious score.",
-  "raw_comment": "Trivia game for up to 6 players. Phones as controllers. \ud83d\udcf1 6 phones using browsers. \ud83d\udda5\ufe0f Phones + Shared screen.",
+  "notes": "Steam lists Shared/Split Screen PvP and shows 2 user reviews; players join with web-enabled devices. Play mode inferred from description.",
+  "raw_comment": "Trivia game for up to 6 players. Phones as controllers. 📱 6 phones using browsers. 🖥️ Phones + Shared screen.",
   "last_updated": "2025-12-29",
-  "screen_mode": "separate",
-  "play_mode": "unknown",
+  "screen_mode": "shared",
+  "play_mode": "simultaneous",
   "input_methods": [
-    "browser",
-    "gamepad",
-    "phone"
+    "phone",
+    "browser"
   ],
   "requires_vr": false,
-  "shared_screen": false,
-  "split_screen": false,
-  "separate_screens": true,
+  "shared_screen": true,
+  "split_screen": true,
+  "separate_screens": false,
   "turn_based": false,
-  "simultaneous": false,
+  "simultaneous": true,
   "review_count": 2,
   "popularity_score_100": 47
 }

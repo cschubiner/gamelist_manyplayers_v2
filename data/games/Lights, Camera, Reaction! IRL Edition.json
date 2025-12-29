@@ -7,25 +7,23 @@
     "macOS"
   ],
   "review_sources": [
-    "https://store.steampowered.com/app/3202670/Lights_Camera_Reaction_IRL_Edition/",
-    "https://steamdb.info/app/3202670/"
+    "https://store.steampowered.com/app/1876220/Lights_Camera_Reaction_IRL_Edition/"
   ],
-  "notes": "Coming soon with no user reviews yet; neutral score pending reviews.",
-  "raw_comment": "Minigames and word/drawing based games. 3-8 players. Phones as controllers. \ud83d\udcf1 8 phones using browsers. \ud83d\udda5\ufe0f Shared screen.",
+  "notes": "Steam store calls it a couch-style party game with phone/tablet controllers and lists Online PvP/Cross-Platform Multiplayer; 1 user review so far. Play mode inferred from description.",
+  "raw_comment": "Minigames and word/drawing based games. 3-8 players. Phones as controllers. 📱 8 phones using browsers. 🖥️ Shared screen.",
   "last_updated": "2025-12-29",
   "screen_mode": "shared",
-  "play_mode": "unknown",
+  "play_mode": "simultaneous",
   "input_methods": [
-    "browser",
-    "gamepad",
-    "phone"
+    "phone",
+    "tablet"
   ],
   "requires_vr": false,
   "shared_screen": true,
   "split_screen": false,
-  "separate_screens": false,
+  "separate_screens": true,
   "turn_based": false,
-  "simultaneous": false,
-  "review_count": null,
+  "simultaneous": true,
+  "review_count": 1,
   "popularity_score_100": 10
 }

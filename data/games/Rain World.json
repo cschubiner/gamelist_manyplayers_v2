@@ -11,21 +11,23 @@
     "Xbox One"
   ],
   "review_sources": [
-    "https://store.steampowered.com/app/312520/Rain_World/",
-    "https://www.metacritic.com/game/rain-world/"
+    "https://store.steampowered.com/app/312520/Rain_World/"
   ],
-  "notes": "Steam shows Very Positive (94% of 65k). Metacritic metascore 74; blended to high\u201180s/low\u201190s.",
-  "raw_comment": "2D platform environmental survival game. 4 local players in Arena mode. Downpour DLC adds 4-player Jolly-co-op and Expeditions modes. 16 players with mod: \u201cMyriad of Slugcats\u201d. \ud83d\udda5\ufe0f Shared screen.",
+  "notes": "Steam shows ~65,000 reviews and lists Shared/Split Screen Co-op for arena/Jolly Co-op modes; controller and keyboard supported. Play mode inferred from description.",
+  "raw_comment": "2D platform environmental survival game. 4 local players in Arena mode. Downpour DLC adds 4-player Jolly-co-op and Expeditions modes. 16 players with mod: “Myriad of Slugcats”. 🖥️ Shared screen.",
   "last_updated": "2025-12-29",
   "screen_mode": "shared",
-  "play_mode": "unknown",
-  "input_methods": [],
+  "play_mode": "simultaneous",
+  "input_methods": [
+    "gamepad",
+    "keyboard"
+  ],
   "requires_vr": false,
   "shared_screen": true,
-  "split_screen": false,
+  "split_screen": true,
   "separate_screens": false,
   "turn_based": false,
-  "simultaneous": false,
-  "review_count": null,
+  "simultaneous": true,
+  "review_count": 65000,
   "popularity_score_100": 60
 }

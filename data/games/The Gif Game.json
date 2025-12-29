@@ -10,11 +10,11 @@
     "https://store.steampowered.com/app/1464900/The_Gif_Game/",
     "https://steamdb.info/app/1464900/"
   ],
-  "notes": "Steam shows Positive: 82% of 51 reviews. SteamDB shows 77.95% positive; small sample keeps score mid\u201170s.",
-  "raw_comment": "Write prompts, select gif, vote, score. \ud83d\udcf1 Phones using browsers. \ud83d\udda5\ufe0f Phones + shared screen.",
+  "notes": "Steam shows Positive: 82% of 51 reviews. SteamDB shows 77.95% positive; small sample keeps score mid‑70s. Play mode inferred from description.",
+  "raw_comment": "Write prompts, select gif, vote, score. 📱 Phones using browsers. 🖥️ Phones + shared screen.",
   "last_updated": "2025-12-29",
   "screen_mode": "separate",
-  "play_mode": "unknown",
+  "play_mode": "simultaneous",
   "input_methods": [
     "browser",
     "phone"
@@ -24,7 +24,7 @@
   "split_screen": false,
   "separate_screens": true,
   "turn_based": false,
-  "simultaneous": false,
+  "simultaneous": true,
   "review_count": 51,
   "popularity_score_100": 71
 }

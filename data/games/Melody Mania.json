@@ -7,23 +7,23 @@
     "Android"
   ],
   "review_sources": [
-    "https://store.steampowered.com/app/2241210/Melody_Mania_Rhythm_Game/",
-    "https://steamdb.info/app/2241210/"
+    "https://store.steampowered.com/app/1717900/Melody_Mania/"
   ],
-  "notes": "Steam shows only a few reviews; SteamDB lists app. Small sample keeps score low\u201160s.",
+  "notes": "Steam lists Shared/Split Screen PvP and says the phone or microphone can be used for singing; 8 user reviews. Play mode inferred from description.",
   "raw_comment": "Singing game similar to Sing Star. No hard limit to number of mics but UI will get crowded. Android phones can also be used as microphones.Shared screen.",
   "last_updated": "2025-12-29",
   "screen_mode": "shared",
-  "play_mode": "unknown",
+  "play_mode": "simultaneous",
   "input_methods": [
-    "phone"
+    "phone",
+    "microphone"
   ],
   "requires_vr": false,
   "shared_screen": true,
-  "split_screen": false,
+  "split_screen": true,
   "separate_screens": false,
   "turn_based": false,
-  "simultaneous": false,
-  "review_count": null,
+  "simultaneous": true,
+  "review_count": 8,
   "popularity_score_100": 55
 }

@@ -6,21 +6,20 @@
     "Windows"
   ],
   "review_sources": [
-    "https://store.steampowered.com/app/2533370/Heads_Up_Phones_Down_Edition/",
-    "https://steamdb.info/app/2533370/"
+    "https://store.steampowered.com/app/2533370/Heads_Up_Phones_Down_Edition/"
   ],
-  "notes": "Steam shows Mixed (50% of 8). SteamDB shows 49.22% positive; tiny sample keeps score at 50.",
+  "notes": "Steam lists Shared/Split Screen Co-op and shows 24 user reviews. Play mode inferred from description.",
   "raw_comment": "Party game where a player tries to guess a word or phrase with the help of clues from friends. No hard limit to number of participants. Shared screen.",
   "last_updated": "2025-12-29",
   "screen_mode": "shared",
-  "play_mode": "unknown",
+  "play_mode": "simultaneous",
   "input_methods": [],
   "requires_vr": false,
   "shared_screen": true,
-  "split_screen": false,
+  "split_screen": true,
   "separate_screens": false,
   "turn_based": false,
-  "simultaneous": false,
-  "review_count": null,
+  "simultaneous": true,
+  "review_count": 24,
   "popularity_score_100": 40
 }

@@ -6,21 +6,24 @@
     "Windows"
   ],
   "review_sources": [
-    "https://store.steampowered.com/app/810640/Radiis/",
-    "https://steamdb.info/app/810640/"
+    "https://store.steampowered.com/app/810640/Radiis/"
   ],
-  "notes": "Steam shows Very Positive (90% of 95). SteamDB shows 82.26% positive; blended high\u201180s/low\u201190s.",
-  "raw_comment": "Turn-based strategy board game. 16 local players. \ud83d\udda5\ufe0f Shared screen.",
+  "notes": "Steam lists Shared/Split Screen PvP and 95 user reviews; strategy board game uses mouse/keyboard and supports controllers.",
+  "raw_comment": "Turn-based strategy board game. 16 local players. 🖥️ Shared screen.",
   "last_updated": "2025-12-29",
   "screen_mode": "shared",
   "play_mode": "turn_based",
-  "input_methods": [],
+  "input_methods": [
+    "gamepad",
+    "keyboard",
+    "mouse"
+  ],
   "requires_vr": false,
   "shared_screen": true,
-  "split_screen": false,
+  "split_screen": true,
   "separate_screens": false,
   "turn_based": true,
   "simultaneous": false,
-  "review_count": null,
+  "review_count": 95,
   "popularity_score_100": 60
 }

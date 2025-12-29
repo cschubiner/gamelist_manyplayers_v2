@@ -11,11 +11,11 @@
     "https://store.steampowered.com/app/2216830/The_Jackbox_Party_Pack_10/",
     "https://www.metacritic.com/game/the-jackbox-party-pack-10/"
   ],
-  "notes": "Steam shows Very Positive (82% of 3,534). Metacritic metascore 70; blended low\u201180s.",
+  "notes": "Steam shows Very Positive (82% of 3,534). Metacritic metascore 70; blended low‑80s. Play mode inferred from description.",
   "raw_comment": "5 party games, phones as controllers: Tee K.O. 2, FixyText, Hypnotorious, Timejinx, and Dodo Re Mi. Games support up to 9 players and 10,000 audience members.",
   "last_updated": "2025-12-29",
   "screen_mode": "unknown",
-  "play_mode": "unknown",
+  "play_mode": "simultaneous",
   "input_methods": [
     "gamepad",
     "phone"
@@ -25,7 +25,7 @@
   "split_screen": false,
   "separate_screens": false,
   "turn_based": false,
-  "simultaneous": false,
+  "simultaneous": true,
   "review_count": null,
   "popularity_score_100": 60
 }

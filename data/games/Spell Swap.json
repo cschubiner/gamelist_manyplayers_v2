@@ -9,11 +9,11 @@
     "https://store.steampowered.com/app/369090/Spell_Swap/",
     "https://steamdb.info/app/369090/"
   ],
-  "notes": "SteamDB shows 87.56% positive (1,411). Steam page shows strong sentiment; blended high\u201180s.",
+  "notes": "SteamDB shows 87.56% positive (1,411). Steam page shows strong sentiment; blended high‑80s. Play mode inferred from description.",
   "raw_comment": "Wizard vs wizard 2D fighting game. 2-8 (or more) local players. Max 4 XBox controllers. Additional non Xinput controllers can be used and multiple players on keyboard. Shared screen.",
   "last_updated": "2025-12-29",
   "screen_mode": "shared",
-  "play_mode": "unknown",
+  "play_mode": "simultaneous",
   "input_methods": [
     "gamepad",
     "keyboard"
@@ -23,7 +23,7 @@
   "split_screen": false,
   "separate_screens": false,
   "turn_based": false,
-  "simultaneous": false,
+  "simultaneous": true,
   "review_count": null,
   "popularity_score_100": 60
 }

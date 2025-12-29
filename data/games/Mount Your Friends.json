@@ -8,21 +8,23 @@
     "Linux"
   ],
   "review_sources": [
-    "https://store.steampowered.com/app/314930/Mount_Your_Friends/",
-    "https://steamdb.info/app/314930/"
+    "https://store.steampowered.com/app/314930/Mount_Your_Friends/"
   ],
-  "notes": "Steam shows Overwhelmingly Positive (95% of 2,811). SteamDB shows 93.65% positive; strong consensus.",
+  "notes": "Steam lists Shared/Split Screen PvP and 2,812 user reviews.",
   "raw_comment": "Hot Seat weird multiplayer sporting event, up to 16 players offline, same screen (turn based)",
   "last_updated": "2025-12-29",
   "screen_mode": "shared",
   "play_mode": "turn_based",
-  "input_methods": [],
+  "input_methods": [
+    "gamepad",
+    "keyboard"
+  ],
   "requires_vr": false,
   "shared_screen": true,
   "split_screen": false,
   "separate_screens": false,
   "turn_based": true,
   "simultaneous": false,
-  "review_count": null,
+  "review_count": 2812,
   "popularity_score_100": 60
 }

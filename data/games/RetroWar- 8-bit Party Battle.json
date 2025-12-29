@@ -6,21 +6,23 @@
     "Windows"
   ],
   "review_sources": [
-    "https://store.steampowered.com/app/664240/RetroWar_8bit_Party_Battle/",
-    "https://steamdb.info/app/664240/"
+    "https://store.steampowered.com/app/664240/RetroWar_8bit_Party_Battle/"
   ],
-  "notes": "Steam has 8 reviews (no score). SteamDB shows 74.19% positive; small sample keeps score mid\u201170s.",
+  "notes": "Steam lists Shared/Split Screen PvP and 8 user reviews. Play mode inferred from description.",
   "raw_comment": "Retro arcade games designed for 4 players but support up to 16 local players. Shared Screen.",
   "last_updated": "2025-12-29",
   "screen_mode": "shared",
-  "play_mode": "unknown",
-  "input_methods": [],
+  "play_mode": "simultaneous",
+  "input_methods": [
+    "gamepad",
+    "keyboard"
+  ],
   "requires_vr": false,
   "shared_screen": true,
-  "split_screen": false,
+  "split_screen": true,
   "separate_screens": false,
   "turn_based": false,
-  "simultaneous": false,
-  "review_count": null,
+  "simultaneous": true,
+  "review_count": 8,
   "popularity_score_100": 55
 }

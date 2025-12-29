@@ -6,14 +6,13 @@
     "Windows"
   ],
   "review_sources": [
-    "https://store.steampowered.com/app/437900/Party_Jousting/",
-    "https://steambase.io/games/party-jousting/reviews"
+    "https://store.steampowered.com/app/437900/Party_Jousting/"
   ],
-  "notes": "Steam shows Very Positive (91% of 730). Steambase player score 92; strong consensus.",
+  "notes": "Steam lists 730 user reviews for this same-screen party game. Play mode inferred from description.",
   "raw_comment": "A simple one-button game where to shoot or jump on your friends, for 2-16 players, same screen, sharing a keyboard or controller.",
   "last_updated": "2025-12-29",
   "screen_mode": "shared",
-  "play_mode": "unknown",
+  "play_mode": "simultaneous",
   "input_methods": [
     "gamepad",
     "keyboard"
@@ -23,7 +22,7 @@
   "split_screen": false,
   "separate_screens": false,
   "turn_based": false,
-  "simultaneous": false,
-  "review_count": null,
+  "simultaneous": true,
+  "review_count": 730,
   "popularity_score_100": 60
 }

@@ -7,24 +7,23 @@
     "SteamVR"
   ],
   "review_sources": [
-    "https://store.steampowered.com/app/1085210/Potato_Party_Hash_It_Out/",
-    "https://steamdb.info/app/1085210/"
+    "https://store.steampowered.com/app/1435960/Potato_Party_Hash_It_Out/"
   ],
-  "notes": "Steam shows Positive (80% of 15). SteamDB shows 77.47% positive; small sample.",
+  "notes": "Steam says VR player draws while 1–8 players join on iOS/Android and lists 15 user reviews. Play mode inferred from description.",
   "raw_comment": "Pictionary. VR player draws using 3D shapes, air-painting, or canvas drawing. 1-8 other players guess the word using an android/iOS app. Shared screen for seeing the drawing.",
   "last_updated": "2025-12-29",
   "screen_mode": "shared",
-  "play_mode": "unknown",
+  "play_mode": "simultaneous",
   "input_methods": [
-    "phone",
-    "vr"
+    "vr",
+    "phone"
   ],
   "requires_vr": true,
   "shared_screen": true,
   "split_screen": false,
-  "separate_screens": false,
+  "separate_screens": true,
   "turn_based": false,
-  "simultaneous": false,
-  "review_count": null,
+  "simultaneous": true,
+  "review_count": 15,
   "popularity_score_100": 55
 }

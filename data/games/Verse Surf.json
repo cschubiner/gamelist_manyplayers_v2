@@ -12,11 +12,11 @@
     "https://steamdb.info/app/1315390/",
     "https://www.metacritic.com/game/verse-surf/"
   ],
-  "notes": "Score blends SteamDB 68.30% positive (47 reviews) with no critic/user scores on Metacritic; small sample lowers confidence.",
+  "notes": "Score blends SteamDB 68.30% positive (47 reviews) with no critic/user scores on Metacritic; small sample lowers confidence. Play mode inferred from description.",
   "raw_comment": "Everyone listens to a verse, makes up a lyric for the missing word and hope someone votes for their lyric. 8 players. Phones/tablets/browsers as controllers.",
   "last_updated": "2025-12-29",
   "screen_mode": "unknown",
-  "play_mode": "unknown",
+  "play_mode": "simultaneous",
   "input_methods": [
     "browser",
     "gamepad",
@@ -28,7 +28,7 @@
   "split_screen": false,
   "separate_screens": false,
   "turn_based": false,
-  "simultaneous": false,
+  "simultaneous": true,
   "review_count": 47,
   "popularity_score_100": 51
 }

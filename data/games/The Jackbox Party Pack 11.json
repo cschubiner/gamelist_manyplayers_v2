@@ -17,11 +17,11 @@
     "https://store.steampowered.com/app/3364070/The_Jackbox_Party_Pack_11/",
     "https://www.metacritic.com/game/the-jackbox-party-pack-11/"
   ],
-  "notes": "Steam shows Very Positive (93% of 303). Metacritic metascore 79; blended score in mid\u201180s.",
-  "raw_comment": "5 party games. At least 2 of them will support 8 local players. \ud83d\udcf18 phones as controllers. \ud83d\udda5\ufe0f Phones and shared screen.",
+  "notes": "Steam shows Very Positive (93% of 303). Metacritic metascore 79; blended score in mid‑80s. Play mode inferred from description.",
+  "raw_comment": "5 party games. At least 2 of them will support 8 local players. 📱8 phones as controllers. 🖥️ Phones and shared screen.",
   "last_updated": "2025-12-29",
   "screen_mode": "separate",
-  "play_mode": "unknown",
+  "play_mode": "simultaneous",
   "input_methods": [
     "gamepad",
     "phone"
@@ -31,7 +31,7 @@
   "split_screen": false,
   "separate_screens": true,
   "turn_based": false,
-  "simultaneous": false,
+  "simultaneous": true,
   "review_count": null,
   "popularity_score_100": 60
 }

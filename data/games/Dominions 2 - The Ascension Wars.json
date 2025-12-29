@@ -6,21 +6,20 @@
     "Windows"
   ],
   "review_sources": [
-    "https://store.steampowered.com/app/34050/Dominions_2_The_Ascension_Wars/",
-    "https://steamdb.info/app/34050/"
+    "https://store.steampowered.com/app/3533600/Dominions_2__The_Ascension_Wars/"
   ],
-  "notes": "Small but positive Steam sentiment; score in low\u201180s.",
-  "raw_comment": "Turn-based strategy game. 17 local players. \ud83d\udda5\ufe0f Shared screen.",
+  "notes": "Steam lists Shared/Split Screen PvP/Co-op with hotseat/LAN and currently no user reviews.",
+  "raw_comment": "Turn-based strategy game. 17 local players. 🖥️ Shared screen.",
   "last_updated": "2025-12-29",
   "screen_mode": "shared",
   "play_mode": "turn_based",
   "input_methods": [],
   "requires_vr": false,
   "shared_screen": true,
-  "split_screen": false,
+  "split_screen": true,
   "separate_screens": false,
   "turn_based": true,
   "simultaneous": false,
-  "review_count": null,
+  "review_count": 0,
   "popularity_score_100": 60
 }

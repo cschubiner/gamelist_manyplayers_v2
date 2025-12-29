@@ -11,11 +11,11 @@
     "https://store.steampowered.com/app/397460/The_Jackbox_Party_Pack_2/",
     "https://www.metacritic.com/game/the-jackbox-party-pack-2/"
   ],
-  "notes": "Steam shows Overwhelmingly Positive (95% of 1,405). Metacritic metascore 71 with user score 6.9; blended to high-80s.",
+  "notes": "Steam shows Overwhelmingly Positive (95% of 1,405). Metacritic metascore 71 with user score 6.9; blended to high-80s. Play mode inferred from description.",
   "raw_comment": "Five party games where you use phones, tablets or computers as controllers. Fibbage 2 (2-8 players), Earwax (3-8 players), Bidiots (3-6 players), Quiplash XL (3-8 players), Bomb Corp. (1-4 players).",
   "last_updated": "2025-12-29",
   "screen_mode": "unknown",
-  "play_mode": "unknown",
+  "play_mode": "simultaneous",
   "input_methods": [
     "gamepad",
     "phone",
@@ -26,7 +26,7 @@
   "split_screen": false,
   "separate_screens": false,
   "turn_based": false,
-  "simultaneous": false,
+  "simultaneous": true,
   "review_count": null,
   "popularity_score_100": 60
 }

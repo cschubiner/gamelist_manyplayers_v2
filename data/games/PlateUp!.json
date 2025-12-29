@@ -6,14 +6,13 @@
     "Windows"
   ],
   "review_sources": [
-    "https://store.steampowered.com/app/1599600/PlateUp/",
-    "https://steamdb.info/app/1599600/"
+    "https://steambase.io/games/plateup/reviews"
   ],
-  "notes": "Steam shows Overwhelmingly Positive (96% of 11,567). SteamDB shows 92.72% positive; strong consensus.",
-  "raw_comment": "Co-op restaurant sim. 4 local players. 12 with \"MMO Kitchen Mod\". \ud83c\udfae 12 PS4/PS5 with SteamInput off. \ud83c\udfae 4 XBox. (12 via virtual PS4 using reWASD. Alt+tab away & back.) \u23281 on keyboard. \ud83d\udda5\ufe0fShared screen",
+  "notes": "Steambase lists 24,585 total Steam reviews (Very Positive). Play mode inferred from description.",
+  "raw_comment": "Co-op restaurant sim. 4 local players. 12 with \"MMO Kitchen Mod\". 🎮 12 PS4/PS5 with SteamInput off. 🎮 4 XBox. (12 via virtual PS4 using reWASD. Alt+tab away & back.) ⌨1 on keyboard. 🖥️Shared screen",
   "last_updated": "2025-12-29",
   "screen_mode": "shared",
-  "play_mode": "unknown",
+  "play_mode": "simultaneous",
   "input_methods": [
     "gamepad",
     "keyboard"
@@ -23,7 +22,7 @@
   "split_screen": false,
   "separate_screens": false,
   "turn_based": false,
-  "simultaneous": false,
-  "review_count": null,
+  "simultaneous": true,
+  "review_count": 24585,
   "popularity_score_100": 60
 }

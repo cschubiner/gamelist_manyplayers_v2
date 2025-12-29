@@ -15,11 +15,11 @@
     "https://store.steampowered.com/app/3188960/Use_Your_Words_2/",
     "https://www.metacritic.com/game/use-your-words-2/"
   ],
-  "notes": "Steam reviews are Positive (86% of 37). Metacritic lists platforms but has no critic/user scores; small sample keeps score moderate-high.",
-  "raw_comment": "Word based party game with 8 mini games. 3-6 players using phones, tablets, etc. Up to 1000 spectators can participate by voting. \ud83d\udcf1 6 phones using browsers. \ud83d\udda5\ufe0f Phones + shared screen.",
+  "notes": "Steam reviews are Positive (86% of 37). Metacritic lists platforms but has no critic/user scores; small sample keeps score moderate-high. Play mode inferred from description.",
+  "raw_comment": "Word based party game with 8 mini games. 3-6 players using phones, tablets, etc. Up to 1000 spectators can participate by voting. 📱 6 phones using browsers. 🖥️ Phones + shared screen.",
   "last_updated": "2025-12-29",
   "screen_mode": "separate",
-  "play_mode": "unknown",
+  "play_mode": "simultaneous",
   "input_methods": [
     "browser",
     "phone",
@@ -30,7 +30,7 @@
   "split_screen": false,
   "separate_screens": true,
   "turn_based": false,
-  "simultaneous": false,
+  "simultaneous": true,
   "review_count": null,
   "popularity_score_100": 55
 }

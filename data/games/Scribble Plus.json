@@ -8,11 +8,11 @@
   "review_sources": [
     "https://store.steampowered.com/app/993890/Scribble_Plus/"
   ],
-  "notes": "Steam shows only 7 reviews (6 positive, 1 negative). Small sample keeps score moderate.",
+  "notes": "Steam shows only 7 reviews (6 positive, 1 negative). Small sample keeps score moderate. Play mode inferred from description.",
   "raw_comment": "Drawing and guessing game. Custom wordlist support. Several game modes. Modifiers to make drawing trickier. Up to 8 local or online players. Each player uses a device with a browser. Separate screens.",
   "last_updated": "2025-12-29",
   "screen_mode": "separate",
-  "play_mode": "unknown",
+  "play_mode": "simultaneous",
   "input_methods": [
     "browser"
   ],
@@ -21,7 +21,7 @@
   "split_screen": false,
   "separate_screens": true,
   "turn_based": false,
-  "simultaneous": false,
+  "simultaneous": true,
   "review_count": null,
   "popularity_score_100": 55
 }

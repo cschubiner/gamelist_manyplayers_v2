@@ -6,24 +6,23 @@
     "Windows"
   ],
   "review_sources": [
-    "https://store.steampowered.com/app/661200/Cymatically_Muffed/",
-    "https://steamdb.info/app/661200/"
+    "https://store.steampowered.com/app/661200/Cymatically_Muffed/"
   ],
-  "notes": "Tiny review sample; score kept around 60 pending more data.",
+  "notes": "Steam highlights split screen for up to 16 players and emphasizes gamepad play; 8 user reviews. Play mode inferred from description.",
   "raw_comment": "Top-down shooter for 16 local players. 16 players on gamepads and 1 player on keyboard. Split screen.",
   "last_updated": "2025-12-29",
   "screen_mode": "split",
-  "play_mode": "unknown",
+  "play_mode": "simultaneous",
   "input_methods": [
     "gamepad",
     "keyboard"
   ],
   "requires_vr": false,
-  "shared_screen": false,
+  "shared_screen": true,
   "split_screen": true,
   "separate_screens": false,
   "turn_based": false,
-  "simultaneous": false,
-  "review_count": null,
+  "simultaneous": true,
+  "review_count": 8,
   "popularity_score_100": 60
 }

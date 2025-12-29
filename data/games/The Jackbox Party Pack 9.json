@@ -11,11 +11,11 @@
     "https://store.steampowered.com/app/1850960/The_Jackbox_Party_Pack_9/",
     "https://www.metacritic.com/game/the-jackbox-party-pack-9/"
   ],
-  "notes": "Steam shows Very Positive (86% of 4,309). Metacritic metascore 70; blended low\u201180s.",
+  "notes": "Steam shows Very Positive (86% of 4,309). Metacritic metascore 70; blended low‑80s. Play mode inferred from description.",
   "raw_comment": "5 party games, phones as controllers: Fibbage 4 (2-8 players). Quixort (1-10 players). Junktopia (3-8 players). Nonsensory (3-8 players). Roomerang (4-9 players)",
   "last_updated": "2025-12-29",
   "screen_mode": "unknown",
-  "play_mode": "unknown",
+  "play_mode": "simultaneous",
   "input_methods": [
     "gamepad",
     "phone"
@@ -25,7 +25,7 @@
   "split_screen": false,
   "separate_screens": false,
   "turn_based": false,
-  "simultaneous": false,
+  "simultaneous": true,
   "review_count": null,
   "popularity_score_100": 60
 }

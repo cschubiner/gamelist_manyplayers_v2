@@ -17,11 +17,11 @@
     "https://store.steampowered.com/app/1211630/The_Jackbox_Party_Pack_7/",
     "https://www.metacritic.com/game/the-jackbox-party-pack-7/"
   ],
-  "notes": "Steam English reviews are Overwhelmingly Positive (96% of 3,668). Metacritic metascore 75 with user score 7.6; blended to mid\u201180s.",
-  "raw_comment": "5 party games, phones as controllers: Quiplash (3-8 players), The Devils and the Details (3-8 pl.), Champ\u2019d Up (3-8 pl.), Talking Points (3-8 pl.), Blather 'Round (2-6 pl.)",
+  "notes": "Steam English reviews are Overwhelmingly Positive (96% of 3,668). Metacritic metascore 75 with user score 7.6; blended to mid‑80s. Play mode inferred from description.",
+  "raw_comment": "5 party games, phones as controllers: Quiplash (3-8 players), The Devils and the Details (3-8 pl.), Champ’d Up (3-8 pl.), Talking Points (3-8 pl.), Blather 'Round (2-6 pl.)",
   "last_updated": "2025-12-29",
   "screen_mode": "unknown",
-  "play_mode": "unknown",
+  "play_mode": "simultaneous",
   "input_methods": [
     "gamepad",
     "phone"
@@ -31,7 +31,7 @@
   "split_screen": false,
   "separate_screens": false,
   "turn_based": false,
-  "simultaneous": false,
+  "simultaneous": true,
   "review_count": null,
   "popularity_score_100": 60
 }

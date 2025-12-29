@@ -6,21 +6,20 @@
     "Windows"
   ],
   "review_sources": [
-    "https://store.steampowered.com/app/1982410/Fish_Volleyball/",
-    "https://steamdb.info/app/1982410/"
+    "https://store.steampowered.com/app/1982410/Fish_Volleyball/"
   ],
-  "notes": "Coming soon with no user reviews yet; neutral score pending reviews.",
+  "notes": "Steam lists Shared/Split Screen PvP/Co-op and no user reviews yet. Play mode inferred from description.",
   "raw_comment": "2D Volleyball with fish. Up to 10 local players. Shared screen.",
   "last_updated": "2025-12-29",
   "screen_mode": "shared",
-  "play_mode": "unknown",
+  "play_mode": "simultaneous",
   "input_methods": [],
   "requires_vr": false,
   "shared_screen": true,
-  "split_screen": false,
+  "split_screen": true,
   "separate_screens": false,
   "turn_based": false,
-  "simultaneous": false,
-  "review_count": null,
+  "simultaneous": true,
+  "review_count": 0,
   "popularity_score_100": 10
 }

@@ -6,21 +6,21 @@
     "Windows"
   ],
   "review_sources": [
-    "https://store.steampowered.com/app/1321760/Corona_Find_Us/",
-    "https://steambase.io/games/corona-find-us/reviews"
+    "https://steambase.io/games/corona-find-us/reviews",
+    "https://steamapp.net/app/1321760"
   ],
-  "notes": "Steambase shows mixed player score with tiny sample; score kept low\u2011mid 50s.",
+  "notes": "Steambase shows 6 total Steam reviews; steamapp.net lists Shared/Split Screen Co-op with 2–16 suggested players. Play mode inferred from description.",
   "raw_comment": "Nanobots fight viruses and bacteria. 1 to 16 local players or more. Shared screen.",
   "last_updated": "2025-12-29",
   "screen_mode": "shared",
-  "play_mode": "unknown",
+  "play_mode": "simultaneous",
   "input_methods": [],
   "requires_vr": false,
   "shared_screen": true,
-  "split_screen": false,
+  "split_screen": true,
   "separate_screens": false,
   "turn_based": false,
-  "simultaneous": false,
-  "review_count": null,
+  "simultaneous": true,
+  "review_count": 6,
   "popularity_score_100": 40
 }

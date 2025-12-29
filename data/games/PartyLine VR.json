@@ -7,26 +7,25 @@
     "SteamVR"
   ],
   "review_sources": [
-    "https://store.steampowered.com/app/846830/PartyLine_VR/",
-    "https://steambase.io/games/partyline-vr/reviews"
+    "https://store.steampowered.com/app/846830/PartyLine_VR/"
   ],
-  "notes": "Steam shows Mixed (50% of 14). Steambase player score 50; blended to 50.",
+  "notes": "Steam says players use phones/tablets/computers as controllers (no app download) and lists 14 user reviews. Play mode inferred from description.",
   "raw_comment": "Minigames where 1 VR player plays with/against up to 8 players using phones/tablets as controllers. VR + shared screen.",
   "last_updated": "2025-12-29",
   "screen_mode": "shared",
-  "play_mode": "unknown",
+  "play_mode": "simultaneous",
   "input_methods": [
-    "gamepad",
+    "vr",
     "phone",
     "tablet",
-    "vr"
+    "browser"
   ],
   "requires_vr": true,
   "shared_screen": true,
   "split_screen": false,
-  "separate_screens": false,
+  "separate_screens": true,
   "turn_based": false,
-  "simultaneous": false,
-  "review_count": null,
+  "simultaneous": true,
+  "review_count": 14,
   "popularity_score_100": 50
 }

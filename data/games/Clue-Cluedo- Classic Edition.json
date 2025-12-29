@@ -9,16 +9,14 @@
     "Nintendo Switch"
   ],
   "review_sources": [
-    "https://store.steampowered.com/app/794800/ClueCluedo_Classic_Edition/",
-    "https://steamdb.info/app/794800/"
+    "https://store.steampowered.com/app/794800/ClueCluedo_Classic_Edition/"
   ],
-  "notes": "Steam English reviews are Very Positive (87% of 2,055). SteamDB shows 84.28% positive across ~3k reviews; strong sentiment.",
-  "raw_comment": "Detective game. Can be played single player, online or locally. 6 local players. \ud83d\udcf1 6 phones as controllers using an app. \ud83d\udda5\ufe0f Phones and shared screen.",
+  "notes": "Steam lists 2,927 total reviews and notes cross-platform multiplayer across PC, iOS, Android, and Nintendo Switch. Play mode inferred from description.",
+  "raw_comment": "Detective game. Can be played single player, online or locally. 6 local players. 📱 6 phones as controllers using an app. 🖥️ Phones and shared screen.",
   "last_updated": "2025-12-29",
   "screen_mode": "separate",
-  "play_mode": "unknown",
+  "play_mode": "simultaneous",
   "input_methods": [
-    "gamepad",
     "phone"
   ],
   "requires_vr": false,
@@ -26,7 +24,7 @@
   "split_screen": false,
   "separate_screens": true,
   "turn_based": false,
-  "simultaneous": false,
-  "review_count": 3000,
+  "simultaneous": true,
+  "review_count": 2927,
   "popularity_score_100": 89
 }

@@ -11,11 +11,11 @@
     "https://store.steampowered.com/app/1552350/The_Jackbox_Party_Pack_8/",
     "https://www.metacritic.com/game/the-jackbox-party-pack-8/"
   ],
-  "notes": "SteamDB shows 85.84% positive (13,876). Metacritic has critic coverage; blended mid\u201180s.",
+  "notes": "SteamDB shows 85.84% positive (13,876). Metacritic has critic coverage; blended mid‑80s. Play mode inferred from description.",
   "raw_comment": "5 party games, phones as controllers: Drawful Animate (3 -10 players), The Wheel of Enormous Proportions (4-8 pl.), Job Job (3-10 pl.), The Poll Mine (2-10 pl.), Weapons Drawn (4-8 pl.)",
   "last_updated": "2025-12-29",
   "screen_mode": "unknown",
-  "play_mode": "unknown",
+  "play_mode": "simultaneous",
   "input_methods": [
     "gamepad",
     "phone"
@@ -25,7 +25,7 @@
   "split_screen": false,
   "separate_screens": false,
   "turn_based": false,
-  "simultaneous": false,
+  "simultaneous": true,
   "review_count": null,
   "popularity_score_100": 60
 }

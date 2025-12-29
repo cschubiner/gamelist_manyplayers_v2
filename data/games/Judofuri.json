@@ -6,24 +6,23 @@
     "Windows"
   ],
   "review_sources": [
-    "https://store.steampowered.com/app/3013460/Judofuri/",
-    "https://steamdb.info/app/3013460/"
+    "https://store.steampowered.com/app/3013460/Judofuri/"
   ],
-  "notes": "Steam shows Very Positive (85% of 68). SteamDB shows 86.08% positive; blended to low\u201180s.",
-  "raw_comment": "One button party game. 2-9 local players. Optionally multiple players per controller. \ud83c\udfae 9 PS4/PS5. SteamInput on for rumble. \ud83c\udfae 9 XBox. \u2328 9 on keyboard. \ud83d\udda5\ufe0f Shared screen.",
+  "notes": "Steam lists Shared/Split Screen PvP and shows 68 user reviews. Play mode inferred from description.",
+  "raw_comment": "One button party game. 2-9 local players. Optionally multiple players per controller. 🎮 9 PS4/PS5. SteamInput on for rumble. 🎮 9 XBox. ⌨ 9 on keyboard. 🖥️ Shared screen.",
   "last_updated": "2025-12-29",
   "screen_mode": "shared",
-  "play_mode": "unknown",
+  "play_mode": "simultaneous",
   "input_methods": [
     "gamepad",
     "keyboard"
   ],
   "requires_vr": false,
   "shared_screen": true,
-  "split_screen": false,
+  "split_screen": true,
   "separate_screens": false,
   "turn_based": false,
-  "simultaneous": false,
-  "review_count": null,
+  "simultaneous": true,
+  "review_count": 68,
   "popularity_score_100": 60
 }

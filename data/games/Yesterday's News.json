@@ -9,11 +9,11 @@
     "https://store.steampowered.com/app/2850560/Yesterdays_News/",
     "https://steamdb.info/app/2850560/"
   ],
-  "notes": "Steam shows Positive (93% of 16). Small sample keeps score below mid\u201180s.",
-  "raw_comment": "Craft hilarious headlines and vote for the best. 3-8 players. \ud83d\udcf1 8 phones using browsers. \ud83d\udda5\ufe0f Phones + shared screen.",
+  "notes": "Steam shows Positive (93% of 16). Small sample keeps score below mid‑80s. Play mode inferred from description.",
+  "raw_comment": "Craft hilarious headlines and vote for the best. 3-8 players. 📱 8 phones using browsers. 🖥️ Phones + shared screen.",
   "last_updated": "2025-12-29",
   "screen_mode": "separate",
-  "play_mode": "unknown",
+  "play_mode": "simultaneous",
   "input_methods": [
     "browser",
     "phone"
@@ -23,7 +23,7 @@
   "split_screen": false,
   "separate_screens": true,
   "turn_based": false,
-  "simultaneous": false,
+  "simultaneous": true,
   "review_count": null,
   "popularity_score_100": 55
 }

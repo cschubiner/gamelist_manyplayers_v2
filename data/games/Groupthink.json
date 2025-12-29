@@ -7,26 +7,25 @@
     "macOS"
   ],
   "review_sources": [
-    "https://store.steampowered.com/app/1230210/Groupthink/",
+    "https://steamapp.net/app/1230210",
     "https://steamdb.info/app/1230210/"
   ],
-  "notes": "Steam shows Mixed (63% of 11). SteamDB shows 57.18% positive; small sample keeps score around 60.",
+  "notes": "SteamDB lists 11 reviews and Shared/Split Screen categories; steamapp.net says players join through a browser on computer or mobile and must see the Groupthink window. Play mode inferred from description.",
   "raw_comment": "Party game where a team comes up with an answer by submitting a letter one person at a time. 3-16 local players. Browser on phones, tablets, etc as controllers. Shared screen.",
   "last_updated": "2025-12-29",
   "screen_mode": "shared",
-  "play_mode": "unknown",
+  "play_mode": "simultaneous",
   "input_methods": [
     "browser",
-    "gamepad",
     "phone",
     "tablet"
   ],
   "requires_vr": false,
   "shared_screen": true,
-  "split_screen": false,
+  "split_screen": true,
   "separate_screens": false,
   "turn_based": false,
-  "simultaneous": false,
-  "review_count": null,
+  "simultaneous": true,
+  "review_count": 11,
   "popularity_score_100": 55
 }

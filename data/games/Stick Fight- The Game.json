@@ -11,11 +11,11 @@
     "https://store.steampowered.com/app/674940/Stick_Fight_The_Game/",
     "https://steamdb.info/app/674940/"
   ],
-  "notes": "Steam shows Overwhelmingly Positive (95% of 112,799). SteamDB shows 92.23% positive; strong consensus.",
-  "raw_comment": "Hidden object. Co-op or vs. 17 local players. 17 players = 12 gamepads + 4 keyb. players +1 mouse. \ud83c\udfae SteamInput off: 8 PS4, 0 PS5, 4 XBox. SteamInput On (gamepad profile): 4 PS4/PS5/XBox. \ud83d\udda5\ufe0fShared",
+  "notes": "Steam shows Overwhelmingly Positive (95% of 112,799). SteamDB shows 92.23% positive; strong consensus. Play mode inferred from description.",
+  "raw_comment": "Hidden object. Co-op or vs. 17 local players. 17 players = 12 gamepads + 4 keyb. players +1 mouse. 🎮 SteamInput off: 8 PS4, 0 PS5, 4 XBox. SteamInput On (gamepad profile): 4 PS4/PS5/XBox. 🖥️Shared",
   "last_updated": "2025-12-29",
   "screen_mode": "unknown",
-  "play_mode": "unknown",
+  "play_mode": "simultaneous",
   "input_methods": [
     "gamepad",
     "mouse"
@@ -25,7 +25,7 @@
   "split_screen": false,
   "separate_screens": false,
   "turn_based": false,
-  "simultaneous": false,
+  "simultaneous": true,
   "review_count": null,
   "popularity_score_100": 60
 }

@@ -7,23 +7,22 @@
     "SteamVR"
   ],
   "review_sources": [
-    "https://store.steampowered.com/app/1031830/Constructionary/",
     "https://steamdb.info/app/1031830/"
   ],
-  "notes": "Very small review sample; score kept low\u2011mid 50s pending more data.",
+  "notes": "SteamDB lists VR Only, Shared/Split Screen PvP/Co-op, and 3 user reviews. Play mode inferred from description.",
   "raw_comment": "Similar to pictionary. 1 VR player is given a word and tries to create a model representing that word. An audience of any number can watch the screen and guess the word. 1 VR headset + 1 screen.",
   "last_updated": "2025-12-29",
-  "screen_mode": "unknown",
-  "play_mode": "unknown",
+  "screen_mode": "shared",
+  "play_mode": "simultaneous",
   "input_methods": [
     "vr"
   ],
   "requires_vr": true,
-  "shared_screen": false,
-  "split_screen": false,
+  "shared_screen": true,
+  "split_screen": true,
   "separate_screens": false,
   "turn_based": false,
-  "simultaneous": false,
-  "review_count": null,
+  "simultaneous": true,
+  "review_count": 3,
   "popularity_score_100": 40
 }
