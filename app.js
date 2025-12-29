@@ -26,7 +26,13 @@ const resultCount = el("resultCount");
 const totalCount = el("totalCount");
 const sortSelect = el("sort");
 
-const fetchJson = (url) => fetch(url).then((r) => r.json());
+const fetchJson = (url) =>
+  fetch(url).then((r) => {
+    if (!r.ok) {
+      throw new Error(`Failed to load ${url}: ${r.status}`);
+    }
+    return r.json();
+  });
 
 function normalizePlatforms(list = []) {
   return list.map((p) => p.trim()).filter(Boolean);
@@ -128,7 +134,7 @@ function render() {
 async function init() {
   const manifest = await fetchJson(manifestUrl);
   const files = manifest.files || [];
-  const data = await Promise.all(files.map((file) => fetchJson(file)));
+  const data = await Promise.all(files.map((file) => fetchJson(encodeURI(file))));
 
   data.forEach((game) => {
     game.platforms = normalizePlatforms(game.platforms);
