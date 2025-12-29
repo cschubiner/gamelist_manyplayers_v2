@@ -16,7 +16,9 @@ This repo contains per‑game review summaries for local multiplayer titles list
 
 ## Visualizer
 
-Once GitHub Pages is enabled for the repo, open `index.html` from the repo root in your browser to use the visualizer. On GitHub Pages, it will be available at the repository Pages URL.
+[**Open the Visualizer**](https://cschubiner.github.io/gamelist_manyplayers_v2/)
+
+Once GitHub Pages is enabled for the repo, open `index.html` from the repo root in your browser to use the visualizer.
 
 ## Method
 
