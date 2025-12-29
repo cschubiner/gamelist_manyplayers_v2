@@ -1,0 +1,18 @@
+{
+  "title": "Verse Surf",
+  "review_score_100": 66,
+  "max_players": 8,
+  "platforms": [
+    "Windows",
+    "macOS",
+    "Linux",
+    "PC"
+  ],
+  "review_sources": [
+    "https://steamdb.info/app/1315390/",
+    "https://www.metacritic.com/game/verse-surf/"
+  ],
+  "notes": "Score blends SteamDB 68.30% positive (47 reviews) with no critic/user scores on Metacritic; small sample lowers confidence.",
+  "raw_comment": "Everyone listens to a verse, makes up a lyric for the missing word and hope someone votes for their lyric. 8 players. Phones/tablets/browsers as controllers.",
+  "last_updated": "2025-12-29"
+}

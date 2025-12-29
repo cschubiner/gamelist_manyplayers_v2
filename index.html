@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Local Multiplayer Game Explorer</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Fraunces:opsz,wght@9..144,400;9..144,600&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="hero">
+      <div class="hero-inner">
+        <p class="eyebrow">Local Multiplayer Database</p>
+        <h1>Find the right party game fast</h1>
+        <p class="subhead">Filter by platforms, player count, and review score. Built for couch chaos and mega-group nights.</p>
+      </div>
+    </header>
+
+    <main class="app">
+      <section class="controls">
+        <div class="control-group">
+          <label for="search">Search</label>
+          <input id="search" type="search" placeholder="Search by title..." />
+        </div>
+
+        <div class="control-group">
+          <label for="scoreRange">Score (min)</label>
+          <input id="scoreRange" type="range" min="0" max="100" value="0" />
+          <div class="range-value"><span id="scoreValue">0</span>+</div>
+        </div>
+
+        <div class="control-group">
+          <label for="playersRange">Max players (min)</label>
+          <input id="playersRange" type="range" min="1" max="60" value="1" />
+          <div class="range-value"><span id="playersValue">1</span>+</div>
+        </div>
+
+        <div class="control-group">
+          <label>Platforms</label>
+          <div id="platforms" class="chip-list"></div>
+        </div>
+
+        <div class="control-group">
+          <label for="sort">Sort</label>
+          <select id="sort">
+            <option value="score_desc">Score (high → low)</option>
+            <option value="players_desc">Max players (high → low)</option>
+            <option value="title_asc">Title (A → Z)</option>
+          </select>
+        </div>
+
+        <div class="control-group inline">
+          <label class="toggle">
+            <input id="viewToggle" type="checkbox" />
+            <span>Table view</span>
+          </label>
+        </div>
+      </section>
+
+      <section class="stats">
+        <div class="stat">
+          <div class="stat-value" id="resultCount">0</div>
+          <div class="stat-label">Games shown</div>
+        </div>
+        <div class="stat">
+          <div class="stat-value" id="totalCount">0</div>
+          <div class="stat-label">Total games</div>
+        </div>
+      </section>
+
+      <section id="results" class="grid"></section>
+
+      <section id="table" class="table hidden">
+        <table>
+          <thead>
+            <tr>
+              <th>Title</th>
+              <th>Score</th>
+              <th>Max players</th>
+              <th>Platforms</th>
+            </tr>
+          </thead>
+          <tbody id="tableBody"></tbody>
+        </table>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <p>Data sources: Steam, SteamDB, Metacritic, Steambase, and other storefronts as referenced per game.</p>
+    </footer>
+
+    <script src="app.js"></script>
+  </body>
+</html>

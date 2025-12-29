@@ -1,0 +1,17 @@
+{
+  "title": "Askutron Quiz Show",
+  "review_score_100": 55,
+  "max_players": 8,
+  "platforms": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "review_sources": [
+    "https://store.steampowered.com/app/701280/Askutron_Quiz_Show/",
+    "https://lutris.net/games/askutron-quiz-show/"
+  ],
+  "notes": "Steam reviews are Mixed (58% of 17). No critic coverage found; small sample keeps score modest.",
+  "raw_comment": "Trivia game. Ability to create own questions. Up to 8 players. 8 Gamepads supported and mobile controllers as well. Same screen.",
+  "last_updated": "2025-12-29"
+}
