@@ -175,6 +175,16 @@ h1 {
   font-size: 1.1rem;
 }
 
+.card h3 a {
+  color: var(--ink);
+  text-decoration: none;
+}
+
+.card h3 a:hover {
+  color: var(--accent);
+  text-decoration: underline;
+}
+
 .meta {
   display: flex;
   gap: 10px;
@@ -188,6 +198,11 @@ h1 {
   border-radius: 10px;
   background: var(--bg-accent);
   font-weight: 600;
+}
+
+.badge.players-badge {
+  background: var(--accent);
+  color: #fff;
 }
 
 .card p {
@@ -260,6 +275,16 @@ h1 {
   padding: 10px 8px;
   border-bottom: 1px solid var(--border);
   font-size: 0.9rem;
+}
+
+.table td a {
+  color: var(--ink);
+  text-decoration: none;
+}
+
+.table td a:hover {
+  color: var(--accent);
+  text-decoration: underline;
 }
 
 .hidden {

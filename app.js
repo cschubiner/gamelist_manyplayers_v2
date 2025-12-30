@@ -191,12 +191,16 @@ function render() {
   state.filtered.forEach((game) => {
     const card = document.createElement("article");
     card.className = "card";
+    const steamUrl = (game.review_sources || []).find(src => src.includes("store.steampowered.com"));
+    const titleHtml = steamUrl
+      ? `<a href="${steamUrl}" target="_blank" rel="noopener">${game.title ?? "Untitled"}</a>`
+      : (game.title ?? "Untitled");
     card.innerHTML = `
-      <h3>${game.title ?? "Untitled"}</h3>
+      <h3>${titleHtml}</h3>
       <div class="meta">
+        <span class="badge players-badge">${game.max_players ?? "?"} players</span>
         <span class="badge">Score ${game.review_score_100 ?? "?"}</span>
         <span class="badge">Popularity ${game.popularity_score_100 ?? "?"}</span>
-        <span>Max players: ${game.max_players ?? "?"}</span>
         <span>Reviews: ${game.review_count ?? "?"}</span>
       </div>
       <div class="meta">${(game.platforms || []).join(", ")}</div>
@@ -210,6 +214,7 @@ function render() {
       ${game.notes ? `<p class="notes">${game.notes}</p>` : ""}
       <div class="links">
         ${(game.review_sources || [])
+          .filter(src => !src.includes("store.steampowered.com"))
           .map((src) => `<a href="${src}" target="_blank" rel="noopener">Source</a>`)
           .join(" ")}
       </div>
@@ -218,8 +223,11 @@ function render() {
     results.appendChild(card);
 
     const row = document.createElement("tr");
+    const tableTitleHtml = steamUrl
+      ? `<a href="${steamUrl}" target="_blank" rel="noopener">${game.title ?? "Untitled"}</a>`
+      : (game.title ?? "Untitled");
     row.innerHTML = `
-      <td>${game.title ?? "Untitled"}</td>
+      <td>${tableTitleHtml}</td>
       <td>${game.review_score_100 ?? "?"}</td>
       <td>${game.popularity_score_100 ?? "?"}</td>
       <td>${game.max_players ?? "?"}</td>
